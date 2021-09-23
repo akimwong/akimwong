@@ -1,7 +1,7 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Carlos Wong, a passionate about new technologies. <br/>
-Allways ready to explore the possibilities offered by big data and cloud computing for business.
+Hi, my name is Carlos Wong, I'm passionate about new technologies. <br/>
+Always ready to explore the possibilities offered by big data and cloud computing for business.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
