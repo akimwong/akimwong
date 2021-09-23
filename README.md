@@ -3,7 +3,7 @@
 Hi, my name is Carlos Wong, I'm passionate about new technologies <br/>
 I'm always ready to explore the advantages that big data and cloud computing offer for business
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 **Languages and tools:**  
 
