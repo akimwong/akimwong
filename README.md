@@ -21,7 +21,7 @@ I'm ready to explore the advantages that big data and cloud computing offer for 
 <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
-- [See my LinkedIn profile where I post my professional experience](https://www.linkedin.com/in/carlos-wong-306baa9/)  
+[See my LinkedIn profile where I post my professional experience](https://www.linkedin.com/in/carlos-wong-306baa9/)  
   
 <!--
 **akimwong/akimwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
