@@ -23,6 +23,8 @@ I'm ready to explore the advantages that big data and cloud computing offer for 
 <!--
 **akimwong/akimwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- [See my LinkedIn profile where I post my professional experience](https://www.linkedin.com/in/carlos-wong-306baa9/)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
