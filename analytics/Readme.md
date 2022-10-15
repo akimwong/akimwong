@@ -6,6 +6,6 @@ After reading and watching the following documentation:
 2. The System Thinker
 3. Maxims for Thinking Analytically
 
-### My own analytical process is the next one:
+#### My own analytical process is the next one:
 
 
