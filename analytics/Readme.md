@@ -1,1 +1,1 @@
-## What is Analytical Thinking
+## What is Analytical Thinking ### (for me)
