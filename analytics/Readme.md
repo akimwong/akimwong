@@ -22,6 +22,8 @@ According STEP 1, select the right...
 - Method <- Why?
 
 ***STEP 3:*** **IMPLEMENT** <br/>
+
+Your selected..
 - Tool       
 - Technique  
 - Method
