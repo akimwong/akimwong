@@ -14,8 +14,9 @@ Is basically related to PROBLEM SOLVING.<br/>
 ***STEP 1:*** **IDENTIFY/DEFINE** the problem and **TYPE** of problem (enough)
 
 ***STEP 2:*** **APPROACH** How to solve? <br/>
+
 **SELECT**
-- Tools        <---- Why?
+- Tools           <---- Why?
 - Techniques   <---- Why?
 - Methods      <---- Why?
 
