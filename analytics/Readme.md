@@ -15,10 +15,10 @@ Is basically related to PROBLEM SOLVING.<br/>
 
 ***STEP 2:*** **APPROACH** How to solve? <br/>
 
-**SELECT**
-- Tools           <---- Why?
-- Techniques   <---- Why?
-- Methods      <---- Why?
+SELECT:
+- Tools <- Why?
+- Techniques <- Why?
+- Methods <- Why?
 
 ***STEP 3:*** **IMPLEMENT** <br/>
 - Tools       
