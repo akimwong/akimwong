@@ -21,9 +21,9 @@ SELECT:
 - Method <- Why?
 
 ***STEP 3:*** **IMPLEMENT** <br/>
-- Tools       
-- Techniques  
-- Methods  
+- Tool       
+- Technique  
+- Method
 
 ***STEP 4:*** **SOLVE + EVALUATE** <br/>
 - OK? (end)
