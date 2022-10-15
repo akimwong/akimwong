@@ -16,9 +16,9 @@ Is basically related to PROBLEM SOLVING.<br/>
 ***STEP 2:*** **APPROACH** How to solve? <br/>
 
 SELECT:
-- Tools <- Why?
-- Techniques <- Why?
-- Methods <- Why?
+- Tool <- Why?
+- Technique <- Why?
+- Method <- Why?
 
 ***STEP 3:*** **IMPLEMENT** <br/>
 - Tools       
@@ -27,4 +27,4 @@ SELECT:
 
 ***STEP 4:*** **SOLVE + EVALUATE** <br/>
 - OK? (end)
-- KO? (check STEP 1, 2 and 3)
+- KO? (check STEPS 1, 2 and 3)
