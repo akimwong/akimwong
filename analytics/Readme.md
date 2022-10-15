@@ -28,6 +28,6 @@ Your selected..
 - Technique  
 - Method
 
-***STEP 4:*** **SOLVE + EVALUATE** <br/>
+***STEP 4:*** **SOLVE the problem + EVALUATE** <br/>
 - OK? -> End
 - KO? -> Check STEPS 1, 2 and 3
