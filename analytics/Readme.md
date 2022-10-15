@@ -1,1 +1,2 @@
-## What is Analytical Thinking
+## What is Analytical Thinking?
+Before to review the next documentation:
