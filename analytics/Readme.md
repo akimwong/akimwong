@@ -26,5 +26,5 @@ SELECT:
 - Method
 
 ***STEP 4:*** **SOLVE + EVALUATE** <br/>
-- OK? (end)
-- KO? (check STEPS 1, 2 and 3)
+- OK? -> End
+- KO? -> Check STEPS 1, 2 and 3
