@@ -1,7 +1,7 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, my name is Carlos Wong,<br/>
-I am focused on continuous developing an analytical mind with the help of data science tools, techniques and methods, to solve business problems and try to predict the future.
+I am focused on continuous developing an [analytical mind] [The Datasets (!)](Journey/001) with the help of data science tools, techniques and methods, to solve business problems and try to predict the future.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" />
 
