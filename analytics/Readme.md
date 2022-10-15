@@ -11,6 +11,6 @@ Is basically related to PROBLEM SOLVING.<br/>
 
 #### ... my own analytical process definition is the next one:
 
-## STEP 1: IDENTIFY/DEFINE the problem and TYPE of problem (enough)
+STEP 1: **IDENTIFY/DEFINE** the problem and TYPE of problem (enough)
 
 
