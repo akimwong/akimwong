@@ -15,7 +15,7 @@ Is basically related to PROBLEM SOLVING.<br/>
 
 ***STEP 2:*** **APPROACH** How to solve? <br/>
 
-SELECT:
+Select the right:
 - Tool <- Why?
 - Technique <- Why?
 - Method <- Why?
