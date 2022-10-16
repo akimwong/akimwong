@@ -23,7 +23,7 @@ According STEP 1, select the right...
 
 ***STEP 3:*** **IMPLEMENT** <br/>
 
-Your selected..
+Your selected:
 - Tool       
 - Technique  
 - Method
