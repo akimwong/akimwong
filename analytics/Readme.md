@@ -10,7 +10,7 @@ Is basically related to PROBLEM SOLVING.<br/>
 5. [Analytical Thinking in 4 Steps](https://www.youtube.com/watch?v=uV18HsZRdk0) (video)
 6. [4 steps of Analytical Thinking](https://www.youtube.com/watch?v=oU_OQ_jV_80&t=1s) (video)
 
-#### ... the analytical methodology I used to follow is:
+#### ... the analytical methodology I decided to use is the follow:
 
 ***STEP 1:*** **IDENTIFY/DEFINE** the problem and **TYPE** of problem (enough)
 
