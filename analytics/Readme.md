@@ -17,7 +17,7 @@ Is basically related to PROBLEM SOLVING.<br/>
 ***STEP 2:*** **APPROACH** How to solve it? <br/>
 
 According STEP 1, select the right...
-- [Method](/Method) <- Why?
+- [Method](/Methods) <- Why?
 - Technique <- Why?
 - Tool <- Why?
 
