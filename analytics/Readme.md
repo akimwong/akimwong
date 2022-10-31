@@ -17,16 +17,16 @@ Is basically related to PROBLEM SOLVING.<br/>
 ***STEP 2:*** **APPROACH** How to solve it? <br/>
 
 According STEP 1, select the right...
-- Tool <- Why?
-- Technique <- Why?
 - Method <- Why?
+- Technique <- Why?
+- Tool <- Why?
 
 ***STEP 3:*** **IMPLEMENT** <br/>
 
 Your selected:
-- Tool       
-- Technique  
 - Method
+- Technique  
+- Tool       
 
 ***STEP 4:*** **SOLVE the problem + EVALUATE** <br/>
 - OK? -> End
