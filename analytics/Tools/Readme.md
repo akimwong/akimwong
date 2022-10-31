@@ -15,7 +15,12 @@ Tool is equipment that is used to APPLY that technique to perform a task.
 - NLTK
 - Scikit-Learn
 - TensorFlow
+- Dataiku
+- H2O
+- Matlab
+- Cloud (Amazon SageMaker, Google Cloud AutoML, Azure Machine Learning Studio)
 5. Data Visualization
-- ggplot2 (R)
 - Tableau
+- PowerBI
 - Matplotlib (Python)
+- ggplot2 (R)
