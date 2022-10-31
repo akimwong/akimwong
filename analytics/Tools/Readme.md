@@ -5,8 +5,8 @@ Tool is equipment that is used to APPLY that technique to perform a task.
 - SQL
 - NoSQL (MongoDB, )
 3. Exploratory Data Analysis
-- Python
-- R
+- Python (Pandas, Numpy)
+- R (H2O, 
 - Big Query
 4. Data Modeling
 - Excel
@@ -16,7 +16,6 @@ Tool is equipment that is used to APPLY that technique to perform a task.
 - Scikit-Learn
 - TensorFlow
 - Dataiku
-- H2O
 - Matlab
 - Cloud (Amazon SageMaker, Google Cloud AutoML, Azure Machine Learning Studio)
 5. Data Visualization
