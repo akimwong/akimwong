@@ -2,7 +2,7 @@
 Is the estrategy employed in the collection of data or evidence for analysis to uncover new information or arrive at a better understanding of a particular topic.
 
 #### Research methodology
-Is the justification for using a particular research method.
+Is the justification (or explanation) for using a particular research method.
 
 
 1. Qualitative data analysis
