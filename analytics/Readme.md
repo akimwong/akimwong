@@ -18,8 +18,8 @@ Is basically related to PROBLEM SOLVING.<br/>
 
 According STEP 1, select the right...
 - [Method](Methods/) <- Why?
-- Technique <- Why?
-- Tool <- Why?
+- [Technique](Techniques/) <- Why?
+- [Tool](Tools/) <- Why?
 
 ***STEP 3:*** **IMPLEMENT** <br/>
 
