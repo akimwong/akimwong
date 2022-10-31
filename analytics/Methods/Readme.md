@@ -1,4 +1,9 @@
-Serves to identify the context of your data science story. Starting with the end in mind is one way to glean some guidance — you must know where you are headed in order to take the appropriate steps along the way.
+#### Research method
+Is the estrategy employed in the collection of data or evidence for analysis to uncover new information or arrive at a better understanding of a particular topic.
+
+#### Research methodology
+Is the justification for using a particular research method.
+
 
 1. Qualitative data analysis
 2. Quantitative data analysis
