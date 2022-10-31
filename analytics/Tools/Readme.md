@@ -1,10 +1,21 @@
 
-Tool is equipment that is used to apply that technique to perform a task.
+Tool is equipment that is used to APPLY that technique to perform a task.
 
 1. Data Storage
-2. Exploratory Data Analysis
-3. Data Modelling
-4. Data Visualization
-- ggplot2
+- SQL
+- NoSQL (MongoDB, )
+3. Exploratory Data Analysis
+- Python
+- R
+- Big Query
+4. Data Modeling
+- Excel
+- Spark
+- SAS
+- NLTK
+- Scikit-Learn
+- TensorFlow
+5. Data Visualization
+- ggplot2 (R)
 - Tableau
-- Matplotlib
+- Matplotlib (Python)
