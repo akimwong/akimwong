@@ -1,8 +1,7 @@
 
 Techniques are a set of procedures that are followed to perform a task
 
-- Probability and Statistics
-- Distribution
+- Probability and Statistics Distribution
 - Regression analysis
 - Descriptive statistics
 - Inferential statistics
@@ -10,6 +9,7 @@ Techniques are a set of procedures that are followed to perform a task
 - Hypothesis testing
 - Linear Regression
 - Logistic Regression
+- Time Series
 - Neural Networks
 - K-Means clustering
 - Decision Trees
