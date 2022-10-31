@@ -7,3 +7,4 @@ Tool is equipment that is used to apply that technique to perform a task.
 4. Data Visualization
 - ggplot2
 - Tableau
+- Matplotlib
