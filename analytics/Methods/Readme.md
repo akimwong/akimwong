@@ -8,4 +8,9 @@ Is the estrategy employed in the collection of data or evidence for analysis to 
 #### Type of methods:
 1. Qualitative data analysis
 2. Quantitative data analysis
-3. Time Series (Autoregressive (AR) models, the Moving Average (MA) models, the Autoregressive Moving Average (ARMA), and Autoregressive Integrated Moving Average (ARIMA)).
+3. Text analysis
+4. Statistical analysis
+5. Prescriptive analysis
+6. Diagnostic analysis
+7. Predictive analysis
+8. Time series analysis
