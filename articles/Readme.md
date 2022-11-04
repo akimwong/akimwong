@@ -1,5 +1,6 @@
 ### Coding
 - [How to Write Good Code Documentation for Data Scientists](https://towardsdatascience.com/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)
+- [Good Data Scientists Write Good Code](https://towardsdatascience.com/good-data-scientists-write-good-code-28352a826d1f)
 
 ### Storytelling
 - [8 Tips for Creating a Compelling Presentation for Data Science](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0)
