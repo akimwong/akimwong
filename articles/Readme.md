@@ -27,3 +27,4 @@
 
 ### Statistics
 - [3 Most Common Misinterpretations: Hypothesis Testing, Confidence Interval, P-Value](https://towardsdatascience.com/the-most-common-misinterpretations-hypothesis-testing-confidence-interval-p-value-4548a10a5b72)
+- [Simple Explanations of Basic Statistics Concepts (Part 1)](https://towardsdatascience.com/simple-explanations-of-basic-statistics-concepts-part-1-bba66a1761d7)
