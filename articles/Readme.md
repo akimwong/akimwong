@@ -1,6 +1,9 @@
 ### Coding
 - [How to Write Good Code Documentation for Data Scientists](https://towardsdatascience.com/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)
 
+### Storytelling
+- [8 Tips for Creating a Compelling Presentation for Data Science](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0)
+
 ### Data science
 - [Why Data Governance Matters: Master Data Management (MDM)](https://towardsdatascience.com/why-data-governance-matters-master-data-management-mdm-5d9af0f64573)
 - [These are the Steps You Need to Take to Create a Good Data Science Product](https://towardsdatascience.com/these-are-the-steps-you-need-to-take-to-create-a-good-data-science-product-697b22d335c5)
