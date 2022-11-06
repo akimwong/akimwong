@@ -22,8 +22,12 @@
 ### Decission Making
 - [Types of Algorithms in Decision Making](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
 
+### Data Analytics
+- 
+
 ### Cheat Sheets
 - [Machine Learning/Data Science Interview](https://drive.google.com/file/d/1nbNWs_DyfG0YGMs3DjIaXrD7ytSnsSJ7/view?_hsenc=p2ANqtz-__AJFM3JfYyM2d8eVGHe6P2SttQ0ktDpiHs3q_PNS788VbINkFeJhSGet2jPmtnyECvyjZ&hss_channel=tw-1318985240)
+- [Posit Cheatsheets (R)](https://posit.co/resources/cheatsheets/?_page=1/)
 
 
 ### Statistics
@@ -32,8 +36,9 @@
 - [Chi-square Test — How to calculate Chi-square using Formula & Python Implementation](https://towardsdatascience.com/chi-square-test-how-to-calculate-chi-square-using-formula-python-implementation-6da203f96569)
 - [Standard Deviation vs Standard Error: What’s the Difference?](https://towardsdatascience.com/standard-deviation-vs-standard-error-whats-the-difference-ae969f48adef)
 
-
-
+### Jobs
+- [The Three Trending Data Science Jobs and How to Land Them](https://opendatascience.com/the-three-trending-data-science-jobs-and-how-to-land-them/)
+- [5 Reasons Why Every Data Scientist Should Consider Freelancing](https://towardsdatascience.com/5-reasons-why-every-data-scientist-should-consider-freelancing-42ad24fad3e)
 
 
 
