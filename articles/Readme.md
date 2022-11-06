@@ -41,5 +41,6 @@
 - [5 Reasons Why Every Data Scientist Should Consider Freelancing](https://towardsdatascience.com/5-reasons-why-every-data-scientist-should-consider-freelancing-42ad24fad3e)
 
 
-
+"The true purpose of forecasting is not just to predict the future, but rather to tell you what actions to take in the present.
+All of your forecasting tools should be built with that in mind."  @marktenenholtz
 
