@@ -23,6 +23,7 @@
 - [11 data science skills for machine learning and AI](https://www.techtarget.com/searchenterpriseai/tip/11-data-science-skills-for-machine-learning-and-AI)
 - [How to Start Your First Data Science Project When You’re a Beginner](https://towardsdatascience.com/how-to-start-your-first-data-science-project-when-youre-a-beginner-9bf3dc1160c)
 - [How to Become a More Efficient Data Scientist](https://towardsdatascience.com/how-to-become-a-more-efficient-data-scientist-357df86cda4d)
+- [5 Tips That Will Help You Become a Data Science Manager](https://towardsdatascience.com/5-tips-that-will-help-you-become-a-data-science-manager-bd4b6981c024)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
@@ -30,6 +31,7 @@
 - [The Machine Learning cheatsheet](https://github.com/remicnrd/ml_cheatsheet)
 - [Common Reasons why Machine Learning Projects Fail](https://towardsdatascience.com/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
 - [In Search of the Perfect Machine Learning Model](https://towardsdatascience.com/in-search-of-the-perfect-machine-learning-model-cf4e97b95e64)
+- [Want to Succeed Doing ML in the Real World?](https://towardsdatascience.com/want-to-succeed-doing-ml-in-the-real-world-d2db790612f1)
 
 ### Decission Making
 - [Types of Algorithms in Decision Making](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
