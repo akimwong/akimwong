@@ -24,6 +24,7 @@
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
 - [Maturity of Machine Learning Systems](https://towardsdatascience.com/maturity-of-machine-learning-systems-358bab34bf69)
 - [The Machine Learning cheatsheet](https://github.com/remicnrd/ml_cheatsheet)
+- [Common Reasons why Machine Learning Projects Fail](https://towardsdatascience.com/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
 
 ### Decission Making
 - [Types of Algorithms in Decision Making](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
