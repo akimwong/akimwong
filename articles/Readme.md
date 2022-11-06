@@ -2,6 +2,7 @@
 - [How to Write Good Code Documentation for Data Scientists](https://towardsdatascience.com/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)
 - [Good Data Scientists Write Good Code](https://towardsdatascience.com/good-data-scientists-write-good-code-28352a826d1f)
 - [10 Easy Tips to Write Code Like a Pro](https://towardsdatascience.com/how-to-write-code-like-a-pro-659760804724)
+- [Retos de programación semanales](https://retosdeprogramacion.com/semanales2022)
 
 ### Storytelling
 - [8 Tips for Creating a Compelling Presentation for Data Science](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0)
