@@ -43,6 +43,8 @@
 ### Jobs
 - [The Three Trending Data Science Jobs and How to Land Them](https://opendatascience.com/the-three-trending-data-science-jobs-and-how-to-land-them/)
 - [5 Reasons Why Every Data Scientist Should Consider Freelancing](https://towardsdatascience.com/5-reasons-why-every-data-scientist-should-consider-freelancing-42ad24fad3e)
+- [Top Mistakes to Avoid in Your 2022 Data Science Job Search](https://towardsdatascience.com/top-mistakes-to-avoid-in-your-2022-data-science-job-search-89788701c6d9)
+
 
 
 
