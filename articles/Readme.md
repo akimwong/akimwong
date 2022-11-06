@@ -14,6 +14,7 @@
 - [Data Science and the Art of Persuasion](https://hbr.org/2019/01/data-science-and-the-art-of-persuasion?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 
 ### Data science
+- [Understanding the Business: The Data Science Skill We Don’t Talk About Enough](https://towardsdatascience.com/the-data-science-skill-no-one-talks-about-57d5d3e9f9d)
 - [Why Data Governance Matters: Master Data Management (MDM)](https://towardsdatascience.com/why-data-governance-matters-master-data-management-mdm-5d9af0f64573)
 - [These are the Steps You Need to Take to Create a Good Data Science Product](https://towardsdatascience.com/these-are-the-steps-you-need-to-take-to-create-a-good-data-science-product-697b22d335c5)
 - [5 Simple Tips to Help You Future-Proof Yourself as a Data Scientist](https://towardsdatascience.com/5-simple-tips-to-help-you-future-proof-yourself-as-a-data-scientist-8b34479e5aad)
