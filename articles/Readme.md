@@ -22,6 +22,7 @@
 - [Step-by-step Approach of Building Data Pipelines as a Data Scientist or a Machine Learning Engineer](https://towardsdatascience.com/step-by-step-approach-of-building-data-pipelines-as-a-data-scientist-or-a-machine-learning-engineer-4b3e8da3bcd1)
 - [11 data science skills for machine learning and AI](https://www.techtarget.com/searchenterpriseai/tip/11-data-science-skills-for-machine-learning-and-AI)
 - [How to Start Your First Data Science Project When You’re a Beginner](https://towardsdatascience.com/how-to-start-your-first-data-science-project-when-youre-a-beginner-9bf3dc1160c)
+- [How to Become a More Efficient Data Scientist](https://towardsdatascience.com/how-to-become-a-more-efficient-data-scientist-357df86cda4d)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
