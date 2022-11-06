@@ -4,6 +4,7 @@
 - [10 Easy Tips to Write Code Like a Pro](https://towardsdatascience.com/how-to-write-code-like-a-pro-659760804724)
 - [Writing-Clean-Python-Code](https://github.com/PacktPublishing/Writing-Clean-Python-Code)
 - [Retos de programación semanales](https://retosdeprogramacion.com/semanales2022)
+- [How to Write High-Quality Python as a Data Scientist](https://towardsdatascience.com/how-to-write-high-quality-python-as-a-data-scientist-cde99f582675)
 
 ### Storytelling
 - [8 Tips for Creating a Compelling Presentation for Data Science](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0)
