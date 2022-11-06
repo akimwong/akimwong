@@ -1,4 +1,5 @@
 ### Coding
+- [3 Powerful Reasons You Should Plan Your Python Code Before You Write It](https://towardsdatascience.com/3-powerful-reasons-you-should-plan-your-python-code-before-you-write-it-dcedd4b3bf28)
 - [How to Write Good Code Documentation for Data Scientists](https://towardsdatascience.com/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)
 - [Good Data Scientists Write Good Code](https://towardsdatascience.com/good-data-scientists-write-good-code-28352a826d1f)
 - [10 Easy Tips to Write Code Like a Pro](https://towardsdatascience.com/how-to-write-code-like-a-pro-659760804724)
