@@ -47,6 +47,7 @@
 - [Top Mistakes to Avoid in Your 2022 Data Science Job Search](https://towardsdatascience.com/top-mistakes-to-avoid-in-your-2022-data-science-job-search-89788701c6d9)
 - [How to Create a Professional Portfolio on GitHub That Will Help Land Your First Job in Data Science](https://towardsdatascience.com/how-to-create-a-professional-portfolio-on-github-that-will-help-land-your-first-job-in-data-science-e1fc8bd7a797)
 - [Questions to Help You Practice for Your Data Science Interview](https://towardsdatascience.com/questions-to-help-you-practice-for-your-data-science-interview-c619ab6db70b)
+- [Python Practice Questions for Coding Interviews](https://amankharwal.medium.com/python-practice-questions-for-beginners-268fcdfb14e6)
 
 
 
