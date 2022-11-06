@@ -36,6 +36,7 @@
 - [Want to Succeed Doing ML in the Real World?](https://towardsdatascience.com/want-to-succeed-doing-ml-in-the-real-world-d2db790612f1)
 - [Top 5 Machine Learning Practices Recommended by Experts](https://www.kdnuggets.com/2022/09/top-5-machine-learning-practices-recommended-experts.html)
 - [Feedback Loops in Machine Learning Systems](https://towardsdatascience.com/feedback-loops-in-machine-learning-systems-701296c91787)
+- [Writing Robust Tests for Data & Machine Learning Pipelines](https://eugeneyan.com/writing/testing-pipelines/)
 
 ### Decission Making
 - [Types of Algorithms in Decision Making](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
