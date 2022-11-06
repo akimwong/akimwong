@@ -1,2 +1,3 @@
 - [10 must read Data Analytics books](https://www.ironhack.com/us/en/blog/10-must-read-data-analytics-books)
 - [Analytical Excellence Is All about Speed](https://towardsdatascience.com/analytical-excellence-is-all-about-speed-6881c848c09c)
+- [What is Data Analysis? Methods, Techniques & Tools](https://hackr.io/blog/what-is-data-analysis-methods-techniques-tools)
