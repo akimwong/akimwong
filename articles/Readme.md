@@ -31,7 +31,7 @@
 - [Types of Algorithms in Decision Making](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
 
 ### Data Analytics
-- 
+- [5 Things I *Actually* Work on as a Data Analyst in 2022](https://towardsdatascience.com/5-things-i-actually-work-on-as-a-data-analyst-in-2022-9e31df929fcb)
 
 ### Cheat Sheets
 - [Machine Learning/Data Science Interview](https://drive.google.com/file/d/1nbNWs_DyfG0YGMs3DjIaXrD7ytSnsSJ7/view?_hsenc=p2ANqtz-__AJFM3JfYyM2d8eVGHe6P2SttQ0ktDpiHs3q_PNS788VbINkFeJhSGet2jPmtnyECvyjZ&hss_channel=tw-1318985240)
