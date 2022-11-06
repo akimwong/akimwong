@@ -42,6 +42,7 @@
 - [Simple Explanations of Basic Statistics Concepts (Part 1)](https://towardsdatascience.com/simple-explanations-of-basic-statistics-concepts-part-1-bba66a1761d7)
 - [Chi-square Test — How to calculate Chi-square using Formula & Python Implementation](https://towardsdatascience.com/chi-square-test-how-to-calculate-chi-square-using-formula-python-implementation-6da203f96569)
 - [Standard Deviation vs Standard Error: What’s the Difference?](https://towardsdatascience.com/standard-deviation-vs-standard-error-whats-the-difference-ae969f48adef)
+- [Learnt Harmonic Mean Estimator for Bayesian Model Selection](https://towardsdatascience.com/learnt-harmonic-mean-estimator-for-bayesian-model-selection-47258bb0fc2e)
 
 ### Jobs
 - [The Three Trending Data Science Jobs and How to Land Them](https://opendatascience.com/the-three-trending-data-science-jobs-and-how-to-land-them/)
