@@ -26,6 +26,7 @@
 - [How to Become a More Efficient Data Scientist](https://towardsdatascience.com/how-to-become-a-more-efficient-data-scientist-357df86cda4d)
 - [5 Tips That Will Help You Become a Data Science Manager](https://towardsdatascience.com/5-tips-that-will-help-you-become-a-data-science-manager-bd4b6981c024)
 - [The 5-Step Data Science Project Life Cycle You Need to Be an Effective Data Scientist](https://towardsdatascience.com/the-5-step-data-science-project-life-cycle-you-need-to-be-an-effective-data-scientist-9343684b96cf)
+- [Handling Criticism at Work as a Data Scientist](https://towardsdatascience.com/handling-criticism-at-work-as-a-data-scientist-a1ae74c4f07d)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
@@ -67,6 +68,7 @@
 - [How to Create a Professional Portfolio on GitHub That Will Help Land Your First Job in Data Science](https://towardsdatascience.com/how-to-create-a-professional-portfolio-on-github-that-will-help-land-your-first-job-in-data-science-e1fc8bd7a797)
 - [Questions to Help You Practice for Your Data Science Interview](https://towardsdatascience.com/questions-to-help-you-practice-for-your-data-science-interview-c619ab6db70b)
 - [Python Practice Questions for Coding Interviews](https://amankharwal.medium.com/python-practice-questions-for-beginners-268fcdfb14e6)
+- [Ace your Machine Learning Interview — Part 5](https://towardsdatascience.com/ace-your-machine-learning-interview-part-5-3de48703cd65)
 
 
 
