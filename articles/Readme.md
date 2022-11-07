@@ -39,6 +39,7 @@
 - [Feedback Loops in Machine Learning Systems](https://towardsdatascience.com/feedback-loops-in-machine-learning-systems-701296c91787)
 - [Writing Robust Tests for Data & Machine Learning Pipelines](https://eugeneyan.com/writing/testing-pipelines/)
 - [Nine Tools I Wish I Mastered before My PhD in Machine Learning](https://towardsdatascience.com/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0)
+- [5 Reasons Your ML Model Isn’t Making It to Production](https://towardsdatascience.com/5-reasons-your-ml-model-isnt-making-it-to-production-f6965f4e01ec)
 
 ### Decission Making
 - [Types of Algorithms in Decision Making](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
