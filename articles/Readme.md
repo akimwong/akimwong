@@ -75,6 +75,7 @@
 - [Questions to Help You Practice for Your Data Science Interview](https://towardsdatascience.com/questions-to-help-you-practice-for-your-data-science-interview-c619ab6db70b)
 - [Python Practice Questions for Coding Interviews](https://amankharwal.medium.com/python-practice-questions-for-beginners-268fcdfb14e6)
 - [Ace your Machine Learning Interview — Part 5](https://towardsdatascience.com/ace-your-machine-learning-interview-part-5-3de48703cd65)
+- [25 Advanced SQL Interview Questions for Data Scientists](https://www.kdnuggets.com/2022/10/25-advanced-sql-interview-questions-data-scientists.html)
 
 
 
