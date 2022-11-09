@@ -43,6 +43,7 @@
 - [Writing Robust Tests for Data & Machine Learning Pipelines](https://eugeneyan.com/writing/testing-pipelines/)
 - [Nine Tools I Wish I Mastered before My PhD in Machine Learning](https://towardsdatascience.com/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0)
 - [5 Reasons Your ML Model Isn’t Making It to Production](https://towardsdatascience.com/5-reasons-your-ml-model-isnt-making-it-to-production-f6965f4e01ec)
+- [Learn the Core of MLOps — Building Machine Learning (ML) Pipelines](https://towardsdatascience.com/learn-the-core-of-mlops-building-machine-learning-ml-pipelines-7242b77520b7)
 
 ### Decission Making
 - [Types of Algorithms in Decision Making](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
