@@ -28,6 +28,8 @@
 - [5 Tips That Will Help You Become a Data Science Manager](https://towardsdatascience.com/5-tips-that-will-help-you-become-a-data-science-manager-bd4b6981c024)
 - [The 5-Step Data Science Project Life Cycle You Need to Be an Effective Data Scientist](https://towardsdatascience.com/the-5-step-data-science-project-life-cycle-you-need-to-be-an-effective-data-scientist-9343684b96cf)
 - [Handling Criticism at Work as a Data Scientist](https://towardsdatascience.com/handling-criticism-at-work-as-a-data-scientist-a1ae74c4f07d)
+- [Data Science Soft Skills, Revisited](https://towardsdatascience.com/data-science-soft-skills-revisited-f82c7d8431b8)
+- [5 Quick and Easy Tips to Become an Efficient Data Scientist in Both Python and R](https://towardsdatascience.com/5-quick-and-easy-tips-to-become-an-efficient-data-scientist-in-both-python-and-r-5cf51f6396a3)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
@@ -48,6 +50,7 @@
 ### Data Analytics
 - [5 Things I *Actually* Work on as a Data Analyst in 2022](https://towardsdatascience.com/5-things-i-actually-work-on-as-a-data-analyst-in-2022-9e31df929fcb)
 - [Data analytics principles at an AI startup](https://towardsdatascience.com/data-analytics-principles-at-an-ai-startup-eebbdb208c55)
+- [10 Differences Between Amateurs and Professional Analysts](https://towardsdatascience.com/10-differences-between-amateurs-and-professional-analysts-3a1be1a06a4d)
 
 ### Cheat Sheets
 - [Machine Learning/Data Science Interview](https://drive.google.com/file/d/1nbNWs_DyfG0YGMs3DjIaXrD7ytSnsSJ7/view?_hsenc=p2ANqtz-__AJFM3JfYyM2d8eVGHe6P2SttQ0ktDpiHs3q_PNS788VbINkFeJhSGet2jPmtnyECvyjZ&hss_channel=tw-1318985240)
