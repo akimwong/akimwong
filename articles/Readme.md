@@ -80,6 +80,7 @@
 - [Ace your Machine Learning Interview — Part 5](https://towardsdatascience.com/ace-your-machine-learning-interview-part-5-3de48703cd65)
 - [25 Advanced SQL Interview Questions for Data Scientists](https://www.kdnuggets.com/2022/10/25-advanced-sql-interview-questions-data-scientists.html)
 - [20 Python Interview Questions To Challenge Your Knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
+- [From a Hiring Manager’s Perspective: What I Was Looking for in a Junior Data Scientist Role During the Interview](https://towardsdatascience.com/from-a-hiring-managers-perspective-what-i-was-looking-for-in-a-junior-data-scientist-role-during-18fe3579c6bd)
 
 
 
