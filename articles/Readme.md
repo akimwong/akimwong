@@ -69,6 +69,7 @@
 - [Learnt Harmonic Mean Estimator for Bayesian Model Selection](https://towardsdatascience.com/learnt-harmonic-mean-estimator-for-bayesian-model-selection-47258bb0fc2e)
 - [T-test and Hypothesis Testing (Explained Simply)](https://towardsdatascience.com/t-test-and-hypothesis-testing-explained-simply-1cff6358633e)
 - [Data Scientists Need to Know Just One Statistical Test](https://towardsdatascience.com/data-scientists-need-to-know-just-one-statistical-test-3115b2ff26fd)
+- [7 Most Asked Questions on Central Limit Theorem](https://towardsdatascience.com/machine-learning-algorithms-cheat-sheet-2f01d1d3aa37)
 
 ### Jobs
 - [The Three Trending Data Science Jobs and How to Land Them](https://opendatascience.com/the-three-trending-data-science-jobs-and-how-to-land-them/)
