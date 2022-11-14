@@ -46,6 +46,8 @@
 - [Learn the Core of MLOps — Building Machine Learning (ML) Pipelines](https://towardsdatascience.com/learn-the-core-of-mlops-building-machine-learning-ml-pipelines-7242b77520b7)
 - [Exploring the ML Tooling Landscape (Part 3 of 3)](https://towardsdatascience.com/exploring-the-ml-tooling-landscape-part-3-of-3-8e4480d04fe0)
 - [Machine Learning Algorithms Cheat Sheet](https://towardsdatascience.com/machine-learning-algorithms-cheat-sheet-2f01d1d3aa37)
+- [Customer Churn Prediction Using Machine Learning: Main Approaches and Models](https://www.kdnuggets.com/2019/05/churn-prediction-machine-learning.html)
+- [Lightweight Introduction to MLOps](https://towardsdatascience.com/lightweight-introduction-to-mlops-a77406cfcc68)
 
 ### Decission Making
 - [Types of Algorithms in Decision Making](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
@@ -55,6 +57,7 @@
 - [Data analytics principles at an AI startup](https://towardsdatascience.com/data-analytics-principles-at-an-ai-startup-eebbdb208c55)
 - [10 Differences Between Amateurs and Professional Analysts](https://towardsdatascience.com/10-differences-between-amateurs-and-professional-analysts-3a1be1a06a4d)
 - [Three Common Data Analysis Operations with Three Common Tools](https://towardsdatascience.com/3-common-data-analysis-operations-with-3-common-tools-9288ce61a40f)
+- [Why Analytics Needs an Impact-Driven Approach](https://towardsdatascience.com/why-analytics-needs-an-impact-driven-approach-43179f3bec4e)
 
 ### Cheat Sheets
 - [Machine Learning/Data Science Interview](https://drive.google.com/file/d/1nbNWs_DyfG0YGMs3DjIaXrD7ytSnsSJ7/view?_hsenc=p2ANqtz-__AJFM3JfYyM2d8eVGHe6P2SttQ0ktDpiHs3q_PNS788VbINkFeJhSGet2jPmtnyECvyjZ&hss_channel=tw-1318985240)
