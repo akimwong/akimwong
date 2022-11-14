@@ -30,6 +30,7 @@
 - [Handling Criticism at Work as a Data Scientist](https://towardsdatascience.com/handling-criticism-at-work-as-a-data-scientist-a1ae74c4f07d)
 - [Data Science Soft Skills, Revisited](https://towardsdatascience.com/data-science-soft-skills-revisited-f82c7d8431b8)
 - [5 Quick and Easy Tips to Become an Efficient Data Scientist in Both Python and R](https://towardsdatascience.com/5-quick-and-easy-tips-to-become-an-efficient-data-scientist-in-both-python-and-r-5cf51f6396a3)
+- [3 Valuable Skills That Have Doubled My Income as a Data Scientist](https://www.kdnuggets.com/2022/10/3-valuable-skills-doubled-income-data-scientist.html)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
