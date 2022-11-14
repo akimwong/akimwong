@@ -86,6 +86,7 @@
 - [20 Python Interview Questions To Challenge Your Knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
 - [From a Hiring Manager’s Perspective: What I Was Looking for in a Junior Data Scientist Role During the Interview](https://towardsdatascience.com/from-a-hiring-managers-perspective-what-i-was-looking-for-in-a-junior-data-scientist-role-during-18fe3579c6bd)
 - [How to Get Your Resume Noticed (And Out of the Trash Bin)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [Prepare Your CV for a Data Science Job](https://towardsdatascience.com/prepare-your-cv-for-a-data-science-job-7b8a4515c17b)
 
 
 
