@@ -1,4 +1,4 @@
-### How to Get Your Resume Noticed (And Out of the Trash Bin)
+## How to Get Your Resume Noticed (And Out of the Trash Bin)
 
 #### 1. Outsmart the robots
 - It’s important for job seekers to use keywords that are also found in the actual job description
