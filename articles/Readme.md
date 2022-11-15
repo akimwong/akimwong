@@ -32,6 +32,7 @@
 - [5 Quick and Easy Tips to Become an Efficient Data Scientist in Both Python and R](https://towardsdatascience.com/5-quick-and-easy-tips-to-become-an-efficient-data-scientist-in-both-python-and-r-5cf51f6396a3)
 - [3 Valuable Skills That Have Doubled My Income as a Data Scientist](https://www.kdnuggets.com/2022/10/3-valuable-skills-doubled-income-data-scientist.html)
 - [Practical Data Science: Promotion Effectiveness and Promotion Planning— Part 2](https://towardsdatascience.com/practical-data-science-promotion-effectiveness-and-promotion-planning-part-2-f54e9454a151)
+- [Data science toolkit: Progress in the world of data with leading resources](https://datasciencedojo.com/blog/data-science-toolkit/)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
