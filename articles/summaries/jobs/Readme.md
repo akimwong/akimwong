@@ -38,5 +38,5 @@
 - Through my contract work, I have had the opportunity to meet fascinating people who work in worlds I didn’t even know existed.
 - I’ve worked with ER doctors, special forces operators, clinicians, business people, and researchers with so many different backgrounds and experiences.
 - These connections have truly enriched how I see the world.
-- 
+
 
