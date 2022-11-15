@@ -10,6 +10,12 @@
 - As well as a key skills section highlighting your strengths — focusing on the ones that are most relevant to the job.
 
 #### 3. Don’t Restrict Work Experience to “Work”
+- Recently out of college with little work experience? Consider including major projects and papers you worked on as a student
+
+#### 4. Let the Numbers Do the Talking
+- It shows the depth of their success by citing cold, hard facts
+- Metrics are essential to telling the story of previous successes. 
+- So keep track of any quantifiable milestones you’re hitting in your current role, project, or internship
 
 
 
