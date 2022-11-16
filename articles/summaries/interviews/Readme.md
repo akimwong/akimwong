@@ -14,18 +14,30 @@ Divided in two main categories:
 #### Question 3: Marketing Campaign Success
 
 
-
 #### Question 4: Total Wine Revenue
-
 
 
 #### Question 5: Class Performance
 
 
-
 ### CODING -> PYTHON
-#### Question 5: Median Salary
+#### Question 6: Median Salary
+
+
+#### Question 7: Average Salaries
+
+
+#### Question 8: Employee with Bonuses
+
+
+### NON CODING -> SYSTEM DESIGN
+#### Question 9: Restaurant Recommendation
 
 
 
-#### Question 5: Average Salaries
+
+
+
+
+
+
