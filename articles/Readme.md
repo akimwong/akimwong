@@ -83,15 +83,16 @@
 - [The Three Trending Data Science Jobs and How to Land Them](https://opendatascience.com/the-three-trending-data-science-jobs-and-how-to-land-them/)
 - [5 Reasons Why Every Data Scientist Should Consider Freelancing](https://towardsdatascience.com/5-reasons-why-every-data-scientist-should-consider-freelancing-42ad24fad3e)
 - [Top Mistakes to Avoid in Your 2022 Data Science Job Search](https://towardsdatascience.com/top-mistakes-to-avoid-in-your-2022-data-science-job-search-89788701c6d9)
+- [From a Hiring Manager’s Perspective: What I Was Looking for in a Junior Data Scientist Role During the Interview](https://towardsdatascience.com/from-a-hiring-managers-perspective-what-i-was-looking-for-in-a-junior-data-scientist-role-during-18fe3579c6bd)
+- [How to Get Your Resume Noticed (And Out of the Trash Bin)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [Prepare Your CV for a Data Science Job](https://towardsdatascience.com/prepare-your-cv-for-a-data-science-job-7b8a4515c17b)
 - [How to Create a Professional Portfolio on GitHub That Will Help Land Your First Job in Data Science](https://towardsdatascience.com/how-to-create-a-professional-portfolio-on-github-that-will-help-land-your-first-job-in-data-science-e1fc8bd7a797)
 - [Questions to Help You Practice for Your Data Science Interview](https://towardsdatascience.com/questions-to-help-you-practice-for-your-data-science-interview-c619ab6db70b)
 - [Python Practice Questions for Coding Interviews](https://amankharwal.medium.com/python-practice-questions-for-beginners-268fcdfb14e6)
 - [Ace your Machine Learning Interview — Part 5](https://towardsdatascience.com/ace-your-machine-learning-interview-part-5-3de48703cd65)
 - [25 Advanced SQL Interview Questions for Data Scientists](https://www.kdnuggets.com/2022/10/25-advanced-sql-interview-questions-data-scientists.html)
 - [20 Python Interview Questions To Challenge Your Knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
-- [From a Hiring Manager’s Perspective: What I Was Looking for in a Junior Data Scientist Role During the Interview](https://towardsdatascience.com/from-a-hiring-managers-perspective-what-i-was-looking-for-in-a-junior-data-scientist-role-during-18fe3579c6bd)
-- [How to Get Your Resume Noticed (And Out of the Trash Bin)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
-- [Prepare Your CV for a Data Science Job](https://towardsdatascience.com/prepare-your-cv-for-a-data-science-job-7b8a4515c17b)
+
 
 
 
