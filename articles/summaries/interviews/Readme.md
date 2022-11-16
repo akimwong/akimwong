@@ -34,9 +34,51 @@ Divided in two main categories:
 #### Question 9: Restaurant Recommendation
 
 
+#### Question 10: Python Dictionary to Store Data
+
+
+#### Question 11: Build a Recommendation System
+
+
+### NON CODING -> Probability
+#### Question 12: Four People in an Elevator
 
 
 
+#### Question 13: Pick 2 Queens
+
+
+
+### NON CODING -> Statistics
+#### Question 14: Central Limit Theorem
+
+
+#### Question 15: Assessing Multicollinearity
+
+
+
+#### Question 16: Precision and Recall
+
+
+### NON CODING -> Modeling
+#### Question 17: Few instances Labeled
+
+
+#### Question 18: Features Correlation
+
+### NON CODING -> Technical
+#### Question 19: Database Normalization
+
+
+#### Question 20: N-Gram
+
+
+### NON CODING -> Product
+#### Question 21: Customer Engagement and Disengagement
+How do you measure customer engagement and disengagement?
+
+#### Question 22: Click on Search result
+You notice that the number of users that clicked on a search result about a Facebook Event increased 10% week-over-week. What steps would you take to investigate the reason behind the change? How do you decide if the change has a good or bad impact on the business?
 
 
 
