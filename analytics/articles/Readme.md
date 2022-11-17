@@ -2,3 +2,4 @@
 - [Analytical Excellence Is All about Speed](https://towardsdatascience.com/analytical-excellence-is-all-about-speed-6881c848c09c)
 - [What is Data Analysis? Methods, Techniques & Tools](https://hackr.io/blog/what-is-data-analysis-methods-techniques-tools)
 - [Explanatory v. Predictive: The Forgotten Project Distinction](https://towardsdatascience.com/explanatory-v-predictive-the-forgotten-project-distinction-58da9c5c0e95)
+- [What is Data Analysis? Methods, Process and Types Explained](https://www.simplilearn.com/data-analysis-methods-process-types-article)
