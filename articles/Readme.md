@@ -78,6 +78,8 @@
 - [T-test and Hypothesis Testing (Explained Simply)](https://towardsdatascience.com/t-test-and-hypothesis-testing-explained-simply-1cff6358633e)
 - [Data Scientists Need to Know Just One Statistical Test](https://towardsdatascience.com/data-scientists-need-to-know-just-one-statistical-test-3115b2ff26fd)
 - [7 Most Asked Questions on Central Limit Theorem](https://towardsdatascience.com/machine-learning-algorithms-cheat-sheet-2f01d1d3aa37)
+- [Understanding Boxplot: Infinity Gauntlet of the Dataverse](https://towardsdatascience.com/understanding-boxplot-infinity-gauntlet-of-the-dataverse-cd57cd067711)
+- [How confidence intervals can help focus attention and simplify analysis](https://towardsdatascience.com/beyond-the-numbers-5f20b919ac5b)
 
 ### Jobs
 - [The Three Trending Data Science Jobs and How to Land Them](https://opendatascience.com/the-three-trending-data-science-jobs-and-how-to-land-them/)
