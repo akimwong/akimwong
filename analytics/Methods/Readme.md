@@ -17,3 +17,4 @@ Is the estrategy employed in the collection of data or evidence for analysis to 
 6. Diagnostic analysis
 7. Predictive analysis
 8. Time series analysis
+9. Regression analysis.
