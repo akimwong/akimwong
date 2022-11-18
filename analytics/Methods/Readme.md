@@ -1,9 +1,9 @@
 
-#### Research methodology
-Is the justification (or explanation) for using a particular research method.
-
 #### Method
 A procedure or process for attaining an object
+
+#### Research methodology
+Is the justification (or explanation) for using a particular research method.
 
 #### Research method
 Is the estrategy employed in the collection of data or evidence for analysis to uncover new information or arrive at a better understanding of a particular topic.
