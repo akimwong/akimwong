@@ -4,3 +4,4 @@
 - [Explanatory v. Predictive: The Forgotten Project Distinction](https://towardsdatascience.com/explanatory-v-predictive-the-forgotten-project-distinction-58da9c5c0e95)
 - [What is Data Analysis? Methods, Process and Types Explained](https://www.simplilearn.com/data-analysis-methods-process-types-article)
 - [The 7 Most Useful Data Analysis Methods and Techniques](https://careerfoundry.com/en/blog/data-analytics/data-analysis-techniques/)
+- [Problems in Research: Quantitative & Qualitative Methods](https://classroom.synonym.com/problems-research-quantitative-qualitative-methods-4418.html)
