@@ -9,10 +9,8 @@ Is the justification (or explanation) for using a particular research method.
 Is the strategy employed in the collection of data or evidence for analysis to uncover new information or arrive at a better understanding of a particular topic.
 
 #### Type of methods:
-1. Qualitative data analysis
-Focuses on numerical, objective and repeatable data, and avoids subjectivity.
-2. Quantitative data analysis
-Aims to understand the problems being investigated in greater detail, and is often quite subjective.
+1. Qualitative data analysis (focuses on numerical, objective and repeatable data, and avoids subjectivity).
+2. Quantitative data analysis (aims to understand the problems being investigated in greater detail, and is often quite subjective).
 
 - Statistical analysis
 - Prescriptive analysis
