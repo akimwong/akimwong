@@ -10,7 +10,9 @@ Is the strategy employed in the collection of data or evidence for analysis to u
 
 #### Type of methods:
 1. Qualitative data analysis
+Focuses on numerical, objective and repeatable data, and avoids subjectivity.
 2. Quantitative data analysis
+Aims to understand the problems being investigated in greater detail, and is often quite subjective.
 
 - Statistical analysis
 - Prescriptive analysis
