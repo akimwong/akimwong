@@ -11,10 +11,11 @@ Is the strategy employed in the collection of data or evidence for analysis to u
 #### Type of methods:
 1. Qualitative data analysis
 2. Quantitative data analysis
-3. Text analysis
-4. Statistical analysis
-5. Prescriptive analysis
-6. Diagnostic analysis
-7. Predictive analysis
-8. Time series analysis
-9. Regression analysis.
+
+- Statistical analysis
+- Prescriptive analysis
+- Diagnostic analysis
+- Predictive analysis
+- Time series analysis
+- Regression analysis.
+- Text analysis
