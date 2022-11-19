@@ -6,7 +6,7 @@ A procedure or process for attaining an object
 Is the justification (or explanation) for using a particular research method.
 
 #### Research method
-Is the estrategy employed in the collection of data or evidence for analysis to uncover new information or arrive at a better understanding of a particular topic.
+Is the strategy employed in the collection of data or evidence for analysis to uncover new information or arrive at a better understanding of a particular topic.
 
 #### Type of methods:
 1. Qualitative data analysis
