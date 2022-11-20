@@ -10,15 +10,15 @@ Is the strategy employed in the collection of data or evidence for analysis to u
 
 #### Type of methods:
 1. Qualitative data analysis (aims to understand the problems being investigated in greater detail, and is often quite subjective). 
-2. Quantitative data analysis (focuses on numerical, objective and repeatable data, and avoids subjectivity):
+2. Quantitative data analysis (focuses on numerical, objective and repeatable data, and avoids subjectivity): <br/>
 
-    2.1.Collecting the Data
-    2.2.Preparing the Data
-    2.3.Choosing a Model
-    2.4.Training the Model
-    2.5.Evaluating the Model
-    2.6.Parameter Tunning
-    2.8.Making Predictions
+    2.1.Collecting the Data <br/>
+    2.2.Preparing the Data <br/>
+    2.3.Choosing a Model <br/>
+    2.4.Training the Model <br/>
+    2.5.Evaluating the Model <br/>
+    2.6.Parameter Tunning <br/>
+    2.8.Making Predictions <br/>
 
 
 
