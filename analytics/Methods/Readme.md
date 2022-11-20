@@ -12,6 +12,15 @@ Is the strategy employed in the collection of data or evidence for analysis to u
 1. Qualitative data analysis (aims to understand the problems being investigated in greater detail, and is often quite subjective). 
 2. Quantitative data analysis (focuses on numerical, objective and repeatable data, and avoids subjectivity).
 
+  2.1. Collecting the Data
+  2.2. Preparing the Data
+  2.3. Choosing a Model
+  2.4. Training the Model
+  2.5. Evaluating the Model
+  2.6. Parameter Tunning
+  2.8. Making Predictions
+
+
 - Statistical analysis
 - Prescriptive analysis
 - Diagnostic analysis
