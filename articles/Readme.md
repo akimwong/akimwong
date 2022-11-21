@@ -84,9 +84,9 @@
 - [How confidence intervals can help focus attention and simplify analysis](https://towardsdatascience.com/beyond-the-numbers-5f20b919ac5b)
 
 ### Jobs
-- [How to Get Your Resume Noticed (And Out of the Trash Bin) (S)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
-- [5 Reasons Why Every Data Scientist Should Consider Freelancing (S)](https://towardsdatascience.com/5-reasons-why-every-data-scientist-should-consider-freelancing-42ad24fad3e)
-- [How to Use Your LinkedIn Profile to Power a Career Transition (S)](https://hbr.org/2015/05/how-to-use-your-linkedin-profile-to-power-a-career-transition?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [How to Get Your Resume Noticed (And Out of the Trash Bin) (SUMM)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [5 Reasons Why Every Data Scientist Should Consider Freelancing (SUMM)](https://towardsdatascience.com/5-reasons-why-every-data-scientist-should-consider-freelancing-42ad24fad3e)
+- [How to Use Your LinkedIn Profile to Power a Career Transition (SUMM)](https://hbr.org/2015/05/how-to-use-your-linkedin-profile-to-power-a-career-transition?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [The Three Trending Data Science Jobs and How to Land Them](https://opendatascience.com/the-three-trending-data-science-jobs-and-how-to-land-them/)
 - [Top Mistakes to Avoid in Your 2022 Data Science Job Search](https://towardsdatascience.com/top-mistakes-to-avoid-in-your-2022-data-science-job-search-89788701c6d9)
 - [From a Hiring Manager’s Perspective: What I Was Looking for in a Junior Data Scientist Role During the Interview](https://towardsdatascience.com/from-a-hiring-managers-perspective-what-i-was-looking-for-in-a-junior-data-scientist-role-during-18fe3579c6bd)
