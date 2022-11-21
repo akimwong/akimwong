@@ -48,7 +48,16 @@
 - LinkedIn summary gives you much more space (up to 2000 characters) to highlight past accomplishments and connect them to what you want to do next.
 - Craft a cohesive narrative that pulls together what might otherwise appear to be fragmented pieces of your professional past. 
 - This will avoid leaving your profile reader wondering what the heck you’re trying to do now—or why you appear scattered and unfocused.
-3. SSDF
+3. EXPERIENCE: Tailor each of the positions in your experience section.
+- Continue to write in the first person—to provide continuity with your first-person summary.
+- Focus on accomplishments, not responsibilities. But highlight only the accomplishments most relevant to the new type of work you’re seeking. Make those accomplishments concrete by noting the problem you solved, how, and the specific results you generated.
+4. RECOMMENDATIONS:
+- Sparingly add recommendations to selected positions — the ones most relevant to the new type of work you’re seeking. 
+- Invite one or two people to recommend you.
+- Tell them exactly the type of positions you’re now targeting and the skills you’d like them to highlight.
+6. IMAGES AND MEDIA SHAPES:
+- Use images and media samples to draw attention to your most impressive accomplishments. 
+- Add them only to the positions you want your new profile readers to focus on.
 
 
 
