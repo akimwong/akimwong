@@ -39,4 +39,9 @@
 - I’ve worked with ER doctors, special forces operators, clinicians, business people, and researchers with so many different backgrounds and experiences.
 - These connections have truly enriched how I see the world.
 
+# How to Use Your LinkedIn Profile to Power a Career Transition
+
+
+
+
 
