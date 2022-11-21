@@ -43,8 +43,11 @@
 - It’s tempting to create an “everything under the sink” profile that makes you look qualified for both the job you have and the one you want or for a variety of new functions, industries, or roles. But that’ll just confuse your readers and send them running—to others’ LinkedIn pages.
 - Instead, focus your profile on your new career direction, just as you’ve tailored your resume to specific jobs. In both cases, you highlight your most relevant experiences and minimize or omit the rest.
 - Here’s how to do that on LinkedIn:
-1. HEADLINE:Focus first on your headline (if you write an irresistible headline, I’ll take the time to click to your entire profile).  Check to see how distinctive your headline is by searching LinkedIn for people like you.
-2. 
+1. HEADLINE: Focus first on your headline (if you write an irresistible headline, I’ll take the time to click to your entire profile).  Check to see how distinctive your headline is by searching LinkedIn for people like you.
+2. SUMMARY: Tell a compelling story and write it in the first person.  LinkedIn summary gives you much more space (up to 2000 characters) to highlight past accomplishments and connect them to what you want to do next.
+-Craft a cohesive narrative that pulls together what might otherwise appear to be fragmented pieces of your professional past. 
+- This will avoid leaving your profile reader wondering what the heck you’re trying to do now—or why you appear scattered and unfocused.
+3. SSDF
 
 
 
