@@ -40,7 +40,11 @@
 - These connections have truly enriched how I see the world.
 
 # How to Use Your LinkedIn Profile to Power a Career Transition
-
+- It’s tempting to create an “everything under the sink” profile that makes you look qualified for both the job you have and the one you want or for a variety of new functions, industries, or roles. But that’ll just confuse your readers and send them running—to others’ LinkedIn pages.
+- Instead, focus your profile on your new career direction, just as you’ve tailored your resume to specific jobs. In both cases, you highlight your most relevant experiences and minimize or omit the rest.
+- Here’s how to do that on LinkedIn:
+1. HEADLINE:Focus first on your headline (if you write an irresistible headline, I’ll take the time to click to your entire profile).  Check to see how distinctive your headline is by searching LinkedIn for people like you.
+2. 
 
 
 
