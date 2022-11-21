@@ -86,12 +86,12 @@
 ### Jobs
 - [The Three Trending Data Science Jobs and How to Land Them](https://opendatascience.com/the-three-trending-data-science-jobs-and-how-to-land-them/)
 - [5 Reasons Why Every Data Scientist Should Consider Freelancing](https://towardsdatascience.com/5-reasons-why-every-data-scientist-should-consider-freelancing-42ad24fad3e)
+- [How to Use Your LinkedIn Profile to Power a Career Transition (S)](https://hbr.org/2015/05/how-to-use-your-linkedin-profile-to-power-a-career-transition?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [Top Mistakes to Avoid in Your 2022 Data Science Job Search](https://towardsdatascience.com/top-mistakes-to-avoid-in-your-2022-data-science-job-search-89788701c6d9)
 - [From a Hiring Manager’s Perspective: What I Was Looking for in a Junior Data Scientist Role During the Interview](https://towardsdatascience.com/from-a-hiring-managers-perspective-what-i-was-looking-for-in-a-junior-data-scientist-role-during-18fe3579c6bd)
-- [How to Get Your Resume Noticed (And Out of the Trash Bin)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [How to Get Your Resume Noticed (And Out of the Trash Bin) (S)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [Prepare Your CV for a Data Science Job](https://towardsdatascience.com/prepare-your-cv-for-a-data-science-job-7b8a4515c17b)
 - [How to Create a Professional Portfolio on GitHub That Will Help Land Your First Job in Data Science](https://towardsdatascience.com/how-to-create-a-professional-portfolio-on-github-that-will-help-land-your-first-job-in-data-science-e1fc8bd7a797)
-- [How to Use Your LinkedIn Profile to Power a Career Transition](https://hbr.org/2015/05/how-to-use-your-linkedin-profile-to-power-a-career-transition?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 
 ### Interviews
 - [Questions to Help You Practice for Your Data Science Interview](https://towardsdatascience.com/questions-to-help-you-practice-for-your-data-science-interview-c619ab6db70b)
