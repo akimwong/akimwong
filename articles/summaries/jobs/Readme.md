@@ -59,6 +59,42 @@
 - Use images and media samples to draw attention to your most impressive accomplishments. 
 - Add them only to the positions you want your new profile readers to focus on.
 
+# From a Hiring Manager’s Perspective: What I Was Looking for in a Junior Data Scientist Role During the Interview
+- I want to see that they are intelligent and able to communicate effectively.
+- The candidate must have a good understanding of data science concepts.
+- Look for signs that the candidate is motivated and can work independently.
+
+### 1. Understanding of data science concepts: Do you have a good grasp of the basic concepts, such as hypothesis testing and machine learning?
+Is important for a data scientist to have a strong understanding of data science concepts.
+- How would you explain hypothesis testing to someone with no prior knowledge? 
+- What are some of the most popular machine learning algorithms
+- Why do you think that is?
+
+### 2. Communication skills: Can you explain your thought process and results effectively?
+- One of the most important communication skills during a job interview is effectively explaining your thought process and results.
+- To effectively communicate your thought process and results, you need to be able to break down complex concepts into simple terms. 
+- Practice providing an example where you had to explain a complex concept or result to a non-data-savvy audience. The key word here is “practice.”
+
+### 3. Motivation: Are you excited about working on data science projects in my organization?
+- I am genuinely excited about the opportunity to work on data science projects that can have a real impact.
+
+### 4. Independence: Are you able to work independently with little supervision?
+- Being able to work independently is an important skill for any data scientist, regardless of their level of experience. 
+- During a job interview, a potential employer may ask if you are able to work independently with little supervision.
+- The best way to answer this question is to provide a specific example of a time when you were able to work independently successfully.
+- By giving a concrete example, you can show that you have the independent problem-solving skills the employer is looking for.
+- An important part of working independently is being able to manage your own time effectively. 
+
+### 5. Attitude: do you have the right attitude?
+- Employers place a great deal of emphasis on attitude during job interviews.
+- If you’re interviewing for a junior data scientist role, here are a few tips to ensure you have the right attitude:
+- First, be humble. It’s important to be confident in your abilities, but you don’t want to come across as arrogant. Remember, you’re applying for a junior role. 
+- Second, be positive. A positive attitude is infectious and can go a long way in making a good impression during an interview. Be sure to smile and exude confidence, even if you’re feeling nervous on the inside.
+- Finally, be prepared to answer questions about your attitude.
+
+While technical skills are important, soft skills are just as critical for data scientists. In order to be successful in the data science marketplace, you have to stand out from the rest by demonstrating that you can communicate effectively with other team members, work independently, and be motivated to learn new things.
+
+
 
 
 
