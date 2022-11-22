@@ -94,7 +94,29 @@ Is important for a data scientist to have a strong understanding of data science
 
 While technical skills are important, soft skills are just as critical for data scientists. In order to be successful in the data science marketplace, you have to stand out from the rest by demonstrating that you can communicate effectively with other team members, work independently, and be motivated to learn new things.
 
+# Prepare Your CV for a Data Science Job
 
+### In my first access
+1. Design and concise CVs are really important. I don’t have time to read 5 pages curriculum nor a CV that is not well structured.
+2. The data science skills and tools used must be at glance and easily captured.
+3. Some CVs have a lot of experience that is not relevant to the job applied, as example, asking for NLP experience or Deep Learning and not showed even once in the experiences or keywords.
+4. A common filter should be applied. I have to apply a common minimum threshold to all candidates to filter them out.
+5. I can’t read fully all the CVs. The long CVs will be directly removed unless they have a summary at the beginning, that engages me with relevant information.
 
+### After checking a few curricula I could classify the applications into:
+-	Good. Less than 2 pages and everything I want to check on the first page. Preferable just 1 page. Easy to understand the ML skills with categories and level of experience.
+-	Long but well-structured. The CV is long, but still, it’s easy to read and includes a summary on the first page. Probably the person can’t summarize so good and wants to add everything in case it helps to get the job, or he/she has too much experience and projects.
+-	Long and impossible to follow. I noticed the same type of 5 page plus CVs for multiple applicants. They are long, with no margin, categories or structure to understand what you are reading.
+
+### Tips for mastering your Resume
+- Work experience should be the first thing the hiring manager sees. I’m mainly interested in your relevant experience, please don’t add a list of your skills before this. Ideally, you add your work experience (including the years and accomplishments) and the skills and/or tools needed for that job or developed during that time.
+-	If the job you are applying to is heavily focused on python, classification algorithms, and NLP, add keywords under your work experience: it will show your relevant experience for the job and catch the eye of the recruiter faster.
+-	If you don’t have enough work experience, add your experience on projects such as Kaggle or any other project with real data.
+-	If you come from a research university, adapt the skills and tools to the job you are applying to. If the job description asks for knowledge of python, don’t say you know Stata and Latex; that’s not going to be useful and it just takes space in your resume.
+-	Don’t add a long list of skills without categorization. If your skills are based on programming, ML frameworks, algorithms, soft skills, version control tools, languages, etc. then say it, don’t add them all waiting for the hiring manager to find the one they are interested in. Extra tip: if the position asks for X, Y or Z skills, make use of BOLD to highlight you already have that. It will catch recruiter’s eyes faster.
+-	Don’t add extra things just to fill up space. Make sure you are concise and that you don’t repeat always the same descriptions in job experience. If for 2 jobs in your life you have been doing A/B testing, add that one in one of them and in the other add that you analyze the data or anything else you have done related to the A/B test. It will show variety and I will see that you already know that. Then in the interview, you will be able to really show that you master that skill.
+-	Make sure the position of the title in the work experience section is aligned with the Company and the time worked there. Apply proper margins. In the end, we are humans, we read organized things, not messy. If your CV is not organized, I would assume that you won’t be organized in your position, so unless the hiring manager relates to that, you won’t be easily taken into account.
+-	Don’t write that you are single or even your birth date. We base the decisions on your qualifications, so avoid anything extra that could bias the decision.
+-	Send your CV in PDF, not .docx. You don’t know the platform we are using to open it, and if it’s not pdf it’s possible we don’t see it as beautiful as you did it.
 
 
