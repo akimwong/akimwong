@@ -13,6 +13,7 @@
 ### Storytelling
 - [8 Tips for Creating a Compelling Presentation for Data Science](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0)
 - [Data Science and the Art of Persuasion](https://hbr.org/2019/01/data-science-and-the-art-of-persuasion?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [Picking Examples to Understand Machine Learning Model](https://www.kdnuggets.com/2022/11/picking-examples-understand-machine-learning-model.html)
 
 ### Data science
 - [Understanding the Business: The Data Science Skill We Don’t Talk About Enough](https://towardsdatascience.com/the-data-science-skill-no-one-talks-about-57d5d3e9f9d)
