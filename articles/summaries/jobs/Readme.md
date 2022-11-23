@@ -130,6 +130,24 @@ You might think that applying to multiple position types at the same time is a g
 - It’s inefficient, an incredible waste of time.  For the best results, you should instead focus on applying to one type of position and become an expert at it.
 - Your skills won’t be as sharp. If you never focus on a single role, you’ll have a hard time garnering the required skills to land a job as a data scientist.  By focusing on one type of data science role, you’ll be able to study more in-depth and quickly gain the skills that employers are looking for.
 - You waste time applying. You might not realize it at first, but each application will require tailoring your resume and cover letter for the job, and the time spent making those changes can quickly add up!
+- With so much to study, if you are applying for multiple different types of positions, you’ll quickly find that the interview process becomes overwhelming. You’ll be stressed, and you won’t be able to adequately prepare and will likely flunk your interviews.
+- Focusing on one position type with laser precision can help your data science job search.  It’s far better to hone your skills in a niche rather than trying to hit everything you possibly can. 
+
+### Mistake 2: Going into an Interview Unprepared
+- Going into an interview without adequately preparing for it. Some will head into interviews without even knowing what type of questions are likely to be asked.  When practicing for a coding interview, be sure to verbalize your thought process so that you can get a feel for the timing of an actual interview.
+- Not Knowing Your Interviewer.  You should never walk into an interview blind.  Presentation interviews can be tricky to prepare for. Once a company asked me to present my most impactful project.  I assumed my audience would be data scientists, so I introduced lots of technical terms.  But it turned out this was a big mistake. The audience was a mix of stakeholders, in this case data science managers and product managers.  This is why it always pays to research your interviewer. A simple pre-interview email can often help reveal an interviewer’s position within a company.  Either way the point is that you need to do some work before you even walk into the interview.
+- Unfamiliar with the Product.  Some’ve failed interviews because they weren’t familiar with the company’s products at all.  
+
+#### People land jobs faster when they are well prepared or even over-prepared for interviews.
+
+### Mistake 3: Paralysis by Analysis
+- As a data scientist you can’t always analyze everything to death.
+- The mistake I want to point out is worrying about whether learning something would be helpful before taking actions to learn.
+- You only know if something is helpful after you learn it. Other people’s experience might not apply to you. 
+a. Don’t spend too much time worrying about what you don’t know, instead spend time gaining new skills.
+b. Steady improvement will lead to a solid foundation for your abilities as a data scientist and lead to more successful outcomes from interviews.
+- If you realize you have a knowledge gap, and you know there’s a way to help you gain the knowledge and fill the gap, then simply take action rather than wasting time over-analyzing. Remember that you’ll never regret any investment in yourself.
+
 
 
 
