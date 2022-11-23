@@ -143,8 +143,8 @@ You might think that applying to multiple position types at the same time is a g
 ### Mistake 3: Paralysis by Analysis
 - As a data scientist you can’t always analyze everything to death.
 - The mistake I want to point out is worrying about whether learning something would be helpful before taking actions to learn.
-- You only know if something is helpful after you learn it. Other people’s experience might not apply to you. </b>
-a. Don’t spend too much time worrying about what you don’t know, instead spend time gaining new skills. </b>
+- You only know if something is helpful after you learn it. Other people’s experience might not apply to you. <br/>
+a. Don’t spend too much time worrying about what you don’t know, instead spend time gaining new skills. <br/>
 b. Steady improvement will lead to a solid foundation for your abilities as a data scientist and lead to more successful outcomes from interviews. 
 - If you realize you have a knowledge gap, and you know there’s a way to help you gain the knowledge and fill the gap, then simply take action rather than wasting time over-analyzing. Remember that you’ll never regret any investment in yourself.
 
