@@ -92,6 +92,7 @@
 - [¿Qué es la multicolinealidad y por qué es un problema?](https://www.maximaformacion.es/blog-ciencia-datos/que-es-la-multicolinealidad-y-por-que-es-un-problema/)
 - [How to Measure Heteroscedasticity in Regression?](https://finnstats.com/index.php/2021/07/28/how-to-measure-heteroscedasticity-in-regression/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 - [Los siete pecados estadísticos](https://www.maximaformacion.es/blog-dat/los-siete-pecados-estadisticos/)
+- [10 reglas simples para la práctica estadística efectiva](https://www.maximaformacion.es/blog-dat/10-reglas-para-la-practica-estadistica-efectiva/)
 
 ### Jobs
 - [How to Get Your Resume Noticed (And Out of the Trash Bin) (SMRY)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
