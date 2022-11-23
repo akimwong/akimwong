@@ -35,6 +35,7 @@
 - [Practical Data Science: Promotion Effectiveness and Promotion Planning— Part 2](https://towardsdatascience.com/practical-data-science-promotion-effectiveness-and-promotion-planning-part-2-f54e9454a151)
 - [Data science toolkit: Progress in the world of data with leading resources](https://datasciencedojo.com/blog/data-science-toolkit/)
 - [How to Avoid Mistakes in Data Science](https://towardsdatascience.com/how-to-avoid-mistakes-in-data-science-20d6f9c4274b)
+- [A Case for Heuristics: Why Simple Solutions Often Win in Data Science (d!)](https://towardsdatascience.com/a-case-for-heuristics-why-simple-solutions-often-win-in-data-science-a31967766daa)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
