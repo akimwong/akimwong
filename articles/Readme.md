@@ -88,6 +88,7 @@
 - [t-test in R-How to Perform T-tests in R](https://finnstats.com/index.php/2020/09/19/t-test-in-r/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 - [How to Simplify Hypothesis Testing for Linear Regression in Python](https://towardsdatascience.com/how-to-simplify-hypothesis-testing-for-linear-regression-in-python-8b43f6917c86)
 - [¿Qué es la multicolinealidad y por qué es un problema?](https://www.maximaformacion.es/blog-ciencia-datos/que-es-la-multicolinealidad-y-por-que-es-un-problema/)
+- [How to Measure Heteroscedasticity in Regression?](https://finnstats.com/index.php/2021/07/28/how-to-measure-heteroscedasticity-in-regression/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 
 ### Jobs
 - [How to Get Your Resume Noticed (And Out of the Trash Bin) (SMRY)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
