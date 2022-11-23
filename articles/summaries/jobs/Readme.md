@@ -119,4 +119,17 @@ While technical skills are important, soft skills are just as critical for data 
 -	Don’t write that you are single or even your birth date. We base the decisions on your qualifications, so avoid anything extra that could bias the decision.
 -	Send your CV in PDF, not .docx. You don’t know the platform we are using to open it, and if it’s not pdf it’s possible we don’t see it as beautiful as you did it.
 
+# Top Mistakes to Avoid in Your 2022 Data Science Job Search
+Three of the most common mistakes made during data science job searches include:
+-	Applying to different types of positions simultaneously
+-	Not preparing for interviews
+-	Suffering from analysis paralysis
+
+### Mistake 1: Applying to Multiple Position Types at the Same Time
+You might think that applying to multiple position types at the same time is a good way to turn the odds in your favor. However, in reality, this is a bad idea.
+- It’s inefficient, an incredible waste of time.  For the best results, you should instead focus on applying to one type of position and become an expert at it.
+- Your skills won’t be as sharp. If you never focus on a single role, you’ll have a hard time garnering the required skills to land a job as a data scientist.  By focusing on one type of data science role, you’ll be able to study more in-depth and quickly gain the skills that employers are looking for.
+- You waste time applying. You might not realize it at first, but each application will require tailoring your resume and cover letter for the job, and the time spent making those changes can quickly add up!
+
+
 
