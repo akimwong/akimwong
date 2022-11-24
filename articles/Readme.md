@@ -103,7 +103,7 @@
 - [Top Mistakes to Avoid in Your 2022 Data Science Job Search](https://towardsdatascience.com/top-mistakes-to-avoid-in-your-2022-data-science-job-search-89788701c6d9)
 - [The Three Trending Data Science Jobs and How to Land Them](https://opendatascience.com/the-three-trending-data-science-jobs-and-how-to-land-them/)
 - [How to Create a Professional Portfolio on GitHub That Will Help Land Your First Job in Data Science](https://towardsdatascience.com/how-to-create-a-professional-portfolio-on-github-that-will-help-land-your-first-job-in-data-science-e1fc8bd7a797)
-- [5 Things in Your Resume That Are Keeping You from Getting Your First Job in Data Science](https://towardsdatascience.com/5-things-in-your-resume-that-are-keeping-you-from-getting-your-first-job-in-data-science-1a4d474ff3e4)
+- [5 Things in Your Resume That Are Keeping You from Getting Your First Job in Data Science (SMRY)](https://towardsdatascience.com/5-things-in-your-resume-that-are-keeping-you-from-getting-your-first-job-in-data-science-1a4d474ff3e4)
 
 ### Interviews
 - [Questions to Help You Practice for Your Data Science Interview](https://towardsdatascience.com/questions-to-help-you-practice-for-your-data-science-interview-c619ab6db70b)
