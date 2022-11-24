@@ -203,7 +203,82 @@ Although you could have in your mind your final goal, you may not know which fea
 
 If you decide to hire specialists, you’ll need to make sure that each team member is able to work together and share their knowledge. This can be a challenge, but if you have the right mix of people it can lead to a very strong team. The advantage of this approach is that each team member will be an expert in their own area and they’ll be able to bring a lot of knowledge to the table. </br>
 
-If you decide to go with a team of generalists, the advantage of this approach is that everyone will have a good understanding of the whole data science process.
+If you decide to go with a team of generalists, the advantage of this approach is that everyone will have a good understanding of the whole data science process. </br>
+
+In a startup, you should hire first generalists — people who can do pretty much everything. In fact, when you start, you have no lines of code. There’s nothing, which means you need to do back end, front end, DevOps, and whatever.
+Instead, if your company is already stable, probably you need more specialists, who focus on specific problems, such as tuning hyperparameters of a Machine Learning model. </br>
+
+As your company grows, you may begin hiring more and more specialists and fewer generalists.
+
+### 3. Who to hire first
+
+The answer, of course, depends on your specific needs. </br>
+But in general, we recommend hiring first the following three profiles:
+
+1. Machine Learning engineers or Software engineers with Machine Learning skills.
+2. Data engineers, that build and maintain the systems that collect and store all that data.
+3. Product managers, that prioritize the work to do.
+
+At the beginning, you need people who can work on the prototype, who will write a lot of coding, and who will work on the product. It doesn’t make sense for you to hire a UX/UI designer when you have no work for them.  </br>
+Of course, every team is different, and you may find that you need to hire a different combination of roles depending on your unique circumstances. So you really need to understand, at which stage you are. And what kind of roles do you need now to solve this problem.
+
+### 4. What is a strong product team
+
+A product team is responsible for the development and management of a company’s products. This includes everything from the initial idea and conception of the product, to its design, production, and eventual distribution.
+
+A strong product team is a team that is building a product that the customer wants. Strong means:
+- very customer-centric
+- delivering features very fast
+- testing these things out with customers very fast.
+
+A strong product team will have a clear understanding of the market they are targeting and will work together to ensure that the final product meets the needs of their target audience. In order to build a strong product team, it is important to have a clear vision for the product and to assemble a team of individuals with the skills and experience necessary to bring that vision to fruition.
+
+### 5. Motivating team to write articles and contribute to open source
+
+Data science is a collaborative field, and one of the best ways to learn and improve your skills is to share your knowledge with others. Writing blog posts and articles is a great way to do this, and it can also be a good motivator for your team. </br>
+You should encourage your team members to write articles about their work and provide them with any resources they need to get started. You can also offer incentives for writing articles, such as bonus points or rewards. </br>
+Contributing to open-source projects is another great way for your team to learn and improve their skills. You could even encourage your team members to find projects they’re interested in and contribute their time and expertise. Again, you can offer incentives for open source contributions, such as bonus points or rewards.  </br>
+
+### 6. Hiring a data scientist
+
+#### First...
+- it’s important to find someone with the right skillset. 
+- You can look at the candidate curriculum. 
+- A data scientist should be able to not only analyze data, but also understand how to use that data to solve real-world problems.
+- Additionally, they should be well-versed in statistics and modeling, 
+- And be able to communicate their findings effectively.
+
+#### Then...
+- Once you’ve found a few candidates with the right skillset, 
+- it’s important to interview them thoroughly. 
+- In addition to questions about their experience and qualifications, be sure to ask them about their approach to data science and how they would go about solving a specific problem. 
+- This will help you get a better sense of their thought process and whether or not they would be a good fit for your team.
+
+#### And then...
+- The interview should also include questions on personal experiences, to check whether that person is interesting or not. 
+- If someone is just plain boring, this is very difficult for the team. 
+- That person also needs a hobby, such as going to the cinema, doing some sports, or whatever. 
+- But that person needs to do something. 
+- You work more time with that person than you spend with your girlfriend or your wife. 
+- You spend more time with them than with the person that you love. 
+- So that’s why you need to understand that person really well.
+
+#### Finally:
+- You could also include a second interview, which could be a homework assignment. 
+- You could send out some homework, which is not very difficult. 
+- Then the candidate sends you the code, whether it is Jupyter Notebook or whatever. 
+- Then you should check it. From this simple task, you could already see how much people are working.
+
+### 7. Pickingthe next projects to work on
+There are a lot of data science projects out there, and it can be tough to decide which ones to tackle next. Here are a few things to keep in mind when choosing projects:
+- Consider the impact of the project. Will it make a big difference for your company or customers?
+- Think about the difficulty of the project. Is it something you and your team are confident you can handle?
+- Take into account the resources you have available. Do you have the time and budget to dedicate to this project?
+- Lastly, don’t forget to have some fun! Data science is supposed to be enjoyable, so pick projects that seem interesting and exciting to you and your team.
+
+
+
+
 
 
 
