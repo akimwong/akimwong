@@ -148,6 +148,35 @@ a. Don’t spend too much time worrying about what you don’t know, instead spe
 b. Steady improvement will lead to a solid foundation for your abilities as a data scientist and lead to more successful outcomes from interviews. 
 - If you realize you have a knowledge gap, and you know there’s a way to help you gain the knowledge and fill the gap, then simply take action rather than wasting time over-analyzing. Remember that you’ll never regret any investment in yourself.
 
+# 5 Things in Your Resume That Are Keeping You from Getting Your First Job in Data Science
+
+### 1. Skill-level bars to indicate skill proficiency
+- Instead of skill-level bars, discuss the skills you used in your description of previous employment and projects to demonstrate how long you’ve been using the skill, what you’ve used the skill for, and what impact you’ve made by using the skill.
+
+### 2. Lack of personal projects that demonstrate real-world problem solving
+- One of the most common complaints of tech recruiters is that candidates lack real-world problem-solving skills.
+- The key here is to remember the old saying, “show, don’t tell.”
+- While it’s easy to tell an employer that you’ve solved many real-world problems through your independent research projects, it’s much more impactful if you show them the problem you solved and exactly how you solved it.
+- A personal portfolio linked to your resume will help you out here. In that portfolio, you want to develop several projects that figure out specific problems within your target industry.
+
+### 3. The wrong set of programming skills for the job
+- Listing 20 programming languages or skills is useless to an employer who only wants to know if you can work with Python, Excel, and SQL. Additionally, this shows a lack of preparation on the job seeker’s part because it presents a resume designed to be a “one-size-fits-all” solution to the job application process.
+- Remember, more isn’t always better. A recruiter would rather see concrete evidence of experience with the programming languages and skills their company is looking for than random experience in 20 different languages.
+- Prepare a tailored resume for each job application by carefully scanning the job ad and highlighting the exact languages and skills they are looking for. Then, make it easy for the recruiter by giving concrete examples of your ability with that language or skill, and link to projects that demonstrate your abilities (again, “show, don’t tell”).
+- In short, the focus should be on making it easy for a recruiter to visualize you successfully becoming a valuable member of the team.
+
+### 4. A focus on algorithms and code and not outcomes
+- The value of data scientists is their impact on a company and the outcomes their work produces.
+- If your resume focuses more on the fancy algorithm you used to solve a problem instead of the outcome of solving that problem, a recruiter may not be convinced of the impact your analysis had.
+- Instead of focusing the entirety of your project description on the algorithms you used or the code you wrote, add sentences where you describe the impact your analysis had or the outcome of your project.
+- This description should include quantifiable information, such as percentages, growth indexes, and monetary values.
+
+### 5. No indication of lifelong learning
+- Make a point of working on personal research projects every so often to show recruiters that you are always looking to improve your skills and learn something new.
+- Each new project doesn’t have to be huge, but it should integrate some new technology, algorithm, or thought process to tackle a real-world problem. Each project should be described in your resume using a short sentence that captures the advancement of your skillset and the problem you set out to solve.
+- Adding links to your project repository or portfolio is a great way to give recruiters a hands-on look at your work.
+
+
 
 
 
