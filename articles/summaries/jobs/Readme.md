@@ -176,7 +176,6 @@ b. Steady improvement will lead to a solid foundation for your abilities as a da
 - Each new project doesn’t have to be huge, but it should integrate some new technology, algorithm, or thought process to tackle a real-world problem. Each project should be described in your resume using a short sentence that captures the advancement of your skillset and the problem you set out to solve.
 - Adding links to your project repository or portfolio is a great way to give recruiters a hands-on look at your work.
 
-
 # Building a Data Science Team
 
 
