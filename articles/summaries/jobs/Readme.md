@@ -177,6 +177,13 @@ b. Steady improvement will lead to a solid foundation for your abilities as a da
 - Adding links to your project repository or portfolio is a great way to give recruiters a hands-on look at your work.
 
 
+# Building a Data Science Team
+
+
+
+
+
+
 
 
 
