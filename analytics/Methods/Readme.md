@@ -28,9 +28,27 @@ It has six sequential phases: <br/>
 - Verify data quality: How clean/dirty is the data? Document any quality issues. <br/>
 
 2.3. Data preparation – How do we organize the data for modeling? <br/>
-2.4. Modeling – What modeling techniques should we apply? <br/>
-2.5. Evaluation – Which model best meets the business objectives? <br/>
-2.6. Deployment – How do stakeholders access the results? <br/>
+- Select data: Determine which data sets will be used and document reasons for inclusion/exclusion.
+- Clean data: Often this is the lengthiest task. Without it, you’ll likely fall victim to garbage-in, garbage-out. A common practice during this task is to correct, impute, or remove erroneous values.
+- Construct data: Derive new attributes that will be helpful. For example, derive someone’s body mass index from height and weight fields.
+- Integrate data: Create new data sets by combining data from multiple sources.
+- Format data: Re-format data as necessary. For example, you might convert string values that store numbers to numeric values so that you can perform mathematical operations. <br/>
 
+2.4. Modeling – What modeling techniques should we apply? <br/>
+- Select modeling techniques: Determine which algorithms to try (e.g. regression, neural net).
+- Generate test design: Pending your modeling approach, you might need to split the data into training, test, and validation sets.
+- Build model: As glamorous as this might sound, this might just be executing a few lines of code like “reg = LinearRegression().fit(X, y)”.
+- Assess model: Generally, multiple models are competing against each other, and the data scientist needs to interpret the model results based on domain knowledge, the pre-defined success criteria, and the test design. <br/>
+
+2.5. Evaluation – Which model best meets the business objectives? <br/>
+- Evaluate results: Do the models meet the business success criteria? Which one(s) should we approve for the business?
+- Review process: Review the work accomplished. Was anything overlooked? Were all steps properly executed? Summarize findings and correct anything if needed.
+- Determine next steps: Based on the previous three tasks, determine whether to proceed to deployment, iterate further, or initiate new projects. <br/>
+
+2.6. Deployment – How do stakeholders access the results? <br/>
+- Plan deployment: Develop and document a plan for deploying the model.
+- Plan monitoring and maintenance: Develop a thorough monitoring and maintenance plan to avoid issues during the operational phase (or post-project phase) of a model.
+- Produce final report: The project team documents a summary of the project which might include a final presentation of data mining results.
+- Review project: Conduct a project retrospective about what went well, what could have been better, and how to improve in the future.
 
 
