@@ -1,4 +1,4 @@
-- [How the Machine Learning Process is Like Cooking](https://jonwood.co/blog/2021/5/17/how-the-machine-learning-process-is-like-cooking)
+- [What is CRISP DM?](https://www.datascience-pm.com/crisp-dm-2/)
 - [10 must read Data Analytics books](https://www.ironhack.com/us/en/blog/10-must-read-data-analytics-books)
 - [Analytical Excellence Is All about Speed](https://towardsdatascience.com/analytical-excellence-is-all-about-speed-6881c848c09c)
 - [What is Data Analysis? Methods, Techniques & Tools](https://hackr.io/blog/what-is-data-analysis-methods-techniques-tools)
