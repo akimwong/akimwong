@@ -178,6 +178,16 @@ b. Steady improvement will lead to a solid foundation for your abilities as a da
 
 # Building a Data Science Team
 
+### 1. How to start building a data science team
+
+#### Defining a project and then starting recruiting
+- Start with the following questions: What problems are you trying to solve? What kind of data do you need to build your project? Answering these questions will help you determine the skillsets and expertise you need on your team. Once you have an idea of the team you need, it’s time to start recruiting.
+#### Starting immediately hiring and then defining a project
+
+Although you could have in your mind your final goal, you may not know which features will lead to the final product. For this reason, you could start hiring different roles that would take you to that point to get a better understanding of your vision.
+
+`The best way to find talented data scientists is through referrals from people you trust. Attend meetups and conferences related to data science and big data, and post job listings on relevant online communities and forums.`
+
 
 
 
