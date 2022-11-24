@@ -188,8 +188,20 @@ Although you could have in your mind your final goal, you may not know which fea
 
 `The best way to find talented data scientists is through referrals from people you trust. Attend meetups and conferences related to data science and big data, and post job listings on relevant online communities and forums.`
 
+- Once you have a few candidates, it’s important to evaluate their skillset carefully. 
+- In addition to technical ability, you want to make sure they have strong communication skills and are able to work well in a team environment. 
+- The best way to assess these skills is through coding challenges and interviews that test both their technical abilities and soft skills.
 
+### 2. Specialists vs generalists
 
+####	Generalists
+- professionals who have a general knowledge of all the Data Science workflow
+- from project setup to project deployment, but they do not have specific knowledge of the single steps of the Data Science workflow.
+#### Specialists
+— professionals who have specific knowledge of a single step of the Data Science workflow, 
+- But do not know the general Data Science workflow.
+
+If you decide to hire specialists, you’ll need to make sure that each team member is able to work together and share their knowledge. This can be a challenge, but if you have the right mix of people it can lead to a very strong team. The advantage of this approach is that each team member will be an expert in their own area and they’ll be able to bring a lot of knowledge to the table.
 
 
 
