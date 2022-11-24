@@ -1,16 +1,17 @@
 
-#### Method
+## Method
 A procedure or process for attaining an object
 
-#### Research methodology
+## Research methodology
 Is the justification (or explanation) for using a particular research method.
 
-#### Research method
+## Research method
 Is the strategy employed in the collection of data or evidence for analysis to uncover new information or arrive at a better understanding of a particular topic.
 
-#### Type of methods:
-1. Qualitative data analysis (aims to understand the problems being investigated in greater detail, and is often quite subjective). 
-2. Quantitative data analysis (focuses on numerical, objective and repeatable data, and avoids subjectivity) <br/>
+## Type of methods:
+### 1. Qualitative data analysis (aims to understand the problems being investigated in greater detail, and is often quite subjective). 
+
+### 2. Quantitative data analysis (focuses on numerical, objective and repeatable data, and avoids subjectivity) <br/>
 
 Process model that serves as the base for a data science process. 
 It has six sequential phases: <br/>
