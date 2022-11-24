@@ -195,15 +195,15 @@ Although you could have in your mind your final goal, you may not know which fea
 ### 2. Specialists vs generalists
 
 ####	Generalists
-- professionals who have a general knowledge of all the Data Science workflow
-- from project setup to project deployment, but they do not have specific knowledge of the single steps of the Data Science workflow.
+- Professionals who have a general knowledge of all the Data Science workflow
+- From project setup to project deployment, but they do not have specific knowledge of the single steps of the Data Science workflow.
 #### Specialists
-— professionals who have specific knowledge of a single step of the Data Science workflow, 
+- Professionals who have specific knowledge of a single step of the Data Science workflow
 - But do not know the general Data Science workflow.
 
-If you decide to hire specialists, you’ll need to make sure that each team member is able to work together and share their knowledge. This can be a challenge, but if you have the right mix of people it can lead to a very strong team. The advantage of this approach is that each team member will be an expert in their own area and they’ll be able to bring a lot of knowledge to the table.
+If you decide to hire specialists, you’ll need to make sure that each team member is able to work together and share their knowledge. This can be a challenge, but if you have the right mix of people it can lead to a very strong team. The advantage of this approach is that each team member will be an expert in their own area and they’ll be able to bring a lot of knowledge to the table. </br>
 
-
+If you decide to go with a team of generalists, the advantage of this approach is that everyone will have a good understanding of the whole data science process.
 
 
 
