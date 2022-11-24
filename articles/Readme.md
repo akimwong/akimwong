@@ -15,6 +15,7 @@
 - [Data Science and the Art of Persuasion](https://hbr.org/2019/01/data-science-and-the-art-of-persuasion?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [Picking Examples to Understand Machine Learning Model](https://www.kdnuggets.com/2022/11/picking-examples-understand-machine-learning-model.html)
 - [Telling a Great Data Story: A Visualization Decision Tree](https://www.kdnuggets.com/2021/02/telling-great-data-story-visualization-decision-tree.html)
+- [Five Essential Presenting Tips for Data Professionals (DL)](https://towardsdatascience.com/five-essential-presenting-tips-for-data-professionals-c31708ec52f5)
 
 ### Data science
 - [Understanding the Business: The Data Science Skill We Don’t Talk About Enough](https://towardsdatascience.com/the-data-science-skill-no-one-talks-about-57d5d3e9f9d)
