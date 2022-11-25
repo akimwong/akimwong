@@ -294,6 +294,28 @@ There are two parts to this: 1) understanding what goes into good visualizations
 3. Choose wise representations: For example, don’t use a discrete set of random colors to represent a continuous quantitative value like percentage score on an exam. Choose visual representations that are easy for the viewer to interpret.  </br>
 4. Don’t lie about the data: If I need to convince you on this one, it’s probably best that you stay away from data science in general.  </br>
 
+If you do choose to learn this skill, there is a long path ahead. But in return, the rewards you will reap in the pursuit of data science excellence will also be immense.
+
+### 2. Not being afraid to go back to the data
+
+- No matter what you’re doing — building a model, designing a visualization, or setting up a database — the quality of your data matters.
+- This seems like a simple enough statement, especially when you consider the name “data science.” But it’s a surprisingly easy fact to overlook when you’re in the thralls of an involved, important project which has been in the works for many months (or even years). It’s hard to acknowledge that you have to start over. Simply doing so is a skill in itself — an underrated and valuable one.
+- The solution is not always in “improving the model,” whatever that means. Sometimes, no amount of fancy Python modules or incoherent statistical maneuvering will get you the result you need, and you will need to accept that perhaps your data is insufficient or inaccurate.
+- No one likes hacky solutions. Go back and fix the data when necessary.
+
+### 3. Unorthodox Forms of Data
+There are plenty of data formats which far fewer people know how to work with — if you make one of them your specialty, you could become a hot commodity on the job market. Here is a (very incomplete) list of examples:
+- Text Data:
+- Image Data:
+- Geo-spatial data:
+
+Most everything in the world can be viewed as data, and thus embodies a potential avenue for the field of data science to explore. It’s therefore unfortunate that we often neglect potentially exciting areas of study in favor of the comfort provided by rows and columns of numbers.  </br>
+
+It’s a simple case of supply and demand. Not enough people know how to deal with the immense supply of unorthodox data — become one of them, and you’ll be in high demand.
+
+
+
+
 
 
 
