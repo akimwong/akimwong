@@ -277,6 +277,25 @@ There are a lot of data science projects out there, and it can be tough to decid
 - Lastly, don’t forget to have some fun! Data science is supposed to be enjoyable, so pick projects that seem interesting and exciting to you and your team.
 
 
+# 3 Underappreciated Skills to Make You A Next-Level Data Scientist
+
+- In the job market, you expand your chances of getting hired if you have a skill an employer is in desperate need of. Oftentimes, the necessary skill might be a bit unorthodox, but that’s exactly what makes it in demand. Standard members of the field haven’t mastered it — and thus it is coveted.
+- Most people who come into data science roles tend to display the same standard set of skills: data management, proficiency in statistics and probability, user testing, basic data analysis, and foundations of machine learning, among others.
+- While these skills are undeniably important, you become increasingly attractive to an employer if you combine them with other, less common skills that are nevertheless beneficial to the data science workflow.
+
+### 1. Visualization
+- “visual representations can communicate information more rapidly and effectively than text” 
+- People like simple things and pretty things. Lucky for them, visualizations — if done well — have the potential to simplify data into pretty summaries. If you can master the skill of designing and implementing, you’ll attract attention in a data science setting, no doubt.
+
+There are two parts to this: 1) understanding what goes into good visualizations and 2) actually implementing these visualizations. </br>
+
+1. Don’t try to show everything: There is no such thing as a perfect, all-encompassing visualization for a data set. Pick 1–2 aspects of the data to highlight, and design a visualization based on that. </br>
+2. Keep it simple: Don’t overdo it — your job is to simplify the data, not make it even more complicated.  </br>
+3. Choose wise representations: For example, don’t use a discrete set of random colors to represent a continuous quantitative value like percentage score on an exam. Choose visual representations that are easy for the viewer to interpret.  </br>
+4. Don’t lie about the data: If I need to convince you on this one, it’s probably best that you stay away from data science in general.  </br>
+
+
+
 
 
 
