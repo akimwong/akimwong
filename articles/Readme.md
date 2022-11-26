@@ -105,8 +105,8 @@
 - [Building a Data Science Team (SMRY)(DL)](https://towardsdatascience.com/building-a-data-science-team-d03f854e63b4)
 - [3 Underappreciated Skills to Make You A Next-Level Data Scientist (SMRY)(DL)](https://towardsdatascience.com/3-underappreciated-skills-to-make-you-a-next-level-data-scientist-6b5236770651)
 - [Top Mistakes to Avoid in Your 2022 Data Science Job Search (SMRY)(DL)](https://towardsdatascience.com/top-mistakes-to-avoid-in-your-2022-data-science-job-search-89788701c6d9)
-- [The Three Trending Data Science Jobs and How to Land Them](https://opendatascience.com/the-three-trending-data-science-jobs-and-how-to-land-them/)
-- [How to Create a Professional Portfolio on GitHub That Will Help Land Your First Job in Data Science](https://towardsdatascience.com/how-to-create-a-professional-portfolio-on-github-that-will-help-land-your-first-job-in-data-science-e1fc8bd7a797)
+- [The Three Trending Data Science Jobs and How to Land Them (DL)](https://opendatascience.com/the-three-trending-data-science-jobs-and-how-to-land-them/)
+- [How to Create a Professional Portfolio on GitHub That Will Help Land Your First Job in Data Science (DL)](https://towardsdatascience.com/how-to-create-a-professional-portfolio-on-github-that-will-help-land-your-first-job-in-data-science-e1fc8bd7a797)
 
 
 ### Interviews
