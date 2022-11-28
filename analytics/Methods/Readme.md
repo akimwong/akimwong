@@ -50,12 +50,11 @@ Based on the `CRISP-DM` method we have six sequential phases: <br/>
 - Generate test design: Pending your modeling approach, you might need to split the data into training, test, and validation sets.
 - Build model: As glamorous as this might sound, this might just be executing a few lines of code like “reg = LinearRegression().fit(X, y)”.
 - Assess model: Generally, multiple models are competing against each other, and the data scientist needs to interpret the model results based on domain knowledge, the pre-defined success criteria, and the test design. <br/>
-
+<br/>
 2.5. Evaluation – Which model best meets the business objectives? <br/>
 - Evaluate results: Do the models meet the business success criteria? Which one(s) should we approve for the business?
 - Review process: Review the work accomplished. Was anything overlooked? Were all steps properly executed? Summarize findings and correct anything if needed.
-- Determine next steps: Based on the previous three tasks, determine whether to proceed to deployment, iterate further, or initiate new projects. <br/>
-
+- Determine next steps: Based on the previous three tasks, determine whether to proceed to deployment, iterate further, or initiate new projects. <br/><br/>
 2.6. Deployment – How do stakeholders access the results? <br/>
 - Plan deployment: Develop and document a plan for deploying the model.
 - Plan monitoring and maintenance: Develop a thorough monitoring and maintenance plan to avoid issues during the operational phase (or post-project phase) of a model.
