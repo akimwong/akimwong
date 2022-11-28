@@ -23,8 +23,9 @@ There are different methods to perform qualitative analysis, among which are: <b
 Process model that serves as the base for a data science process.  <br/>
 Shouldn't be considered  BETTER or WORSE than QUALITATIVE data analysis. <br/>
 Based on the `CRISP-DM` method we have six sequential phases: <br/>
-
-
+<p align="center">
+  <img src="https://github.com/akimwong/1_OnPremise/blob/main/Journey/002/plots/plot4.png" width="1000" height="500">
+</p>
 2.1. Business understanding – What does the business need? <br/>
 - Determine business objectives: You should first “thoroughly understand, from a business perspective, what the customer really wants to accomplish.” and then define business success criteria.
 - Assess situation: Determine resources availability, project requirements, assess risks and contingencies, and conduct a cost-benefit analysis.
