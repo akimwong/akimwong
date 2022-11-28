@@ -117,7 +117,7 @@
 ### Interviews
 - [Questions to Help You Practice for Your Data Science Interview (SMRY)(DL)](https://towardsdatascience.com/questions-to-help-you-practice-for-your-data-science-interview-c619ab6db70b)
 - [Python Practice Questions for Coding Interviews](https://amankharwal.medium.com/python-practice-questions-for-beginners-268fcdfb14e6)
-- [Ace your Machine Learning Interview — Part 5](https://towardsdatascience.com/ace-your-machine-learning-interview-part-5-3de48703cd65)
+- [Ace your Machine Learning Interview — Part 5 (DL)](https://towardsdatascience.com/ace-your-machine-learning-interview-part-5-3de48703cd65)
 - [25 Advanced SQL Interview Questions for Data Scientists](https://www.kdnuggets.com/2022/10/25-advanced-sql-interview-questions-data-scientists.html)
 - [20 Python Interview Questions To Challenge Your Knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
 - [Top 19 Data Science Interview Questions for Beginners](https://www.datasciencecentral.com/top-17-data-science-interview-questions-for-beginners/)
