@@ -13,7 +13,7 @@ Is the strategy employed in the collection of data or evidence for analysis to u
 
 ### 2. Quantitative data analysis (focuses on numerical, objective and repeatable data, and avoids subjectivity) <br/>
 
-Process model that serves as the base for a data science process. 
+Process model that serves as the base for a data science process.  Shouldn't be considered  BETTER or WORSE than QUALITATIVE data.
 It has six sequential phases: <br/>
 
 2.1. Business understanding – What does the business need? <br/>
