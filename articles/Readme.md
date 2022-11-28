@@ -72,6 +72,7 @@
 - [Why Analytics Needs an Impact-Driven Approach](https://towardsdatascience.com/why-analytics-needs-an-impact-driven-approach-43179f3bec4e)
 - [Don’t Be “Data-Driven.” Be Analytics-Driven](https://towardsdatascience.com/dont-be-data-driven-be-analytics-driven-74cbb0518640)
 - [Between R and Python, Which Language Would I Suggest to an Aspiring Data Analytics Expert?](https://towardsdatascience.com/between-r-and-python-which-language-would-i-suggest-to-an-aspiring-data-analytics-expert-469b5cf391eb)
+- [The analyst’s dilemma — too much data, too little time (DL)](https://towardsdatascience.com/the-analysts-dilemma-too-much-data-too-little-time-9b8774f74e20)
 
 ### Cheat Sheets
 - [Machine Learning/Data Science Interview](https://drive.google.com/file/d/1nbNWs_DyfG0YGMs3DjIaXrD7ytSnsSJ7/view?_hsenc=p2ANqtz-__AJFM3JfYyM2d8eVGHe6P2SttQ0ktDpiHs3q_PNS788VbINkFeJhSGet2jPmtnyECvyjZ&hss_channel=tw-1318985240)
