@@ -40,6 +40,7 @@
 - [A Case for Heuristics: Why Simple Solutions Often Win in Data Science (DL)](https://towardsdatascience.com/a-case-for-heuristics-why-simple-solutions-often-win-in-data-science-a31967766daa)
 - [What I Learned in My First 6 Months as a Director of Data Science (DL)](https://towardsdatascience.com/what-i-learned-in-my-first-6-months-as-a-director-of-data-science-d9b7b98a48f7)
 - [How I’d Learn Data Science If I Could Start Over (4 Years In) (DL)](https://towardsdatascience.com/how-id-learn-data-science-if-i-could-start-over-4-years-in-999f8144f897)
+- [How to Set Yourself Up For Success As a New Data Science Consultant With No Experience](https://towardsdatascience.com/how-to-set-yourself-up-for-success-as-a-new-data-science-consultant-with-no-experience-a0a94fc4710f)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
