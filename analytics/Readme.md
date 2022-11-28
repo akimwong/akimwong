@@ -12,7 +12,7 @@ Is basically related to PROBLEM SOLVING.<br/>
 
 #### ... the analytical methodology I try to practice is as follows...
 
-***STEP 1:*** **IDENTIFY/DEFINE** the problem and **TYPE** of problem (enough) <- most important step!
+***STEP 1:*** **IDENTIFY/DEFINE** the problem and **TYPE** of problem ([enough](Sefine/)) <- most important step!
 
 ***STEP 2:*** **APPROACH** How to solve it? <br/>
 
