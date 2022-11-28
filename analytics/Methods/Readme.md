@@ -10,7 +10,7 @@ Is the strategy employed in the collection of data or evidence for analysis to u
 
 ## Type of methods:
 ### 1. Qualitative data analysis (aims to understand the problems being investigated in greater detail, and is often quite subjective). 
-Is often referred to as "storytelling" because it includes èxtensive aditional information` beyond a simple response to the hypothesis question. <br/>
+Is often referred to as "storytelling" because it includes `extensive aditional information` beyond a simple response to the hypothesis question. <br/>
 Collecting Qualitative data can help you understand more facts and circunstances and `how they impact` the problem you are trying to solve.
 ### 2. Quantitative data analysis (focuses on numerical, objective and repeatable data, and avoids subjectivity) <br/>
 
