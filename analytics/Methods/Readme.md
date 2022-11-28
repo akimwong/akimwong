@@ -13,10 +13,10 @@ Is the strategy employed in the collection of data or evidence for analysis to u
 Is often referred to as "storytelling" because it includes `extensive aditional information` beyond a simple response to the hypothesis question. <br/>
 Collecting qualitative data can help you understand more facts and circunstances and `how they impact` the problem you are trying to solve. <br/>
 There are different methods to perform qualitative analysis, among which are: <br/>
-1.1. Herbert Simon's Decomposable Matrix
-1.2. Dimensional Analysis
-1.3. Organized Random Research
-1.4. Relevance Systems
+1.1. Herbert Simon's Decomposable Matrix <br/>
+1.2. Dimensional Analysis  <br/>
+1.3. Organized Random Research <br/>
+1.4. Relevance Systems <br/>
 
 ### 2. Quantitative data analysis (relies on numbers, objective and repeatable data, and avoids subjectivity) <br/>
 
