@@ -37,14 +37,14 @@ Based on the `CRISP-DM` method we have six sequential phases: <br/>
 - Describe data: Examine the data and document its surface properties like data format, number of records, or field identities.
 - Explore data: Dig deeper into the data. Query it, visualize it, and identify relationships among the data.
 - Verify data quality: How clean/dirty is the data? Document any quality issues. <br/>
-
+<br/>
 2.3. Data preparation – How do we organize the data for modeling? <br/>
 - Select data: Determine which data sets will be used and document reasons for inclusion/exclusion.
 - Clean data: Often this is the lengthiest task. Without it, you’ll likely fall victim to garbage-in, garbage-out. A common practice during this task is to correct, impute, or remove erroneous values.
 - Construct data: Derive new attributes that will be helpful. For example, derive someone’s body mass index from height and weight fields.
 - Integrate data: Create new data sets by combining data from multiple sources.
 - Format data: Re-format data as necessary. For example, you might convert string values that store numbers to numeric values so that you can perform mathematical operations. <br/>
-
+<br/>
 2.4. Modeling – What modeling techniques should we apply? <br/>
 - Select modeling techniques: Determine which algorithms to try (e.g. regression, neural net).
 - Generate test design: Pending your modeling approach, you might need to split the data into training, test, and validation sets.
