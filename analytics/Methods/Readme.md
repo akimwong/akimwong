@@ -11,12 +11,18 @@ Is the strategy employed in the collection of data or evidence for analysis to u
 ## Type of methods:
 ### 1. Qualitative data analysis (aims to understand the problems being investigated in greater detail, and is often quite subjective). 
 Is often referred to as "storytelling" because it includes `extensive aditional information` beyond a simple response to the hypothesis question. <br/>
-Collecting qualitative data can help you understand more facts and circunstances and `how they impact` the problem you are trying to solve.
+Collecting qualitative data can help you understand more facts and circunstances and `how they impact` the problem you are trying to solve. <br/>
+There are different methods to perform qualitative analysis, among which are: <br/>
+1.1. Herbert Simon's Decomposable Matrix
+1.2. Dimensional Analysis
+1.3. Organized Random Research
+1.4. Relevance Systems
+
 ### 2. Quantitative data analysis (relies on numbers, objective and repeatable data, and avoids subjectivity) <br/>
 
-Process model that serves as the base for a data science process.  Shouldn't be considered  BETTER or WORSE than QUALITATIVE data. <br/>
+Process model that serves as the base for a data science process.  <br/>
+Shouldn't be considered  BETTER or WORSE than QUALITATIVE data analysis. <br/>
 Based on the `CRISP-DM` method we have six sequential phases: <br/>
-
 
 
 2.1. Business understanding – What does the business need? <br/>
