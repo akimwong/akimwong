@@ -1,4 +1,4 @@
-## Asking...
-1. Why 5 times
-2. Who, what, where, why, how
-3. Looking at cause -> effect
+## Define the problem by asking...
+1. Why? (5 times) or
+2. Who?, What?, Where?, Why?, How? or
+3. Looking at Cause -> Effect
