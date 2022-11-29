@@ -126,6 +126,3 @@
 
 
 
-"The true purpose of forecasting is not just to predict the future, but rather to tell you what actions to take in the present.
-All of your forecasting tools should be built with that in mind."  @marktenenholtz
-
