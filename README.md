@@ -22,7 +22,9 @@ I am focused on the continuous developing of an [analytical mind](analytics/) wi
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
 [See my LinkedIn profile where I post my professional experience and education](https://www.linkedin.com/in/carlos-wong-306baa9/)  
-  
+
+"The value of data scientists is their impact on a company and the outcomes their work produces." @KenJee_DS
+
 <!--
 **akimwong/akimwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
