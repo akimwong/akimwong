@@ -25,8 +25,9 @@ And -using the right data set, algorithm and hyperparameters- try to forecast th
 
 [See my LinkedIn profile where I post my professional experience and education](https://www.linkedin.com/in/carlos-wong-306baa9/)  
 
-"The value of data scientists is their impact on a company and the outcomes their work produces." @KenJee_DS
-
+"The value of data scientists is their impact on a company and the outcomes their work produces." @KenJee_DS <br/>
+"The true purpose of forecasting is not just to predict the future, but rather to tell you what actions to take in the present.
+All of your forecasting tools should be built with that in mind."  @marktenenholtz
 <!--
 **akimwong/akimwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
