@@ -121,6 +121,7 @@
 - [25 Advanced SQL Interview Questions for Data Scientists (DL)](https://www.kdnuggets.com/2022/10/25-advanced-sql-interview-questions-data-scientists.html)
 - [20 Python Interview Questions To Challenge Your Knowledge (DL)](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
 - [Top 19 Data Science Interview Questions for Beginners (DL)](https://www.datasciencecentral.com/top-17-data-science-interview-questions-for-beginners/)
+- [5 Python Interview Questions & Answers](https://www.kdnuggets.com/2022/09/5-python-interview-questions-answers.html)
 
 
 
