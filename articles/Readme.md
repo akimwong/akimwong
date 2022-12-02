@@ -99,7 +99,7 @@
 - [How to Measure Heteroscedasticity in Regression?](https://finnstats.com/index.php/2021/07/28/how-to-measure-heteroscedasticity-in-regression/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 - [Los siete pecados estadísticos](https://www.maximaformacion.es/blog-dat/los-siete-pecados-estadisticos/)
 - [10 reglas simples para la práctica estadística efectiva](https://www.maximaformacion.es/blog-dat/10-reglas-para-la-practica-estadistica-efectiva/)
-- [On Probability versus Likelihood (DL)](https://towardsdatascience.com/on-probability-versus-likelihood-83386b81ad83) (DL)](https://towardsdatascience.com/overusing-the-term-statistically-significant-makes-you-look-clueless-f96e1ad1a78e)
+- [On Probability versus Likelihood (DL)](https://towardsdatascience.com/on-probability-versus-likelihood-83386b81ad83) 
 - [Overusing the Term “Statistically Significant” Makes You Look Clueless (DL)](https://towardsdatascience.com/overusing-the-term-statistically-significant-makes-you-look-clueless-f96e1ad1a78e)
 
 ### Jobs
