@@ -1,3 +1,5 @@
+- [How to Build Expertise in a New Field_HBR (DL)](https://hbr.org/2015/04/how-to-build-expertise-in-a-new-field?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+
 ### Coding
 - [3 Powerful Reasons You Should Plan Your Python Code Before You Write It](https://towardsdatascience.com/3-powerful-reasons-you-should-plan-your-python-code-before-you-write-it-dcedd4b3bf28)
 - [How to Write Good Code Documentation for Data Scientists](https://towardsdatascience.com/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)
