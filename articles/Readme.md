@@ -127,6 +127,7 @@
 - [Top 19 Data Science Interview Questions for Beginners (DL)](https://www.datasciencecentral.com/top-17-data-science-interview-questions-for-beginners/)
 - [5 Python Interview Questions & Answers](https://www.kdnuggets.com/2022/09/5-python-interview-questions-answers.html)
 - [7 SQL Concepts You Should Know For Data Science_KDNuggets](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html)
+- [How to Prepare for Big Tech Data Science Interviews (DL)](https://towardsdatascience.com/how-to-prepare-for-big-tech-data-science-interviews-aec7a764d8f7)
 
 
 
