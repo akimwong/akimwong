@@ -21,7 +21,7 @@
 - [Telling a Great Data Story: A Visualization Decision Tree](https://www.kdnuggets.com/2021/02/telling-great-data-story-visualization-decision-tree.html)
 - [Five Essential Presenting Tips for Data Professionals (DL)](https://towardsdatascience.com/five-essential-presenting-tips-for-data-professionals-c31708ec52f5)
 - [Machine Learning Explainability vs Interpretability: Two concepts that could help restore trust in AI](https://www.kdnuggets.com/2018/12/machine-learning-explainability-interpretability-ai.html)
-- [Is Public Speaking the Kryptonite of Data Scientists?](https://towardsdatascience.com/is-public-speaking-the-cryptonite-of-data-scientists-bb7dac5925d6)
+- [Is Public Speaking the Kryptonite of Data Scientists? (DL)](https://towardsdatascience.com/is-public-speaking-the-cryptonite-of-data-scientists-bb7dac5925d6)
 
 ### Data science
 - [Understanding the Business: The Data Science Skill We Don’t Talk About Enough](https://towardsdatascience.com/the-data-science-skill-no-one-talks-about-57d5d3e9f9d)
