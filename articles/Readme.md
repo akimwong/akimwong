@@ -87,6 +87,7 @@
 ### Cheat Sheets
 - [Machine Learning/Data Science Interview](https://drive.google.com/file/d/1nbNWs_DyfG0YGMs3DjIaXrD7ytSnsSJ7/view?_hsenc=p2ANqtz-__AJFM3JfYyM2d8eVGHe6P2SttQ0ktDpiHs3q_PNS788VbINkFeJhSGet2jPmtnyECvyjZ&hss_channel=tw-1318985240)
 - [Posit Cheatsheets (R)](https://posit.co/resources/cheatsheets/?_page=1/)
+- [21 Cheat Sheets for Data Science Interviews](https://www.kdnuggets.com/2022/06/21-cheat-sheets-data-science-interviews.html?utm_content=230063195&utm_medium=social&utm_source=twitter&hss_channel=tw-1318985240)
 
 
 ### Statistics
