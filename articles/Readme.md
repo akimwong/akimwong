@@ -139,6 +139,7 @@
 - [How to Prepare for Big Tech Data Science Interviews (DL)](https://towardsdatascience.com/how-to-prepare-for-big-tech-data-science-interviews-aec7a764d8f7)
 - [Python Coding Interviews: Tips & Best Practices_Real Python](https://realpython.com/courses/python-coding-interviews-tips-best-practices/)
 - [A Comprehensive Statistics Cheat Sheet for Data Science Interviews](https://www.stratascratch.com/blog/a-comprehensive-statistics-cheat-sheet-for-data-science-interviews/)
+- [The Most Comprehensive Stats Cheat Sheet - Statistics (DL)](https://terenceshin.medium.com/week-2-52-stats-cheat-sheet-ae38a2e5cdc6)
 
 
 
