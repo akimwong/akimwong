@@ -112,6 +112,7 @@
 - [On Probability versus Likelihood (DL)](https://towardsdatascience.com/on-probability-versus-likelihood-83386b81ad83) 
 - [Overusing the Term “Statistically Significant” Makes You Look Clueless (DL)](https://towardsdatascience.com/overusing-the-term-statistically-significant-makes-you-look-clueless-f96e1ad1a78e)
 - [Calculate the p-Value from Z-Score in R](https://datasciencetut.com/calculate-the-p-value-from-z-score-in-r/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
+- [Bayesian vs. Frequentist Inference (DL)](https://towardsdatascience.com/bayesian-vs-frequentist-inference-a2cab8087bda)
 
 ### Jobs
 - [How to Get Your Resume Noticed (And Out of the Trash Bin) (SMRY)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
