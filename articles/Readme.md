@@ -145,6 +145,7 @@
 - [A Comprehensive Statistics Cheat Sheet for Data Science Interviews](https://www.stratascratch.com/blog/a-comprehensive-statistics-cheat-sheet-for-data-science-interviews/)
 - [The Most Comprehensive Stats Cheat Sheet - Statistics (DL)](https://terenceshin.medium.com/week-2-52-stats-cheat-sheet-ae38a2e5cdc6)
 - [How to Prepare for a Data Science Interview (DL)](https://www.kdnuggets.com/2022/12/prepare-data-science-interview.html)
+- [24 SQL Questions You Might See on Your Next Interview_KDNuggets](https://www.kdnuggets.com/2022/06/24-sql-questions-might-see-next-interview.html)
 
 
 
