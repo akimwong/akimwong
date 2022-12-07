@@ -70,6 +70,7 @@
 - [Lightweight Introduction to MLOps](https://towardsdatascience.com/lightweight-introduction-to-mlops-a77406cfcc68)
 - [10 Most Used Machine Learning Algorithms In Python With Code](https://www.theinsaneapp.com/2021/11/machine-learning-algorithms-for-beginners.html)
 - [Deploying Your Machine Learning Model Is Just the Beginning](https://towardsdatascience.com/deploying-your-machine-learning-model-is-just-the-beginning-b4851e665b11)
+- [What is a Machine Learning Engineer? (DL)](https://towardsdatascience.com/what-is-a-machine-learning-engineer-597ff778e57b)
 
 ### Decission Making
 - [Types of Algorithms in Decision Making](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
