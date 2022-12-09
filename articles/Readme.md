@@ -52,6 +52,7 @@
 - [The Simple Things a Data Science Beginner Needs to Know (DL)](https://towardsdatascience.com/the-simple-things-you-need-to-know-as-a-data-science-beginner-c4b9ffd0b516)
 - [9 Myths about Starting in Data Science (DL)](https://towardsdatascience.com/9-myths-about-starting-in-data-science-2eee6541aac2)
 - [The 5 Most Critical Insights You’ll Gain in Your First 5 Years as a Data Scientist (DL)](https://towardsdatascience.com/the-5-most-critical-insights-youll-gain-in-your-first-5-years-as-a-data-scientist-341cc2d73232)
+- [How Can an Aspiring Data Scientist Find and Work on Real-World Projects? (DL)](https://towardsdatascience.com/how-can-an-aspiring-data-scientist-find-and-work-on-real-world-projects-48bed91af008)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
