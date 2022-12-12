@@ -91,6 +91,7 @@
 - [Between R and Python, Which Language Would I Suggest to an Aspiring Data Analytics Expert?](https://towardsdatascience.com/between-r-and-python-which-language-would-i-suggest-to-an-aspiring-data-analytics-expert-469b5cf391eb)
 - [The analyst’s dilemma — too much data, too little time (DL)](https://towardsdatascience.com/the-analysts-dilemma-too-much-data-too-little-time-9b8774f74e20)
 - [6 Learnings from Working as a Data Analyst for a Year (DL)](https://towardsdatascience.com/6-learnings-from-working-as-a-data-analyst-for-ayear-8f5531e99f8a)
+- [Data Analyst Skills You Need for Your Next Promotion (DL)](https://towardsdatascience.com/data-analyst-skills-you-need-for-your-next-promotion-479275b80bad)
 
 ### Cheat Sheets
 - [Machine Learning/Data Science Interview](https://drive.google.com/file/d/1nbNWs_DyfG0YGMs3DjIaXrD7ytSnsSJ7/view?_hsenc=p2ANqtz-__AJFM3JfYyM2d8eVGHe6P2SttQ0ktDpiHs3q_PNS788VbINkFeJhSGet2jPmtnyECvyjZ&hss_channel=tw-1318985240)
