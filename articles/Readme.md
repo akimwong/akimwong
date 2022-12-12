@@ -124,6 +124,7 @@
 - [The Joy of A/B Testing: Theory, Practice, and Pitfalls (DL)](https://towardsdatascience.com/the-joy-of-a-b-testing-theory-practice-and-pitfalls-de58acbdb04a)
 - [Importance of Quartiles in Statistics for Data Science_finnstats](https://finnstats.com/index.php/2022/05/24/importance-of-quartiles-in-statistics-for-data-science/)
 - [Hypothesis Testing Explained_KdNuggets](https://www.kdnuggets.com/2021/09/hypothesis-testing-explained.html)
+- [5 ways to Increase Statistical Power (DL)](https://towardsdatascience.com/5-ways-to-increase-statistical-power-377c00dd0214)
 
 ### Jobs
 - [How to Get Your Resume Noticed (And Out of the Trash Bin) (SMRY)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
