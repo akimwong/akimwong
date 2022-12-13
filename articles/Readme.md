@@ -137,6 +137,7 @@
 - [Prepare Your CV for a Data Science Job (SMRY)](https://towardsdatascience.com/prepare-your-cv-for-a-data-science-job-7b8a4515c17b)
 - [5 Things in Your Resume That Are Keeping You from Getting Your First Job in Data Science (SMRY)(DL)](https://towardsdatascience.com/5-things-in-your-resume-that-are-keeping-you-from-getting-your-first-job-in-data-science-1a4d474ff3e4)
 - [Building a Data Science Team (SMRY)(DL)](https://towardsdatascience.com/building-a-data-science-team-d03f854e63b4)
+- [How to find the right Machine Learning team (DL)](https://towardsdatascience.com/how-to-find-the-right-machine-learning-team-97a4b56fbbb7)
 - [3 Underappreciated Skills to Make You A Next-Level Data Scientist (SMRY)(DL)](https://towardsdatascience.com/3-underappreciated-skills-to-make-you-a-next-level-data-scientist-6b5236770651)
 - [Top Mistakes to Avoid in Your 2022 Data Science Job Search (SMRY)(DL)](https://towardsdatascience.com/top-mistakes-to-avoid-in-your-2022-data-science-job-search-89788701c6d9)
 - [The Three Trending Data Science Jobs and How to Land Them (DL)](https://opendatascience.com/the-three-trending-data-science-jobs-and-how-to-land-them/)
