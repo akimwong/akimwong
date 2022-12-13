@@ -37,7 +37,7 @@
 - [Step-by-step Approach of Building Data Pipelines as a Data Scientist or a Machine Learning Engineer (DL)](https://towardsdatascience.com/step-by-step-approach-of-building-data-pipelines-as-a-data-scientist-or-a-machine-learning-engineer-4b3e8da3bcd1)
 - [11 data science skills for machine learning and AI_TechTarget](https://www.techtarget.com/searchenterpriseai/tip/11-data-science-skills-for-machine-learning-and-AI)
 - [How to Start Your First Data Science Project When You’re a Beginner (DL)](https://towardsdatascience.com/how-to-start-your-first-data-science-project-when-youre-a-beginner-9bf3dc1160c)
-- [How to Become a More Efficient Data Scientist](https://towardsdatascience.com/how-to-become-a-more-efficient-data-scientist-357df86cda4d)
+- [How to Become a More Efficient Data Scientist (DL)](https://towardsdatascience.com/how-to-become-a-more-efficient-data-scientist-357df86cda4d)
 - [5 Tips That Will Help You Become a Data Science Manager](https://towardsdatascience.com/5-tips-that-will-help-you-become-a-data-science-manager-bd4b6981c024)
 - [The 5-Step Data Science Project Life Cycle You Need to Be an Effective Data Scientist](https://towardsdatascience.com/the-5-step-data-science-project-life-cycle-you-need-to-be-an-effective-data-scientist-9343684b96cf)
 - [Handling Criticism at Work as a Data Scientist](https://towardsdatascience.com/handling-criticism-at-work-as-a-data-scientist-a1ae74c4f07d)
