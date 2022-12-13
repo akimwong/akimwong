@@ -144,6 +144,7 @@
 
 
 ### Interviews
+- [Interview Questions_SQL_ML_DL_Programing_BD_Clour_Statistics](https://intellipaat.com/blog/interview-questions/)
 - [Questions to Help You Practice for Your Data Science Interview (SMRY)(DL)](https://towardsdatascience.com/questions-to-help-you-practice-for-your-data-science-interview-c619ab6db70b)
 - [Python Practice Questions for Coding Interviews](https://amankharwal.medium.com/python-practice-questions-for-beginners-268fcdfb14e6)
 - [Ace your Machine Learning Interview — Part 5 - Kernel SVM (DL)](https://towardsdatascience.com/ace-your-machine-learning-interview-part-5-3de48703cd65)
