@@ -62,7 +62,7 @@
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
 - [Maturity of Machine Learning Systems](https://towardsdatascience.com/maturity-of-machine-learning-systems-358bab34bf69)
 - [The Machine Learning cheatsheet](https://github.com/remicnrd/ml_cheatsheet)
-- [Common Reasons why Machine Learning Projects Fail](https://towardsdatascience.com/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
+- [Common Reasons why Machine Learning Projects Fail (DL)](https://towardsdatascience.com/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
 - [In Search of the Perfect Machine Learning Model](https://towardsdatascience.com/in-search-of-the-perfect-machine-learning-model-cf4e97b95e64)
 - [Want to Succeed Doing ML in the Real World?](https://towardsdatascience.com/want-to-succeed-doing-ml-in-the-real-world-d2db790612f1)
 - [Top 5 Machine Learning Practices Recommended by Experts](https://www.kdnuggets.com/2022/09/top-5-machine-learning-practices-recommended-experts.html)
