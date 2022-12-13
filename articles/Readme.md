@@ -85,7 +85,7 @@
 - [Types of Algorithms in Decision Making_SanwouoBrell](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
 
 ### Data Analytics
-- [5 Things I *Actually* Work on as a Data Analyst in 2022](https://towardsdatascience.com/5-things-i-actually-work-on-as-a-data-analyst-in-2022-9e31df929fcb)
+- [5 Things I *Actually* Work on as a Data Analyst in 2022 (DL)](https://towardsdatascience.com/5-things-i-actually-work-on-as-a-data-analyst-in-2022-9e31df929fcb)
 - [Data analytics principles at an AI startup](https://towardsdatascience.com/data-analytics-principles-at-an-ai-startup-eebbdb208c55)
 - [10 Differences Between Amateurs and Professional Analysts](https://towardsdatascience.com/10-differences-between-amateurs-and-professional-analysts-3a1be1a06a4d)
 - [Three Common Data Analysis Operations with Three Common Tools](https://towardsdatascience.com/3-common-data-analysis-operations-with-3-common-tools-9288ce61a40f)
