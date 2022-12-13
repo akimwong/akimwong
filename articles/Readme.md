@@ -8,7 +8,7 @@
 - [How to Write Good Code Documentation for Data Scientists (DL)](https://towardsdatascience.com/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)
 - [How to Write High-Quality Python as a Data Scientist (DL)](https://towardsdatascience.com/how-to-write-high-quality-python-as-a-data-scientist-cde99f582675)
 - [Good Data Scientists Write Good Code (DL)](https://towardsdatascience.com/good-data-scientists-write-good-code-28352a826d1f)
-- [10 Easy Tips to Write Code Like a Pro](https://towardsdatascience.com/how-to-write-code-like-a-pro-659760804724)
+- [10 Easy Tips to Write Code Like a Pro (DL)](https://towardsdatascience.com/how-to-write-code-like-a-pro-659760804724)
 - [Writing-Clean-Python-Code (DL)](https://github.com/PacktPublishing/Writing-Clean-Python-Code)
 - [Retos de programación semanales](https://retosdeprogramacion.com/semanales2022)
 - [8 Tips to Improve Your Python Scripts Immediately_inedo](https://blog.inedo.com/python/8-ways-improve-python-scripts?utm_campaign=Python&utm_source=twitter&utm_medium=paidsocial&utm_content=8PythonTipsPaidTwit)
