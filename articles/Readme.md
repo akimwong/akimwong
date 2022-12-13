@@ -65,7 +65,7 @@
 - [Common Reasons why Machine Learning Projects Fail (DL)](https://towardsdatascience.com/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
 - [In Search of the Perfect Machine Learning Model (DL)](https://towardsdatascience.com/in-search-of-the-perfect-machine-learning-model-cf4e97b95e64)
 - [Want to Succeed Doing ML in the Real World? (DL)](https://towardsdatascience.com/want-to-succeed-doing-ml-in-the-real-world-d2db790612f1)
-- [Top 5 Machine Learning Practices Recommended by Experts](https://www.kdnuggets.com/2022/09/top-5-machine-learning-practices-recommended-experts.html)
+- [Top 5 Machine Learning Practices Recommended by Experts_KdNuggets](https://www.kdnuggets.com/2022/09/top-5-machine-learning-practices-recommended-experts.html)
 - [Feedback Loops in Machine Learning Systems](https://towardsdatascience.com/feedback-loops-in-machine-learning-systems-701296c91787)
 - [Writing Robust Tests for Data & Machine Learning Pipelines](https://eugeneyan.com/writing/testing-pipelines/)
 - [Nine Tools I Wish I Mastered before My PhD in Machine Learning](https://towardsdatascience.com/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0)
