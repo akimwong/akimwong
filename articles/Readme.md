@@ -40,7 +40,7 @@
 - [How to Become a More Efficient Data Scientist (DL)](https://towardsdatascience.com/how-to-become-a-more-efficient-data-scientist-357df86cda4d)
 - [5 Tips That Will Help You Become a Data Science Manager (DL)](https://towardsdatascience.com/5-tips-that-will-help-you-become-a-data-science-manager-bd4b6981c024)
 - [The 5-Step Data Science Project Life Cycle You Need to Be an Effective Data Scientist (DL)](https://towardsdatascience.com/the-5-step-data-science-project-life-cycle-you-need-to-be-an-effective-data-scientist-9343684b96cf)
-- [Handling Criticism at Work as a Data Scientist](https://towardsdatascience.com/handling-criticism-at-work-as-a-data-scientist-a1ae74c4f07d)
+- [Handling Criticism at Work as a Data Scientist (DL)](https://towardsdatascience.com/handling-criticism-at-work-as-a-data-scientist-a1ae74c4f07d)
 - [Data Science Soft Skills, Revisited](https://towardsdatascience.com/data-science-soft-skills-revisited-f82c7d8431b8)
 - [5 Quick and Easy Tips to Become an Efficient Data Scientist in Both Python and R](https://towardsdatascience.com/5-quick-and-easy-tips-to-become-an-efficient-data-scientist-in-both-python-and-r-5cf51f6396a3)
 - [3 Valuable Skills That Have Doubled My Income as a Data Scientist](https://www.kdnuggets.com/2022/10/3-valuable-skills-doubled-income-data-scientist.html)
