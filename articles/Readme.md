@@ -24,7 +24,7 @@
 - [Picking Examples to Understand Machine Learning Model_KdNuggets](https://www.kdnuggets.com/2022/11/picking-examples-understand-machine-learning-model.html)
 - [Telling a Great Data Story: A Visualization Decision Tree_KdNuggets](https://www.kdnuggets.com/2021/02/telling-great-data-story-visualization-decision-tree.html)
 - [Five Essential Presenting Tips for Data Professionals (DL)](https://towardsdatascience.com/five-essential-presenting-tips-for-data-professionals-c31708ec52f5)
-- [Machine Learning Explainability vs Interpretability: Two concepts that could help restore trust in AI](https://www.kdnuggets.com/2018/12/machine-learning-explainability-interpretability-ai.html)
+- [Machine Learning Explainability vs Interpretability: Two concepts that could help restore trust in AI_KdNuggets](https://www.kdnuggets.com/2018/12/machine-learning-explainability-interpretability-ai.html)
 - [Is Public Speaking the Kryptonite of Data Scientists? (DL)](https://towardsdatascience.com/is-public-speaking-the-cryptonite-of-data-scientists-bb7dac5925d6)
 
 ### Data science
