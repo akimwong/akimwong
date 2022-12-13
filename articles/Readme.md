@@ -4,7 +4,7 @@
 - [How You Define the Problem Determines Whether You Solve It (DL)](https://hbr.org/2017/06/how-you-define-the-problem-determines-whether-you-solve-it?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 
 ### Coding
-- [3 Powerful Reasons You Should Plan Your Python Code Before You Write It](https://towardsdatascience.com/3-powerful-reasons-you-should-plan-your-python-code-before-you-write-it-dcedd4b3bf28)
+- [3 Powerful Reasons You Should Plan Your Python Code Before You Write It (DL)](https://towardsdatascience.com/3-powerful-reasons-you-should-plan-your-python-code-before-you-write-it-dcedd4b3bf28)
 - [How to Write Good Code Documentation for Data Scientists](https://towardsdatascience.com/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)
 - [How to Write High-Quality Python as a Data Scientist (DL)](https://towardsdatascience.com/how-to-write-high-quality-python-as-a-data-scientist-cde99f582675)
 - [Good Data Scientists Write Good Code](https://towardsdatascience.com/good-data-scientists-write-good-code-28352a826d1f)
