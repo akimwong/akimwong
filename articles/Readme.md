@@ -82,7 +82,7 @@
 - [How to create products that rely on machine learning (DL)](https://towardsdatascience.com/how-to-create-products-that-rely-on-machine-learning-f0c7fe70cbc8)
 
 ### Decission Making
-- [Types of Algorithms in Decision Making](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
+- [Types of Algorithms in Decision Making_SanwouoBrell](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
 
 ### Data Analytics
 - [5 Things I *Actually* Work on as a Data Analyst in 2022](https://towardsdatascience.com/5-things-i-actually-work-on-as-a-data-analyst-in-2022-9e31df929fcb)
