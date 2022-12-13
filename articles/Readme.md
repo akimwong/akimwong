@@ -46,7 +46,7 @@
 - [3 Valuable Skills That Have Doubled My Income as a Data Scientist_KdNuggets](https://www.kdnuggets.com/2022/10/3-valuable-skills-doubled-income-data-scientist.html)
 - [Practical Data Science: Promotion Effectiveness and Promotion Planning— Part 2 (DL)](https://towardsdatascience.com/practical-data-science-promotion-effectiveness-and-promotion-planning-part-2-f54e9454a151)
 - [Data science toolkit: Progress in the world of data with leading resources (DL)](https://datasciencedojo.com/blog/data-science-toolkit/)
-- [How to Avoid Mistakes in Data Science](https://towardsdatascience.com/how-to-avoid-mistakes-in-data-science-20d6f9c4274b)
+- [How to Avoid Mistakes in Data Science (DL)](https://towardsdatascience.com/how-to-avoid-mistakes-in-data-science-20d6f9c4274b)
 - [A Case for Heuristics: Why Simple Solutions Often Win in Data Science (DL)](https://towardsdatascience.com/a-case-for-heuristics-why-simple-solutions-often-win-in-data-science-a31967766daa)
 - [What I Learned in My First 6 Months as a Director of Data Science (DL)](https://towardsdatascience.com/what-i-learned-in-my-first-6-months-as-a-director-of-data-science-d9b7b98a48f7)
 - [How I’d Learn Data Science If I Could Start Over (4 Years In) (DL)](https://towardsdatascience.com/how-id-learn-data-science-if-i-could-start-over-4-years-in-999f8144f897)
