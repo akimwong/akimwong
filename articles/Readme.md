@@ -44,7 +44,7 @@
 - [Data Science Soft Skills, Revisited (DL)](https://towardsdatascience.com/data-science-soft-skills-revisited-f82c7d8431b8)
 - [5 Quick and Easy Tips to Become an Efficient Data Scientist in Both Python and R (DL)](https://towardsdatascience.com/5-quick-and-easy-tips-to-become-an-efficient-data-scientist-in-both-python-and-r-5cf51f6396a3)
 - [3 Valuable Skills That Have Doubled My Income as a Data Scientist_KdNuggets](https://www.kdnuggets.com/2022/10/3-valuable-skills-doubled-income-data-scientist.html)
-- [Practical Data Science: Promotion Effectiveness and Promotion Planning— Part 2](https://towardsdatascience.com/practical-data-science-promotion-effectiveness-and-promotion-planning-part-2-f54e9454a151)
+- [Practical Data Science: Promotion Effectiveness and Promotion Planning— Part 2 (DL)](https://towardsdatascience.com/practical-data-science-promotion-effectiveness-and-promotion-planning-part-2-f54e9454a151)
 - [Data science toolkit: Progress in the world of data with leading resources](https://datasciencedojo.com/blog/data-science-toolkit/)
 - [How to Avoid Mistakes in Data Science](https://towardsdatascience.com/how-to-avoid-mistakes-in-data-science-20d6f9c4274b)
 - [A Case for Heuristics: Why Simple Solutions Often Win in Data Science (DL)](https://towardsdatascience.com/a-case-for-heuristics-why-simple-solutions-often-win-in-data-science-a31967766daa)
