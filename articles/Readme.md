@@ -3,6 +3,7 @@
 - [5 Concepts That Will Help Your Team Be More Data-Driven (DL)](https://hbr.org/2018/11/5-concepts-that-will-help-your-team-be-more-data-driven?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [How You Define the Problem Determines Whether You Solve It (DL)](https://hbr.org/2017/06/how-you-define-the-problem-determines-whether-you-solve-it?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [6 Ways to Look More Confident During a Presentation (DL)](https://hbr.org/2017/04/6-ways-to-look-more-confident-during-a-presentation?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [5 Tips to Help You Get Hired Right Now (DL)](https://hbr.org/2020/12/5-tips-to-help-you-get-hired-right-now?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 
 ### Coding
 - [3 Powerful Reasons You Should Plan Your Python Code Before You Write It (DL)](https://towardsdatascience.com/3-powerful-reasons-you-should-plan-your-python-code-before-you-write-it-dcedd4b3bf28)
