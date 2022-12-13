@@ -12,7 +12,7 @@
 - [Writing-Clean-Python-Code (DL)](https://github.com/PacktPublishing/Writing-Clean-Python-Code)
 - [Retos de programación semanales](https://retosdeprogramacion.com/semanales2022)
 - [8 Tips to Improve Your Python Scripts Immediately_inedo](https://blog.inedo.com/python/8-ways-improve-python-scripts?utm_campaign=Python&utm_source=twitter&utm_medium=paidsocial&utm_content=8PythonTipsPaidTwit)
-- [How and Why You Should Be Explicit When Python Coding](https://www.datasciencecentral.com/how-and-why-you-should-be-explicit-when-python-coding/)
+- [How and Why You Should Be Explicit When Python Coding_datasciencecentral](https://www.datasciencecentral.com/how-and-why-you-should-be-explicit-when-python-coding/)
 - [5 Mistakes to Avoid When First Learning to Program](https://towardsdatascience.com/5-mistakes-to-avoid-when-first-learning-to-program-431dc1fa190a)
 
 ### Storytelling
