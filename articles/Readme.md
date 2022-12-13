@@ -16,7 +16,7 @@
 - [5 Mistakes to Avoid When First Learning to Program (DL)](https://towardsdatascience.com/5-mistakes-to-avoid-when-first-learning-to-program-431dc1fa190a)
 
 ### Storytelling
-- [8 Tips for Creating a Compelling Presentation for Data Science](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0)
+- [8 Tips for Creating a Compelling Presentation for Data Science (DL)](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0)
 - [Data Science and the Art of Persuasion](https://hbr.org/2019/01/data-science-and-the-art-of-persuasion?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [Picking Examples to Understand Machine Learning Model](https://www.kdnuggets.com/2022/11/picking-examples-understand-machine-learning-model.html)
 - [Telling a Great Data Story: A Visualization Decision Tree](https://www.kdnuggets.com/2021/02/telling-great-data-story-visualization-decision-tree.html)
