@@ -31,7 +31,7 @@
 - [Understanding the Business: The Data Science Skill We Don’t Talk About Enough (DL)](https://towardsdatascience.com/the-data-science-skill-no-one-talks-about-57d5d3e9f9d)
 - [Why Data Governance Matters: Master Data Management (MDM) (DL)](https://towardsdatascience.com/why-data-governance-matters-master-data-management-mdm-5d9af0f64573)
 - [These are the Steps You Need to Take to Create a Good Data Science Product (DL)](https://towardsdatascience.com/these-are-the-steps-you-need-to-take-to-create-a-good-data-science-product-697b22d335c5)
-- [5 Simple Tips to Help You Future-Proof Yourself as a Data Scientist](https://towardsdatascience.com/5-simple-tips-to-help-you-future-proof-yourself-as-a-data-scientist-8b34479e5aad)
+- [5 Simple Tips to Help You Future-Proof Yourself as a Data Scientist (DL)](https://towardsdatascience.com/5-simple-tips-to-help-you-future-proof-yourself-as-a-data-scientist-8b34479e5aad)
 - [Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/)
 - [6 Habits to Include in Your Daily Routine for a Long, Happy Career as a Data Scientist](https://towardsdatascience.com/6-habits-to-include-in-your-daily-routine-for-a-long-happy-career-as-a-data-scientist-de733eae6250)
 - [Step-by-step Approach of Building Data Pipelines as a Data Scientist or a Machine Learning Engineer](https://towardsdatascience.com/step-by-step-approach-of-building-data-pipelines-as-a-data-scientist-or-a-machine-learning-engineer-4b3e8da3bcd1)
