@@ -40,3 +40,19 @@ For example: In which graph is the number of 7 best counted?
 ## 8.	Creating Compelling Data Visualizations
 1.	[Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) by Cole Nussbaumer Knaflic
 2.	[Data Story](https://www.amazon.com/DataStory-Explain-Inspire-Action-Through/dp/1940858984) by Nancy Duarte
+
+# Is Public Speaking the Kryptonite of Data Scientists?
+The three key lessons that helped me improve my presentation skills
+
+## 1. Perfection is achieved not when there is nothing more to add but when there is nothing left to take away
+- The business stakeholders will not perceive a less detailed presentation as unprofessional or sub-par. 
+- In fact, the exact opposite occurs in reality. The more targeted and simplistic your presentations are, the easier they will be to follow and understand, compared to a more heavy presentation that will make your audience tune out after a couple of minutes.
+- Before you start creating your presentation, there are three key aspects to focus on that can help you separate the noise from the signal in your decks:
+1. Who is your audience, and what is their technical proficiency? 
+2. Why should that audience care about the topic you are presenting? 
+3. What will you present?
+
+## 2. Your visuals should be assets and not liabilities
+There are two main building blocks within each slide, the actual visual (table or chart) and a short summary of the insights found in it.
+
+### Tables
