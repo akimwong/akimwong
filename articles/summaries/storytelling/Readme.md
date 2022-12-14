@@ -8,7 +8,7 @@ It’s a simple framework that keeps you organized in your structure, brings act
 -	Complication: Action is required based on the situation.
 -	Resolution: The action is taken or recommended to solve the complication.
 <p align="center">
-  <img src="https://github.com/akimwong/akimwong/blob/main/analytics/Methods/CRISPDM.png" width="400" height="400">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/storytelling/StoryTelling1.png" width="400" height="200">
 </p>
 ## 3.	The One Minute Per Slide Rule
 Instead of creating your presentation and rehearsing the timing, consider that each major content slide will take one minute to present.
