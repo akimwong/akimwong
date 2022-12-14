@@ -11,7 +11,7 @@ It’s a simple framework that keeps you organized in your structure, brings act
 Instead of creating your presentation and rehearsing the timing, consider that each major content slide will take one minute to present.
 Eliminate the stress from figuring out how much content you need to create.
 ## 4.	The Rule of Three
-
+Stick with three and only three items when building your structure, sections of your story, or the number of bullet points on your slide.
 
 ## 5.	Write Slide Titles as Outcomes
 
