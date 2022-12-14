@@ -1,3 +1,5 @@
+(SMRY): In summary folder / (DL): Downloaded
+
 ### HBR
 - [How to Build Expertise in a New Field (DL)](https://hbr.org/2015/04/how-to-build-expertise-in-a-new-field?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [5 Concepts That Will Help Your Team Be More Data-Driven (DL)](https://hbr.org/2018/11/5-concepts-that-will-help-your-team-be-more-data-driven?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
@@ -19,7 +21,7 @@
 - [5 Mistakes to Avoid When First Learning to Program (DL)](https://towardsdatascience.com/5-mistakes-to-avoid-when-first-learning-to-program-431dc1fa190a)
 
 ### Storytelling
-- [8 Tips for Creating a Compelling Presentation for Data Science (DL)](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0)
+- [8 Tips for Creating a Compelling Presentation for Data Science (SMRY)(DL)](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0)
 - [Data Science and the Art of Persuasion (DL)](https://hbr.org/2019/01/data-science-and-the-art-of-persuasion?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [Picking Examples to Understand Machine Learning Model_KdNuggets](https://www.kdnuggets.com/2022/11/picking-examples-understand-machine-learning-model.html)
 - [Telling a Great Data Story: A Visualization Decision Tree_KdNuggets](https://www.kdnuggets.com/2021/02/telling-great-data-story-visualization-decision-tree.html)
