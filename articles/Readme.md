@@ -110,7 +110,7 @@
 - [Simple Explanations of Basic Statistics Concepts (Part 1)](https://towardsdatascience.com/simple-explanations-of-basic-statistics-concepts-part-1-bba66a1761d7)
 - [Chi-square Test — How to calculate Chi-square using Formula & Python Implementation](https://towardsdatascience.com/chi-square-test-how-to-calculate-chi-square-using-formula-python-implementation-6da203f96569)
 - [Standard Deviation vs Standard Error: What’s the Difference? (DL)](https://towardsdatascience.com/standard-deviation-vs-standard-error-whats-the-difference-ae969f48adef)
-- [Learnt Harmonic Mean Estimator for Bayesian Model Selection](https://towardsdatascience.com/learnt-harmonic-mean-estimator-for-bayesian-model-selection-47258bb0fc2e)
+- [Learnt Harmonic Mean Estimator for Bayesian Model Selection (DL)](https://towardsdatascience.com/learnt-harmonic-mean-estimator-for-bayesian-model-selection-47258bb0fc2e)
 - [T-test and Hypothesis Testing (Explained Simply) (DL)](https://towardsdatascience.com/t-test-and-hypothesis-testing-explained-simply-1cff6358633e)
 - [Data Scientists Need to Know Just One Statistical Test (DL)](https://towardsdatascience.com/data-scientists-need-to-know-just-one-statistical-test-3115b2ff26fd)
 - [7 Most Asked Questions on Central Limit Theorem (DL)](https://medium.com/towards-data-science/7-most-asked-questions-on-central-limit-theorem-82e95eb7d964)
