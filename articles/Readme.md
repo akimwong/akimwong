@@ -124,7 +124,7 @@
 - [10 reglas simples para la práctica estadística efectiva](https://www.maximaformacion.es/blog-dat/10-reglas-para-la-practica-estadistica-efectiva/)
 - [On Probability versus Likelihood (DL)](https://towardsdatascience.com/on-probability-versus-likelihood-83386b81ad83) 
 - [Overusing the Term “Statistically Significant” Makes You Look Clueless (DL)](https://towardsdatascience.com/overusing-the-term-statistically-significant-makes-you-look-clueless-f96e1ad1a78e)
-- [Calculate the p-Value from Z-Score in R](https://datasciencetut.com/calculate-the-p-value-from-z-score-in-r/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
+- [Calculate the p-Value from Z-Score in R_DScTutorials](https://datasciencetut.com/calculate-the-p-value-from-z-score-in-r/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 - [Bayesian vs. Frequentist Inference (DL)](https://towardsdatascience.com/bayesian-vs-frequentist-inference-a2cab8087bda)
 - [10 Statistical Concepts You Should Know For Data Science Interviews_KDNuggets](https://www.kdnuggets.com/2021/02/10-statistical-concepts-data-science-interviews.html)
 - [The Joy of A/B Testing: Theory, Practice, and Pitfalls (DL)](https://towardsdatascience.com/the-joy-of-a-b-testing-theory-practice-and-pitfalls-de58acbdb04a)
