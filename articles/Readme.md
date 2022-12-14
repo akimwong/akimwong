@@ -22,12 +22,13 @@
 
 ### Storytelling
 - [8 Tips for Creating a Compelling Presentation for Data Science (SMRY)(DL)](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0)
+- [Is Public Speaking the Kryptonite of Data Scientists? (SMRY)(DL)](https://towardsdatascience.com/is-public-speaking-the-cryptonite-of-data-scientists-bb7dac5925d6)
 - [Data Science and the Art of Persuasion (DL)](https://hbr.org/2019/01/data-science-and-the-art-of-persuasion?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [Picking Examples to Understand Machine Learning Model_KdNuggets](https://www.kdnuggets.com/2022/11/picking-examples-understand-machine-learning-model.html)
 - [Telling a Great Data Story: A Visualization Decision Tree_KdNuggets](https://www.kdnuggets.com/2021/02/telling-great-data-story-visualization-decision-tree.html)
 - [Five Essential Presenting Tips for Data Professionals (DL)](https://towardsdatascience.com/five-essential-presenting-tips-for-data-professionals-c31708ec52f5)
 - [Machine Learning Explainability vs Interpretability: Two concepts that could help restore trust in AI_KdNuggets](https://www.kdnuggets.com/2018/12/machine-learning-explainability-interpretability-ai.html)
-- [Is Public Speaking the Kryptonite of Data Scientists? (DL)](https://towardsdatascience.com/is-public-speaking-the-cryptonite-of-data-scientists-bb7dac5925d6)
+
 
 ### Data science
 - [Understanding the Business: The Data Science Skill We Don’t Talk About Enough (DL)](https://towardsdatascience.com/the-data-science-skill-no-one-talks-about-57d5d3e9f9d)
