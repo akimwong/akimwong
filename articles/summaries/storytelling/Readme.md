@@ -61,7 +61,7 @@ There are two main building blocks within each slide, the actual visual (table o
 - In most cases, you will be better off visualizing your data or keeping the core numbers in your slide and adding the full table in the appendix. 
 - If you decide to use tables, remember that you want the design to fade into the background, letting the pearl(s) take center stage. 
 <p align="center">
-  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/storytelling/StoryTelling5.jpg" width="400" height="200">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/storytelling/StoryTelling5.jpg" width="600" height="200">
 </p>
 
 ### Charts
@@ -70,7 +70,7 @@ There are two main building blocks within each slide, the actual visual (table o
 - The only purpose of your chart should be to help the audience understand the insight you want to convey. 
 - Suppose, on the other hand, the chart is complicated and requires more effort to understand. In that case, the most likely outcome is that your audience will decide that they don’t want to devote any more time to it and mentally check out (and understandably so).
 <p align="center">
-  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/storytelling/StoryTelling6.jpg" width="400" height="200">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/storytelling/StoryTelling6.jpg" width="600" height="200">
 </p>
 
 ### Summary
