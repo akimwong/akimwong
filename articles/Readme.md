@@ -117,7 +117,7 @@
 - [Understanding Boxplot: Infinity Gauntlet of the Dataverse (DL)](https://towardsdatascience.com/understanding-boxplot-infinity-gauntlet-of-the-dataverse-cd57cd067711)
 - [How confidence intervals can help focus attention and simplify analysis (DL)](https://towardsdatascience.com/beyond-the-numbers-5f20b919ac5b)
 - [t-test in R-How to Perform T-tests in R](https://finnstats.com/index.php/2020/09/19/t-test-in-r/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
-- [How to Simplify Hypothesis Testing for Linear Regression in Python](https://towardsdatascience.com/how-to-simplify-hypothesis-testing-for-linear-regression-in-python-8b43f6917c86)
+- [How to Simplify Hypothesis Testing for Linear Regression in Python (DL)](https://towardsdatascience.com/how-to-simplify-hypothesis-testing-for-linear-regression-in-python-8b43f6917c86)
 - [¿Qué es la multicolinealidad y por qué es un problema?](https://www.maximaformacion.es/blog-ciencia-datos/que-es-la-multicolinealidad-y-por-que-es-un-problema/)
 - [How to Measure Heteroscedasticity in Regression?_finnstats](https://finnstats.com/index.php/2021/07/28/how-to-measure-heteroscedasticity-in-regression/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 - [Los siete pecados estadísticos](https://www.maximaformacion.es/blog-dat/los-siete-pecados-estadisticos/)
