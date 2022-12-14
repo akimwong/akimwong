@@ -111,7 +111,7 @@
 - [Chi-square Test — How to calculate Chi-square using Formula & Python Implementation](https://towardsdatascience.com/chi-square-test-how-to-calculate-chi-square-using-formula-python-implementation-6da203f96569)
 - [Standard Deviation vs Standard Error: What’s the Difference?](https://towardsdatascience.com/standard-deviation-vs-standard-error-whats-the-difference-ae969f48adef)
 - [Learnt Harmonic Mean Estimator for Bayesian Model Selection](https://towardsdatascience.com/learnt-harmonic-mean-estimator-for-bayesian-model-selection-47258bb0fc2e)
-- [T-test and Hypothesis Testing (Explained Simply)](https://towardsdatascience.com/t-test-and-hypothesis-testing-explained-simply-1cff6358633e)
+- [T-test and Hypothesis Testing (Explained Simply) (DL)](https://towardsdatascience.com/t-test-and-hypothesis-testing-explained-simply-1cff6358633e)
 - [Data Scientists Need to Know Just One Statistical Test](https://towardsdatascience.com/data-scientists-need-to-know-just-one-statistical-test-3115b2ff26fd)
 - [7 Most Asked Questions on Central Limit Theorem](https://towardsdatascience.com/machine-learning-algorithms-cheat-sheet-2f01d1d3aa37)
 - [Understanding Boxplot: Infinity Gauntlet of the Dataverse](https://towardsdatascience.com/understanding-boxplot-infinity-gauntlet-of-the-dataverse-cd57cd067711)
