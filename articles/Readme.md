@@ -115,7 +115,7 @@
 - [Data Scientists Need to Know Just One Statistical Test (DL)](https://towardsdatascience.com/data-scientists-need-to-know-just-one-statistical-test-3115b2ff26fd)
 - [7 Most Asked Questions on Central Limit Theorem](https://towardsdatascience.com/machine-learning-algorithms-cheat-sheet-2f01d1d3aa37)
 - [Understanding Boxplot: Infinity Gauntlet of the Dataverse](https://towardsdatascience.com/understanding-boxplot-infinity-gauntlet-of-the-dataverse-cd57cd067711)
-- [How confidence intervals can help focus attention and simplify analysis](https://towardsdatascience.com/beyond-the-numbers-5f20b919ac5b)
+- [How confidence intervals can help focus attention and simplify analysis (DL)](https://towardsdatascience.com/beyond-the-numbers-5f20b919ac5b)
 - [t-test in R-How to Perform T-tests in R](https://finnstats.com/index.php/2020/09/19/t-test-in-r/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 - [How to Simplify Hypothesis Testing for Linear Regression in Python](https://towardsdatascience.com/how-to-simplify-hypothesis-testing-for-linear-regression-in-python-8b43f6917c86)
 - [¿Qué es la multicolinealidad y por qué es un problema?](https://www.maximaformacion.es/blog-ciencia-datos/que-es-la-multicolinealidad-y-por-que-es-un-problema/)
