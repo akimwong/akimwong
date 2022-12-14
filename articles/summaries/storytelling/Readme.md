@@ -25,7 +25,7 @@ Will help your audience remember your content and simplify building the presenta
 With this simple practice you can dramatically improve your presentation with little effort.
 ## 6.	Reading Titles Outloud
 - By reading just the tile and title only as you start each slide, the audience will be able to process the message much more easily than reading the written words and listening to you simultaneously. 
-- For the rest of the slide, do not read the content, especially if you use a lot of bulleted or ordered lists. Reading all of your content can be monotonous, as mentioned above.
+- For the rest of the slide, do not read the content, especially if you use a lot of bulleted or ordered lists. Reading all of your content can be monotonous.
 ## 7.	Focus Your Audience’s Attention
 When your eyes and brain first see a slide, for the first fraction of a second, you are drawn to different elements that stand out. Items can be in bold, italics, or a different color or size. The fact that they are different from the main text is how you can focus your attention.
 
