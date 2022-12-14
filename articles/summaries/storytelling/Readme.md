@@ -56,3 +56,23 @@ The three key lessons that helped me improve my presentation skills
 There are two main building blocks within each slide, the actual visual (table or chart) and a short summary of the insights found in it.
 
 ### Tables
+- Using a table in a live presentation is usually a bad idea as it interacts with our verbal system, meaning we have to read them to understand them. 
+- This is not ideal, as during your presentation you want your audience to be focused on what you are saying rather than trying to interpret the table. 
+- In most cases, you will be better off visualizing your data or keeping the core numbers in your slide and adding the full table in the appendix. 
+- If you decide to use tables, remember that you want the design to fade into the background, letting the pearl(s) take center stage. 
+
+### Charts
+- A chart will get the point across much quicker and easier than a table. 
+- However, they can also be disastrous if overcomplicated. 
+- The only purpose of your chart should be to help the audience understand the insight you want to convey. 
+- Suppose, on the other hand, the chart is complicated and requires more effort to understand. In that case, the most likely outcome is that your audience will decide that they don’t want to devote any more time to it and mentally check out (and understandably so).
+
+### Summary
+- The summary is usually located at the top of your slide. 
+- This should be self-explanatory, so the audience understands the insights and how they contribute to your presentation’s primary objective.
+
+## 3. Fake it until you make it
+`The only way to improve is by practicing.`
+- You should start with small presentations to make yourself feel more confident and gradually move to bigger audiences. 
+- You should also not be afraid to ask for help from others.
+
