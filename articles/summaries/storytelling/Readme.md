@@ -17,6 +17,10 @@ Eliminate the stress from figuring out how much content you need to create.
 ## 4.	The Rule of Three
 Stick with three and only three items when building your structure, sections of your story, or the number of bullet points on your slide.
 Will help your audience remember your content and simplify building the presentation.
+<p align="center">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/storytelling/StoryTelling2.png" width="400" height="200">
+</p>
+
 ## 5.	Write Slide Titles as Outcomes
 With this simple practice you can dramatically improve your presentation with little effort.
 ## 6.	Reading Titles Outloud
@@ -24,6 +28,10 @@ With this simple practice you can dramatically improve your presentation with li
 - For the rest of the slide, do not read the content, especially if you use a lot of bulleted or ordered lists. Reading all of your content can be monotonous, as mentioned above.
 ## 7.	Focus Your Audience’s Attention
 When your eyes and brain first see a slide, for the first fraction of a second, you are drawn to different elements that stand out. Items can be in bold, italics, or a different color or size. The fact that they are different from the main text is how you can focus your attention.
+<p align="center">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/storytelling/StoryTelling3.png" width="400" height="200">
+</p>
+
 ## 8.	Creating Compelling Data Visualizations
 1.	[Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) by Cole Nussbaumer Knaflic
 2.	[Data Story](https://www.amazon.com/DataStory-Explain-Inspire-Action-Through/dp/1940858984) by Nancy Duarte
