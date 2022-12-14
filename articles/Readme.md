@@ -90,7 +90,7 @@
 - [5 Things I *Actually* Work on as a Data Analyst in 2022 (DL)](https://towardsdatascience.com/5-things-i-actually-work-on-as-a-data-analyst-in-2022-9e31df929fcb)
 - [Data analytics principles at an AI startup (DL)](https://towardsdatascience.com/data-analytics-principles-at-an-ai-startup-eebbdb208c55)
 - [10 Differences Between Amateurs and Professional Analysts (DL)](https://towardsdatascience.com/10-differences-between-amateurs-and-professional-analysts-3a1be1a06a4d)
-- [Three Common Data Analysis Operations with Three Common Tools](https://towardsdatascience.com/3-common-data-analysis-operations-with-3-common-tools-9288ce61a40f)
+- [Three Common Data Analysis Operations with Three Common Tools (DL)](https://towardsdatascience.com/3-common-data-analysis-operations-with-3-common-tools-9288ce61a40f)
 - [Why Analytics Needs an Impact-Driven Approach](https://towardsdatascience.com/why-analytics-needs-an-impact-driven-approach-43179f3bec4e)
 - [Don’t Be “Data-Driven.” Be Analytics-Driven](https://towardsdatascience.com/dont-be-data-driven-be-analytics-driven-74cbb0518640)
 - [Between R and Python, Which Language Would I Suggest to an Aspiring Data Analytics Expert?](https://towardsdatascience.com/between-r-and-python-which-language-would-i-suggest-to-an-aspiring-data-analytics-expert-469b5cf391eb)
