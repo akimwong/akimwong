@@ -4,8 +4,8 @@
 But don’t think of this as an [outline](https://www.indeed.com/career-advice/career-development/how-to-create-presentation-outline) of the slides you want to create. `Think of the outline as the story you’re going to tell.`
 ## 2.	Storytelling with Situation, Complication, Resolution
 It’s a simple framework that keeps you organized in your structure, brings action-oriented results.
--	Situation: Facts about the current state.
--	Complication: Action is required based on the situation.
+-	Situation (setup): Facts about the current state.
+-	Complication (conflict): Action is required based on the situation.
 -	Resolution: The action is taken or recommended to solve the complication.
 <p align="center">
   <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/storytelling/StoryTelling1.png" width="400" height="200">
