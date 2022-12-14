@@ -36,6 +36,7 @@ For example: How many number 7 there are?
 <p align="center">
   <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/storytelling/StoryTelling4.png" width="400" height="200">
 </p>
+
 ## 8.	Creating Compelling Data Visualizations
 1.	[Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) by Cole Nussbaumer Knaflic
 2.	[Data Story](https://www.amazon.com/DataStory-Explain-Inspire-Action-Through/dp/1940858984) by Nancy Duarte
