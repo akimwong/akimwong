@@ -107,7 +107,7 @@
 
 ### Statistics
 - [3 Most Common Misinterpretations: Hypothesis Testing, Confidence Interval, P-Value (DL)](https://towardsdatascience.com/the-most-common-misinterpretations-hypothesis-testing-confidence-interval-p-value-4548a10a5b72)
-- [Simple Explanations of Basic Statistics Concepts (Part 1)](https://towardsdatascience.com/simple-explanations-of-basic-statistics-concepts-part-1-bba66a1761d7)
+- [Simple Explanations of Basic Statistics Concepts (Part 1) (DL)](https://towardsdatascience.com/simple-explanations-of-basic-statistics-concepts-part-1-bba66a1761d7)
 - [Chi-square Test — How to calculate Chi-square using Formula & Python Implementation](https://towardsdatascience.com/chi-square-test-how-to-calculate-chi-square-using-formula-python-implementation-6da203f96569)
 - [Standard Deviation vs Standard Error: What’s the Difference? (DL)](https://towardsdatascience.com/standard-deviation-vs-standard-error-whats-the-difference-ae969f48adef)
 - [Learnt Harmonic Mean Estimator for Bayesian Model Selection (DL)](https://towardsdatascience.com/learnt-harmonic-mean-estimator-for-bayesian-model-selection-47258bb0fc2e)
