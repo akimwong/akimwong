@@ -119,7 +119,7 @@
 - [t-test in R-How to Perform T-tests in R](https://finnstats.com/index.php/2020/09/19/t-test-in-r/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 - [How to Simplify Hypothesis Testing for Linear Regression in Python](https://towardsdatascience.com/how-to-simplify-hypothesis-testing-for-linear-regression-in-python-8b43f6917c86)
 - [¿Qué es la multicolinealidad y por qué es un problema?](https://www.maximaformacion.es/blog-ciencia-datos/que-es-la-multicolinealidad-y-por-que-es-un-problema/)
-- [How to Measure Heteroscedasticity in Regression?](https://finnstats.com/index.php/2021/07/28/how-to-measure-heteroscedasticity-in-regression/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
+- [How to Measure Heteroscedasticity in Regression?_finnstats](https://finnstats.com/index.php/2021/07/28/how-to-measure-heteroscedasticity-in-regression/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 - [Los siete pecados estadísticos](https://www.maximaformacion.es/blog-dat/los-siete-pecados-estadisticos/)
 - [10 reglas simples para la práctica estadística efectiva](https://www.maximaformacion.es/blog-dat/10-reglas-para-la-practica-estadistica-efectiva/)
 - [On Probability versus Likelihood (DL)](https://towardsdatascience.com/on-probability-versus-likelihood-83386b81ad83) 
