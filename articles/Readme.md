@@ -8,6 +8,7 @@
 - [5 Tips to Help You Get Hired Right Now (DL)](https://hbr.org/2020/12/5-tips-to-help-you-get-hired-right-now?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [How to Focus on What’s Important, Not Just What’s Urgent (DL)](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [How Well Does Your Company Use Analytics? (DL)](https://hbr.org/2022/07/how-well-does-your-company-use-analytics)
+- [4 Ways to Improve Your Strategic Thinking Skills (DL)](https://hbr.org/2016/12/4-ways-to-improve-your-strategic-thinking-skills?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 
 ### Coding
 - [3 Powerful Reasons You Should Plan Your Python Code Before You Write It (DL)](https://towardsdatascience.com/3-powerful-reasons-you-should-plan-your-python-code-before-you-write-it-dcedd4b3bf28)
