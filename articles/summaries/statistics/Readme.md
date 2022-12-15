@@ -43,6 +43,9 @@ Using them you can:
 - Do a quick graphical examination
 - Compare different groups within the data
 - Use them to know and eliminate outliers from the data
+<p align="center">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/boxplot2.png" width="600" height="500">
+</p>
 
 1.	The `Minimum`, represented by the stone on the pinky is the smallest value in the list — 1 in this case.
 2.	The `Maximum` is the largest value, i.e. 100.
