@@ -175,6 +175,7 @@
 - [5 Clustering Algorithms Data Scientists need to know](https://starship-knowledge.com/clustering-algorithms)
 - [What is dbt (data build tool) (DL)](https://towardsdatascience.com/dbt-55b35c974533)
 - [River: Online Machine Learning in Python (DL)](https://towardsdatascience.com/river-online-machine-learning-in-python-d0f048120e46)
+- [Statistics classes don’t teach you about money (DL)](https://towardsdatascience.com/statistics-classes-dont-teach-you-about-money-8464ea9de330)
 
 
 
