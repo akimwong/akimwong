@@ -183,6 +183,7 @@
 - [Statistics classes don’t teach you about money (DL)](https://towardsdatascience.com/statistics-classes-dont-teach-you-about-money-8464ea9de330)
 - [5 Essential Qualities of Anomaly Detection Systems (DL)](https://towardsdatascience.com/5-essential-qualities-of-anomaly-detection-systems-fcd1ec5ee9d5)
 - [Predicting solar power output using machine learning techniques (DL)](https://towardsdatascience.com/predicting-solar-power-output-using-machine-learning-techniques-56e7959acb1f)
+- [Basic Forecasting Techniques (DL)](https://towardsdatascience.com/basic-forecasting-techniques-ef4295248e46)
 
 
 
