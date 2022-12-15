@@ -1,4 +1,4 @@
-(SMRY): In 'summaries' folder / (DL): Downloaded
+(SMRY): A summary of the article in the 'summaries' folder / (DL): Downloaded
 
 ### HBR
 - [How to Build Expertise in a New Field (DL)](https://hbr.org/2015/04/how-to-build-expertise-in-a-new-field?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
