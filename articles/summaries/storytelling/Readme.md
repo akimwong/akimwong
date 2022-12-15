@@ -91,9 +91,14 @@ There are two main building blocks within each slide, the actual visual (table o
 
 # Five Essential Presenting Tips for Data Professionals
 (Learn how to tailor your words to the situation)
-
+- Outward Appearance: Your presentation becomes the outward appearance of what you have done. If your presentation is poor then this reflects poorly on you. You don’t want customers, colleagues, or higher-ups to think that you struggle with communicating simple ideas.
+- Good Presentations Build Your Reputation:  When people notice that your presentations are engaging and insightful, you will build a positive reputation. 
+- Create a Data-Driven Culture: By creating high-quality data presentations you are improving data literacy.  This attention to quality in presentations is often contagious!
 ## 1. Understand Your Audience
-
+Before even beginning to draft your presentation, I would suggest that you find answers to the following questions:
+- Who will attend my presentation?  Try to get a rough idea of the audience. 
+- What level of data literacy does the audience have? If possible, try to reach out to someone that is representative of the audience and ask them about their data literacy.
+- •	What aspect is the audience interested in hearing about? Try to understand what the audience is interested in. 
 ## 2. Use Visuals Religiously
 
 ## 3. Avoid Jargon and Keep it Simple Silly
