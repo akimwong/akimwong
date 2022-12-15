@@ -35,7 +35,7 @@ As the sample size (n) increases, the denominator of the formula becomes bigger,
 
 The power of summarizing huge amounts of data is condensed into just 6 values (Boxplots represent these 6 values visually).
 <p align="center">
-  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/boxplot1.png" width="400" height="200">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/boxplot1.png" width="600" height="400">
 </p>
 
 Using them you can:
