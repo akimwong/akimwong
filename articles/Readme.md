@@ -122,7 +122,7 @@
 - [T-test and Hypothesis Testing (Explained Simply) (DL)](https://towardsdatascience.com/t-test-and-hypothesis-testing-explained-simply-1cff6358633e)
 - [t-test in R-How to Perform T-tests in R](https://finnstats.com/index.php/2020/09/19/t-test-in-r/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 - [Data Scientists Need to Know Just One Statistical Test (DL)](https://towardsdatascience.com/data-scientists-need-to-know-just-one-statistical-test-3115b2ff26fd)
-- [7 Most Asked Questions on Central Limit Theorem (DL)](https://medium.com/towards-data-science/7-most-asked-questions-on-central-limit-theorem-82e95eb7d964)
+- [7 Most Asked Questions on Central Limit Theorem (SMRY)(DL)](https://medium.com/towards-data-science/7-most-asked-questions-on-central-limit-theorem-82e95eb7d964)
 - [Understanding Boxplot: Infinity Gauntlet of the Dataverse (DL)](https://towardsdatascience.com/understanding-boxplot-infinity-gauntlet-of-the-dataverse-cd57cd067711)
 - [Importance of Quartiles in Statistics for Data Science_finnstats](https://finnstats.com/index.php/2022/05/24/importance-of-quartiles-in-statistics-for-data-science/)
 - [How confidence intervals can help focus attention and simplify analysis (DL)](https://towardsdatascience.com/beyond-the-numbers-5f20b919ac5b)
