@@ -99,7 +99,7 @@
 - [Three Common Data Analysis Operations with Three Common Tools (DL)](https://towardsdatascience.com/3-common-data-analysis-operations-with-3-common-tools-9288ce61a40f)
 - [Why Analytics Needs an Impact-Driven Approach (DL)](https://towardsdatascience.com/why-analytics-needs-an-impact-driven-approach-43179f3bec4e)
 - [Don’t Be “Data-Driven.” Be Analytics-Driven (DL)](https://towardsdatascience.com/dont-be-data-driven-be-analytics-driven-74cbb0518640)
-- [Between R and Python, Which Language Would I Suggest to an Aspiring Data Analytics Expert?](https://towardsdatascience.com/between-r-and-python-which-language-would-i-suggest-to-an-aspiring-data-analytics-expert-469b5cf391eb)
+- [Between R and Python, Which Language Would I Suggest to an Aspiring Data Analytics Expert? (DL)](https://towardsdatascience.com/between-r-and-python-which-language-would-i-suggest-to-an-aspiring-data-analytics-expert-469b5cf391eb)
 - [The analyst’s dilemma — too much data, too little time (DL)](https://towardsdatascience.com/the-analysts-dilemma-too-much-data-too-little-time-9b8774f74e20)
 - [6 Learnings from Working as a Data Analyst for a Year (DL)](https://towardsdatascience.com/6-learnings-from-working-as-a-data-analyst-for-ayear-8f5531e99f8a)
 - [Data Analyst Skills You Need for Your Next Promotion (DL)](https://towardsdatascience.com/data-analyst-skills-you-need-for-your-next-promotion-479275b80bad)
