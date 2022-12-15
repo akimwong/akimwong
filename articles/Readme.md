@@ -81,7 +81,7 @@
 - [Exploring the ML Tooling Landscape (Part 3 of 3) (DL)](https://towardsdatascience.com/exploring-the-ml-tooling-landscape-part-3-of-3-8e4480d04fe0)
 - [Machine Learning Algorithms Cheat Sheet (DL)](https://towardsdatascience.com/machine-learning-algorithms-cheat-sheet-2f01d1d3aa37)
 - [Customer Churn Prediction Using Machine Learning: Main Approaches and Models](https://www.kdnuggets.com/2019/05/churn-prediction-machine-learning.html)
-- [Lightweight Introduction to MLOps](https://towardsdatascience.com/lightweight-introduction-to-mlops-a77406cfcc68)
+- [Lightweight Introduction to MLOps (DL)](https://towardsdatascience.com/lightweight-introduction-to-mlops-a77406cfcc68)
 - [10 Most Used Machine Learning Algorithms In Python With Code](https://www.theinsaneapp.com/2021/11/machine-learning-algorithms-for-beginners.html)
 - [Deploying Your Machine Learning Model Is Just the Beginning (DL)](https://towardsdatascience.com/deploying-your-machine-learning-model-is-just-the-beginning-b4851e665b11)
 - [What is a Machine Learning Engineer? (DL)](https://towardsdatascience.com/what-is-a-machine-learning-engineer-597ff778e57b)
