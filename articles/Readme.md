@@ -7,6 +7,7 @@
 - [6 Ways to Look More Confident During a Presentation (DL)](https://hbr.org/2017/04/6-ways-to-look-more-confident-during-a-presentation?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [5 Tips to Help You Get Hired Right Now (DL)](https://hbr.org/2020/12/5-tips-to-help-you-get-hired-right-now?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [How to Focus on What’s Important, Not Just What’s Urgent (DL)](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [How Well Does Your Company Use Analytics? (DL)](https://hbr.org/2022/07/how-well-does-your-company-use-analytics)
 
 ### Coding
 - [3 Powerful Reasons You Should Plan Your Python Code Before You Write It (DL)](https://towardsdatascience.com/3-powerful-reasons-you-should-plan-your-python-code-before-you-write-it-dcedd4b3bf28)
