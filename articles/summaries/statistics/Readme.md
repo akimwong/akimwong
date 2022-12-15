@@ -28,3 +28,7 @@ As the sample size (n) increases, the denominator of the formula becomes bigger,
 - The sample mean is the Best linear unbiased estimator (BLUE) of the population mean. 
 - However, it is not good enough to use the point estimate (e.g., the sample mean) to infer the population mean because it will almost always be off the mark.
 - `If we were to take random samples over and over again and compute the mean of all these sample means. It will be a very good estimate of the population mean`. 
+
+------------------------
+# Understanding Boxplot: Infinity Gauntlet of the Dataverse
+(Use boxplots and Tukey’s Method to eliminate outliers in a snap of your fingers (or code))
