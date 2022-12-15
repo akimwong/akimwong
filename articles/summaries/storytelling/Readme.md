@@ -42,7 +42,7 @@ For example: In which graph is the number of 7 best counted?
 2.	[Data Story](https://www.amazon.com/DataStory-Explain-Inspire-Action-Through/dp/1940858984) by Nancy Duarte
 
 # Is Public Speaking the Kryptonite of Data Scientists?
-The three key lessons that helped me improve my presentation skills
+(The three key lessons that helped me improve my presentation skills)
 
 ## 1. Perfection is achieved not when there is nothing more to add but when there is nothing left to take away
 - The business stakeholders will not perceive a less detailed presentation as unprofessional or sub-par. 
@@ -82,3 +82,15 @@ There are two main building blocks within each slide, the actual visual (table o
 - You should start with small presentations to make yourself feel more confident and gradually move to bigger audiences. 
 - You should also not be afraid to ask for help from others.
 
+# Five Essential Presenting Tips for Data Professionals
+(Learn how to tailor your words to the situation)
+
+## 1. Understand Your Audience
+
+## 2. Use Visuals Religiously
+
+## 3. Avoid Jargon and Keep it Simple Silly
+
+## 4. Relate Your Work to the Bigger Picture
+
+## 5. Have a Memorable Bottom Line
