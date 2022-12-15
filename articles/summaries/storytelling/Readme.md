@@ -42,6 +42,7 @@ For example: In which graph is the number of 7 best counted?
 2.	[Data Story](https://www.amazon.com/DataStory-Explain-Inspire-Action-Through/dp/1940858984) by Nancy Duarte
 
 #
+#
 
 # Is Public Speaking the Kryptonite of Data Scientists?
 (The three key lessons that helped me improve my presentation skills)
