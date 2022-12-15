@@ -77,7 +77,7 @@
 - [Writing Robust Tests for Data & Machine Learning Pipelines_eugeneyan](https://eugeneyan.com/writing/testing-pipelines/)
 - [Nine Tools I Wish I Mastered before My PhD in Machine Learning (DL)](https://towardsdatascience.com/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0)
 - [5 Reasons Your ML Model Isn’t Making It to Production (DL)](https://towardsdatascience.com/5-reasons-your-ml-model-isnt-making-it-to-production-f6965f4e01ec)
-- [Learn the Core of MLOps — Building Machine Learning (ML) Pipelines](https://towardsdatascience.com/learn-the-core-of-mlops-building-machine-learning-ml-pipelines-7242b77520b7)
+- [Learn the Core of MLOps — Building Machine Learning (ML) Pipelines (DL)](https://towardsdatascience.com/learn-the-core-of-mlops-building-machine-learning-ml-pipelines-7242b77520b7)
 - [Exploring the ML Tooling Landscape (Part 3 of 3) (DL)](https://towardsdatascience.com/exploring-the-ml-tooling-landscape-part-3-of-3-8e4480d04fe0)
 - [Machine Learning Algorithms Cheat Sheet (DL)](https://towardsdatascience.com/machine-learning-algorithms-cheat-sheet-2f01d1d3aa37)
 - [Customer Churn Prediction Using Machine Learning: Main Approaches and Models](https://www.kdnuggets.com/2019/05/churn-prediction-machine-learning.html)
