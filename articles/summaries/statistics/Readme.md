@@ -44,7 +44,7 @@ Using them you can:
 - Compare different groups within the data
 - Use them to know and eliminate outliers from the data
 <p align="center">
-  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/boxplot2.png" width="600" height="500">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/boxplot2.png" width="600" height="300">
 </p>
 
 1.	The `Minimum`, represented by the stone on the pinky is the smallest value in the list — 1 in this case.
