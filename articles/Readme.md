@@ -85,6 +85,7 @@
 - [What is a Machine Learning Engineer? (DL)](https://towardsdatascience.com/what-is-a-machine-learning-engineer-597ff778e57b)
 - [Which machine learning model to use? (DL)](https://towardsdatascience.com/which-machine-learning-model-to-use-db5fdf37f3dd)
 - [How to create products that rely on machine learning (DL)](https://towardsdatascience.com/how-to-create-products-that-rely-on-machine-learning-f0c7fe70cbc8)
+- [Machine learning versus data science – demystifying the scene_THQ](https://techhq.com/2022/12/machine-learning-versus-data-science-demystifying-the-scene/)
 
 ### Decission Making
 - [Types of Algorithms in Decision Making_SanwouoBrell](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
