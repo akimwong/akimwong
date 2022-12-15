@@ -178,6 +178,7 @@
 - [What is dbt (data build tool) (DL)](https://towardsdatascience.com/dbt-55b35c974533)
 - [River: Online Machine Learning in Python (DL)](https://towardsdatascience.com/river-online-machine-learning-in-python-d0f048120e46)
 - [Statistics classes don’t teach you about money (DL)](https://towardsdatascience.com/statistics-classes-dont-teach-you-about-money-8464ea9de330)
+- [5 Essential Qualities of Anomaly Detection Systems (DL)](https://towardsdatascience.com/5-essential-qualities-of-anomaly-detection-systems-fcd1ec5ee9d5)
 
 
 
