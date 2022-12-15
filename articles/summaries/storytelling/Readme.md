@@ -98,11 +98,21 @@ There are two main building blocks within each slide, the actual visual (table o
 Before even beginning to draft your presentation, I would suggest that you find answers to the following questions:
 - Who will attend my presentation?  Try to get a rough idea of the audience. 
 - What level of data literacy does the audience have? If possible, try to reach out to someone that is representative of the audience and ask them about their data literacy.
-- •	What aspect is the audience interested in hearing about? Try to understand what the audience is interested in. 
+- What aspect is the audience interested in hearing about? Try to understand what the audience is interested in. 
+- What is the formality level of the presentation setting? Is the presentation at an informal meeting between team members?
+- What is the mental state of the audience? Is your presentation after a full day of other presentations at a conference?
 ## 2. Use Visuals Religiously
-
+You should use loads of visuals.
+- Always use charts to represent trends.
+- Use charts for quantities divided into groups.
+- Use flow charts to illustrate how parts connect together. 
 ## 3. Avoid Jargon and Keep it Simple Silly
-
+- Every occupation has technical terms. Professions know when to use them, and when to simplify them.
+- When your presentation has an audience that is not so technical or data literate, then try to trim down the jargon. 
 ## 4. Relate Your Work to the Bigger Picture
-
+- When you are presenting, try to relate your work to the bigger picture. What effect will the work have on the members of the audience? 
+- The major obstacle to relating your work to the bigger picture is not knowing the bigger picture. Make an effort to try to understand the audience's needs and wants. In this way, you will automatically make more engaging presentations.
 ## 5. Have a Memorable Bottom Line
+- There is this tendency to try to explain every single detail of a project. 
+- Most great presentations have a bottom line that is emphasized, often implicitly, several times during the talk. The bottom line sticks with the audience for longer than any specific detail of the presentation.
+- A great presentation will make it painfully obvious what the bottom line is.
