@@ -32,11 +32,11 @@ As the sample size (n) increases, the denominator of the formula becomes bigger,
 ------------------------
 # Understanding Boxplot: Infinity Gauntlet of the Dataverse
 (Use boxplots and Tukey’s Method to eliminate outliers in a snap of your fingers (or code))
+
 The power of summarizing huge amounts of data is condensed into just 6 values (Boxplots represent these 6 values visually).
-
-
-
-
+<p align="center">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/storytelling/StoryTelling1.png" width="400" height="200">
+</p>
 
 Using them you can:
 - Get a great sense of numeric data
