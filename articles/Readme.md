@@ -10,6 +10,7 @@
 - [How Well Does Your Company Use Analytics? (DL)](https://hbr.org/2022/07/how-well-does-your-company-use-analytics)
 - [4 Ways to Improve Your Strategic Thinking Skills (DL)](https://hbr.org/2016/12/4-ways-to-improve-your-strategic-thinking-skills?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [The Problem with Saying “Don’t Bring Me Problems, Bring Me Solutions” (DL)](https://hbr.org/2017/09/the-problem-with-saying-dont-bring-me-problems-bring-me-solutions?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [To Achieve Big Goals, Start with Small Habits (DL)](https://hbr.org/2020/01/to-achieve-big-goals-start-with-small-habits?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 
 ### Coding
 - [3 Powerful Reasons You Should Plan Your Python Code Before You Write It (DL)](https://towardsdatascience.com/3-powerful-reasons-you-should-plan-your-python-code-before-you-write-it-dcedd4b3bf28)
