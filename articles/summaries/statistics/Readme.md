@@ -60,3 +60,7 @@ Using them you can:
 
 Why the separation is 1.5 times the IQR on either side? the answer lies in statistics.  According to the 68–95–99.7 rule, most of the data (99.7%) lies within 3 standard deviations ( <3σ ) from the mean on either side of a standard distribution. Everything outside it is an outlier.
 
+### Tukey’s method is used to remove outliers
+<p align="center">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/boxplot2.png" width="600" height="300">
+</p>
