@@ -64,3 +64,6 @@ Why the separation is 1.5 times the IQR on either side? the answer lies in stati
 <p align="center">
   <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/GetOutliersPython1.PNG" width="600" height="300">
 </p>
+<p align="center">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/GetOutliersPython2.PNG" width="600" height="300">
+</p>
