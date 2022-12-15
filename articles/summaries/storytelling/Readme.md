@@ -43,6 +43,7 @@ For example: In which graph is the number of 7 best counted?
 
 #
 #
+#
 
 # Is Public Speaking the Kryptonite of Data Scientists?
 (The three key lessons that helped me improve my presentation skills)
