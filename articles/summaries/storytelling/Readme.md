@@ -41,6 +41,8 @@ For example: In which graph is the number of 7 best counted?
 1.	[Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) by Cole Nussbaumer Knaflic
 2.	[Data Story](https://www.amazon.com/DataStory-Explain-Inspire-Action-Through/dp/1940858984) by Nancy Duarte
 
+
+
 -----------------------------------------------
 
 # Is Public Speaking the Kryptonite of Data Scientists?
@@ -83,6 +85,9 @@ There are two main building blocks within each slide, the actual visual (table o
 `The only way to improve is by practicing.`
 - You should start with small presentations to make yourself feel more confident and gradually move to bigger audiences. 
 - You should also not be afraid to ask for help from others.
+
+
+-----------------------------------------------
 
 # Five Essential Presenting Tips for Data Professionals
 (Learn how to tailor your words to the situation)
