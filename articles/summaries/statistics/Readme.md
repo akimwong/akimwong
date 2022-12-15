@@ -62,5 +62,5 @@ Why the separation is 1.5 times the IQR on either side? the answer lies in stati
 
 ### Tukey’s method is used to remove outliers
 <p align="center">
-  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/boxplot2.png" width="600" height="300">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/GetOutliersPython1.PNG" width="600" height="300">
 </p>
