@@ -12,9 +12,19 @@ Given a sufficiently large sample size, the sampling distribution of the sample 
 The sampling distribution of the sample mean will approximate a normal distribution as long as the sample size is `sufficiently large`. 
 ## 5. How large does the sample size need to be for the normal approximation to occur?
 - The larger the sample size, the more closely the sampling distribution of the sample mean will follow a normal distribution.
-- Typically, we consider a sample size of 30 to be sufficiently large.
-•	If the sample size is less than 30, the central limit theorem doesn’t work anymore. The sampling distribution of the sample mean will follow normal distribution only if the population distribution is also normal.
-•	If the sample size is greater than 30, the central limit theorem applies and the sampling distribution will follow normal distribution regardless of the population distribution. However, a strongly skewed distribution requires a larger sample size.
-## 6. 
-
-
+- Typically, we consider a sample size of `30 to be sufficiently large`.
+-	If the sample size is less than 30, the central limit theorem doesn’t work anymore. The sampling distribution of the sample mean will follow normal distribution only if the population distribution is also normal.
+-	If the sample size is greater than 30, the central limit theorem applies and the sampling distribution will follow normal distribution regardless of the population distribution. However, `a strongly skewed distribution requires a larger sample size`.
+## 6. How does sample size affect the sampling distribution of the mean?
+As the sample size (n) increases, the denominator of the formula becomes bigger, then the SEM (standard error of the mean) becomes smaller, the sampling distribution becomes tighter, and the more precise the sample mean can be used to estimate the population mean.
+## 7. Why Central Limit Theorem is Important?
+1. The normality assumption:
+- In real-world data, it is common to have outliers, skewness, and asymmetry. 
+- Many statistical practices, such as, hypothesis tests, confidence intervals, and t-tests are based on the normality assumption. 
+- The use of appropriate sample size and the Central Limit Theorem helps us to get around the problem of non-normality in the data.
+2. The precision of estimates:
+- In practice, we typically only have ONE set of random samples. 
+- We often use statistical inference to estimate population parameters (e.g., population mean) using sample statistics (e.g., the sample mean). 
+- The sample mean is the Best linear unbiased estimator (BLUE) of the population mean. 
+- However, it is not good enough to use the point estimate (e.g., the sample mean) to infer the population mean because it will almost always be off the mark.
+- `If we were to take random samples over and over again and compute the mean of all these sample means. It will be a very good estimate of the population mean`. 
