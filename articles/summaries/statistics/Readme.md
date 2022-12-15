@@ -58,4 +58,5 @@ Using them you can:
 - The Lower Fence is calculated as Q1 — (1.5 * IQR)
 - The Upper Fence is calculated as Q3 + (1.5 * IQR)
 
+Why the separation is 1.5 times the IQR on either side? the answer lies in statistics.  According to the 68–95–99.7 rule, most of the data (99.7%) lies within 3 standard deviations ( <3σ ) from the mean on either side of a standard distribution. Everything outside it is an outlier.
 
