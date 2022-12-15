@@ -67,7 +67,7 @@
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
-- [Maturity of Machine Learning Systems](https://towardsdatascience.com/maturity-of-machine-learning-systems-358bab34bf69)
+- [Maturity of Machine Learning Systems (DL)](https://towardsdatascience.com/maturity-of-machine-learning-systems-358bab34bf69)
 - [The Machine Learning cheatsheet](https://github.com/remicnrd/ml_cheatsheet)
 - [Common Reasons why Machine Learning Projects Fail (DL)](https://towardsdatascience.com/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
 - [In Search of the Perfect Machine Learning Model (DL)](https://towardsdatascience.com/in-search-of-the-perfect-machine-learning-model-cf4e97b95e64)
