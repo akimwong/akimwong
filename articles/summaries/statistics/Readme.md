@@ -46,8 +46,8 @@ Using them you can:
 
 1.	The `Minimum`, represented by the stone on the pinky is the smallest value in the list — 1 in this case.
 2.	The `Maximum` is the largest value, i.e. 100.
-3.	The `Median` is the number right in the dead center of the list. 50% of the data lies on each side of the median. 40 is in the middle of the above list (the Median is itself also called the second quartile or Q2).
-4.	There’s also the `Mean`, which is in the middle too. But not the middle of the list, but rather in the arithmetic middle of the values in the list — it is a sum of all values divided by the count of values in the list, which is 40.8 in this case.
+3.	The `Median` is the number right in the dead center of the list. 50% of the data lies on each side of the median. 40 is in the middle of the above list (is itself also called the second quartile or Q2).
+4.	There’s also the `Mean`, which is in the middle too. But not the middle of the list, but rather in the arithmetic middle of the values in the list, it is a sum of all values divided by the count of values in the list, which is 40.8 in this case.
 5. The `First Quartile (or Q1)` is the value under which 25% of the data points lie. In a sense, it is `the median of the first half` of the data.
 6. The `Third Quartile (or Q3)` is the value under which 75% of the data points lie. It is `the median of the second half` of the data.
 
