@@ -95,8 +95,9 @@ Once we have these two ingredients, the job is basically done. In fact, it’s e
 ### The p-value is the percentage of random scores that are higher than the observed score
 This is how every single statistical test works
 <p align="center">
-  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/StatTest.png" width="700" height="400">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/StatTest.png" width="700" height="350">
 </p>
+
 ### A unique statistical test
 But how do we do it in Python? The algorithm is the following:
 1.	Define a function `draw_random_outcome`. This function should return the outcome of a random trial, given that the null hypothesis is true. It may be a single number, an array, a list of arrays, an image, practically anything: it depends on the specific case.
