@@ -90,6 +90,8 @@ Reading the previous paragraph, you may have guessed that we need two ingredient
 - We need to define a function that maps each possible outcome into a single number. 
 - This number must express how unexpected the outcome is, provided that the null hypothesis is true: the more unexpected the outcome, the higher this score.
 
+Once we have these two ingredients, the job is basically done. In fact, it’s enough to calculate the unexpectedness score of each outcome in the distribution and the unexpectedness score of the observed outcome.
+
 ### The p-value is the percentage of random scores that are higher than the observed score
 
 
