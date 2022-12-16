@@ -67,3 +67,12 @@ Why the separation is 1.5 times the IQR on either side? the answer lies in stati
 <p align="center">
   <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/GetOutliersPython2.PNG" width="600" height="150">
 </p>
+
+----------------------
+# Data Scientists Need to Know Just One Statistical Test
+(After you read this, you will be able to test any possible statistical hypothesis. With a unique algorithm.)
+
+
+
+
+
