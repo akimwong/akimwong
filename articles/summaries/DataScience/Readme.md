@@ -5,4 +5,4 @@
 - To do this you must:
 1.	Ask questions, list possible solutions.
 2.	Explore the data to narrow down the list to one.
-
+'There is nothing more frustrating than building a great data science solution, to the wrong business problem.'
