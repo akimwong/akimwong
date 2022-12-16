@@ -35,8 +35,7 @@
 ## 4. How to price your services
 - Don’t undersell yourself.
 - How do you demonstrate your quality and ability by working for peanuts?
-- Pricing can be tricky given that there are several different ways for you to bill your services.
-- For example:
+- Pricing can be tricky given that there are several different ways for you to bill your services, for example:
 1. You could bill hourly, on a monthly retainer, through set product pricing, through value-based fees, or through a pay-for-results model. Hourly billing is self-explanatory, as is the monthly retainer model where you work for a flat fee each month. 
 2. Alternatively, you could sell your services via a suite of products that you sell at a flat fee or with varying prices for different tiers of products (think interactive dashboards, reports, advanced levels of customization, etc). 
 3. Value-based pricing is set through an agreement between you and your client where they decide how much to pay you based on the value of your work for the company. 
