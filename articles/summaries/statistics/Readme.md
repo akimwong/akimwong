@@ -93,10 +93,17 @@ Reading the previous paragraph, you may have guessed that we need two ingredient
 Once we have these two ingredients, the job is basically done. In fact, it’s enough to calculate the unexpectedness score of each outcome in the distribution and the unexpectedness score of the observed outcome.
 
 ### The p-value is the percentage of random scores that are higher than the observed score
-
+This is how every single statistical test works
 
 ### A unique statistical test
+But how do we do it in Python? The algorithm is the following:
+1.	Define a function `draw_random_outcome`. This function should return the outcome of a random trial, given that the null hypothesis is true. It may be a single number, an array, a list of arrays, an image, practically anything: it depends on the specific case.
+2.	Define a function `unexp_score` (which stands for “unexpectedness score”). The function should take an experiment outcome as input, and return a single number. This number must be a score of how unexpected the outcome is, assuming it was generated under the null hypothesis. The score may be positive, negative, integer, or float, it doesn’t matter. The only property it must have is the following: the unlikelier the outcome is, the higher this score must be.
+3.	Run many times (e.g. 10,000 times) the function `draw_random_outcome` (defined at point 1) and, for each random outcome, compute its unexp_score (defined at point 2). Store all the scores in an array called `random_unexp_scores`.
+4.	Compute `unexp_score` of the observed outcome, and call it `observed_unexp_score`.
+5.	Compute how many random outcomes are more unexpected than the observed outcome. That is to say, count how many elements of `random_unexp_scores` are higher than observed_unexp_score. This is the p-value.
 
+`The first two steps are the only ones that require a bit of creativity, depending on the specific case`, while steps 3, 4, and 5 are purely mechanical.
 
 ### So why all those statistical tests?
 - If you have come this far, you may wonder: if it’s so easy, why do so many tests exist? The answer is mostly “historical”.
