@@ -37,7 +37,7 @@
 
 
 ### Data science
-- [Understanding the Business: The Data Science Skill We Don’t Talk About Enough (DL)](https://towardsdatascience.com/the-data-science-skill-no-one-talks-about-57d5d3e9f9d)
+- [Understanding the Business: The Data Science Skill We Don’t Talk About Enough (SMRY)(DL)](https://towardsdatascience.com/the-data-science-skill-no-one-talks-about-57d5d3e9f9d)
 - [Why Data Governance Matters: Master Data Management (MDM) (DL)](https://towardsdatascience.com/why-data-governance-matters-master-data-management-mdm-5d9af0f64573)
 - [These are the Steps You Need to Take to Create a Good Data Science Product (DL)](https://towardsdatascience.com/these-are-the-steps-you-need-to-take-to-create-a-good-data-science-product-697b22d335c5)
 - [5 Simple Tips to Help You Future-Proof Yourself as a Data Scientist (DL)](https://towardsdatascience.com/5-simple-tips-to-help-you-future-proof-yourself-as-a-data-scientist-8b34479e5aad)
