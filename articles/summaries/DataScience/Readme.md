@@ -12,5 +12,7 @@
 # How to Set Yourself Up For Success As a New Data Science Consultant With No Experience
 (A 7-minute guide to setting up the fundamentals as a data science consultant)
 
+#### Why fight hoards of applicants when you can create your own job?
+This guide will help you get the ball rolling toward developing your own data science consulting job.
 
-
+## 1. How to pick your specialty
