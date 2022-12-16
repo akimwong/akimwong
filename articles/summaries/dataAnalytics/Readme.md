@@ -54,4 +54,6 @@ If they want to lay a claim to being a pro, they build scary-good skills in leas
 - `Stop asking: “Should I learn this tool/method/technique that all the cool kids are talking about?”  Start asking: “Will learning this make me faster?”`
 - `Learn whatever makes you faster (in all the ways that matter). Since your work involves accelerating others, start by accelerating yourself`.
 
-
+## Practice makes perfect!
+- If all you’re after is a nudge to get started with analytics, go look at some numbers already. 
+- 
