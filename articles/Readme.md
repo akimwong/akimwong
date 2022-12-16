@@ -38,6 +38,7 @@
 
 ### Data science
 - [Understanding the Business: The Data Science Skill We Don’t Talk About Enough (SMRY)(DL)](https://towardsdatascience.com/the-data-science-skill-no-one-talks-about-57d5d3e9f9d)
+- [How to Set Yourself Up For Success As a New Data Science Consultant With No Experience (DL)](https://towardsdatascience.com/how-to-set-yourself-up-for-success-as-a-new-data-science-consultant-with-no-experience-a0a94fc4710f)
 - [Why Data Governance Matters: Master Data Management (MDM) (DL)](https://towardsdatascience.com/why-data-governance-matters-master-data-management-mdm-5d9af0f64573)
 - [These are the Steps You Need to Take to Create a Good Data Science Product (DL)](https://towardsdatascience.com/these-are-the-steps-you-need-to-take-to-create-a-good-data-science-product-697b22d335c5)
 - [5 Simple Tips to Help You Future-Proof Yourself as a Data Scientist (DL)](https://towardsdatascience.com/5-simple-tips-to-help-you-future-proof-yourself-as-a-data-scientist-8b34479e5aad)
@@ -59,7 +60,6 @@
 - [A Case for Heuristics: Why Simple Solutions Often Win in Data Science (DL)](https://towardsdatascience.com/a-case-for-heuristics-why-simple-solutions-often-win-in-data-science-a31967766daa)
 - [What I Learned in My First 6 Months as a Director of Data Science (DL)](https://towardsdatascience.com/what-i-learned-in-my-first-6-months-as-a-director-of-data-science-d9b7b98a48f7)
 - [How I’d Learn Data Science If I Could Start Over (4 Years In) (DL)](https://towardsdatascience.com/how-id-learn-data-science-if-i-could-start-over-4-years-in-999f8144f897)
-- [How to Set Yourself Up For Success As a New Data Science Consultant With No Experience (DL)](https://towardsdatascience.com/how-to-set-yourself-up-for-success-as-a-new-data-science-consultant-with-no-experience-a0a94fc4710f)
 - [How to Manage Data Projects and Teams Effectively (DL)](https://towardsdatascience.com/how-to-manage-data-projects-and-teams-effectively-baf02025a367)
 - [The Simple Things a Data Science Beginner Needs to Know (DL)](https://towardsdatascience.com/the-simple-things-you-need-to-know-as-a-data-science-beginner-c4b9ffd0b516)
 - [9 Myths about Starting in Data Science (DL)](https://towardsdatascience.com/9-myths-about-starting-in-data-science-2eee6541aac2)
