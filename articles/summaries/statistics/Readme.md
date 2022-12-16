@@ -72,10 +72,31 @@ Why the separation is 1.5 times the IQR on either side? the answer lies in stati
 # Data Scientists Need to Know Just One Statistical Test
 (After you read this, you will be able to test any possible statistical hypothesis. With a unique algorithm.)
 
-#### There is only one test that you need to know because `all the statistical tests are in reality the same one test!`
+### There is only one test that you need to know because `all the statistical tests are in reality the same one test!`
+- And once you really grasp how this one test work, you will be able to test any hypothesis you will ever need.
+
+### What is the profound meaning of any statistical test?
+- You have a hypothesis (called “null hypothesis”) and you want to put it to the test. Thus, you ask yourself: “If the hypothesis was true, `how often` would I get an outcome as suspect as the outcome that I actually had?”
+- In statistics, this “how often” is called “p-value”.
+- At this point, the line of reasoning is pretty trivial: if the p-value is very low, then it means that your original hypothesis is likely to be wrong.
+- Note that the concept of “unexpectedness” depends closely on the specific hypothesis that you are testing. 
+
+### The ingredients of statistical testing
+Reading the previous paragraph, you may have guessed that we need two ingredients:
+1.	The distribution of the possible outcomes, depending on the null hypothesis.
+- It’s not always straightforward to get the full distribution of outcomes. 
+- Often, it’s more convenient (and easier) to randomly simulate a high number of outcomes: this is a good approximation of the true distribution.
+3.	A measure of the “unexpectedness” of any outcome.
+- We need to define a function that maps each possible outcome into a single number. 
+- This number must express how unexpected the outcome is, provided that the null hypothesis is true: the more unexpected the outcome, the higher this score.
+
+### The p-value is the percentage of random scores that are higher than the observed score
 
 
+### A unique statistical test
 
 
-
-
+### So why all those statistical tests?
+- If you have come this far, you may wonder: if it’s so easy, why do so many tests exist? The answer is mostly “historical”.
+- There was a time when computation was much more expensive than now, so “statistical tests” were basically shortcuts to compute p-values efficiently. 
+- And since there are so many possibilities to choose step 1 and step 2 of the algorithm we have seen, the tests proliferated.
