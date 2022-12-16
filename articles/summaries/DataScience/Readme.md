@@ -7,3 +7,10 @@
 2.	Explore the data to narrow down the list to one (for example: ML + A/B Test, etc.)
 
 'There is nothing more frustrating than building a great data science solution, to the wrong business problem.'
+
+--------------------
+# How to Set Yourself Up For Success As a New Data Science Consultant With No Experience
+(A 7-minute guide to setting up the fundamentals as a data science consultant)
+
+
+
