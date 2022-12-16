@@ -141,6 +141,7 @@
 - [10 Statistical Concepts You Should Know For Data Science Interviews_KDNuggets](https://www.kdnuggets.com/2021/02/10-statistical-concepts-data-science-interviews.html)
 - [The Joy of A/B Testing: Theory, Practice, and Pitfalls (DL)](https://towardsdatascience.com/the-joy-of-a-b-testing-theory-practice-and-pitfalls-de58acbdb04a)
 - [5 ways to Increase Statistical Power (DL)](https://towardsdatascience.com/5-ways-to-increase-statistical-power-377c00dd0214)
+- [How Big Should Your Sample Size Be? (DL)](https://towardsdatascience.com/how-big-should-your-sample-size-be-54ab2154c152)
 
 ### Jobs
 - [How to Get Your Resume Noticed (And Out of the Trash Bin) (SMRY)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
