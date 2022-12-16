@@ -65,6 +65,7 @@
 - [The 5 Most Critical Insights You’ll Gain in Your First 5 Years as a Data Scientist (DL)](https://towardsdatascience.com/the-5-most-critical-insights-youll-gain-in-your-first-5-years-as-a-data-scientist-341cc2d73232)
 - [How Can an Aspiring Data Scientist Find and Work on Real-World Projects? (DL)](https://towardsdatascience.com/how-can-an-aspiring-data-scientist-find-and-work-on-real-world-projects-48bed91af008)
 - [Daily, Weekly, Monthly, and Yearly Goal Tips to Guide a Self-Taught Data Scientist in 2023 (DL)](https://towardsdatascience.com/daily-weekly-monthly-and-yearly-goal-tips-to-guide-a-self-taught-data-scientist-in-2023-d405f8d0d87a)
+- [5 things that make my job as a Data Scientist easier (DL)](https://towardsdatascience.com/5-things-that-make-my-job-as-a-data-scientist-easier-dc0820f0f136)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python (DL)](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
