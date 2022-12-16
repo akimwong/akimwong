@@ -95,7 +95,7 @@ Once we have these two ingredients, the job is basically done. In fact, it’s e
 ### The p-value is the percentage of random scores that are higher than the observed score
 This is how every single statistical test works
 <p align="center">
-  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/boxplot1.png" width="600" height="500">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/StatTest.png" width="600" height="500">
 </p>
 ### A unique statistical test
 But how do we do it in Python? The algorithm is the following:
