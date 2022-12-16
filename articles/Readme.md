@@ -23,6 +23,7 @@
 - [8 Tips to Improve Your Python Scripts Immediately_inedo](https://blog.inedo.com/python/8-ways-improve-python-scripts?utm_campaign=Python&utm_source=twitter&utm_medium=paidsocial&utm_content=8PythonTipsPaidTwit)
 - [How and Why You Should Be Explicit When Python Coding_datasciencecentral](https://www.datasciencecentral.com/how-and-why-you-should-be-explicit-when-python-coding/)
 - [5 Mistakes to Avoid When First Learning to Program (DL)](https://towardsdatascience.com/5-mistakes-to-avoid-when-first-learning-to-program-431dc1fa190a)
+- [Data scientist’s guide to efficient coding in Python (DL)](https://towardsdatascience.com/data-scientists-guide-to-efficient-coding-in-python-670c78a7bf79)
 
 ### Storytelling
 - [8 Tips for Creating a Compelling Presentation for Data Science (SMRY)(DL)](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0)
