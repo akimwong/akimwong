@@ -97,9 +97,9 @@
 - [Types of Algorithms in Decision Making_SanwouoBrell](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
 
 ### Data Analytics
+- [10 Differences Between Amateurs and Professional Analysts (DL)](https://towardsdatascience.com/10-differences-between-amateurs-and-professional-analysts-3a1be1a06a4d)
 - [5 Things I *Actually* Work on as a Data Analyst in 2022 (DL)](https://towardsdatascience.com/5-things-i-actually-work-on-as-a-data-analyst-in-2022-9e31df929fcb)
 - [Data analytics principles at an AI startup (DL)](https://towardsdatascience.com/data-analytics-principles-at-an-ai-startup-eebbdb208c55)
-- [10 Differences Between Amateurs and Professional Analysts (DL)](https://towardsdatascience.com/10-differences-between-amateurs-and-professional-analysts-3a1be1a06a4d)
 - [Three Common Data Analysis Operations with Three Common Tools (DL)](https://towardsdatascience.com/3-common-data-analysis-operations-with-3-common-tools-9288ce61a40f)
 - [Why Analytics Needs an Impact-Driven Approach (DL)](https://towardsdatascience.com/why-analytics-needs-an-impact-driven-approach-43179f3bec4e)
 - [Don’t Be “Data-Driven.” Be Analytics-Driven (DL)](https://towardsdatascience.com/dont-be-data-driven-be-analytics-driven-74cbb0518640)
