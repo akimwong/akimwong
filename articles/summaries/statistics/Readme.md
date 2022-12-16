@@ -72,6 +72,9 @@ Why the separation is 1.5 times the IQR on either side? the answer lies in stati
 # Data Scientists Need to Know Just One Statistical Test
 (After you read this, you will be able to test any possible statistical hypothesis. With a unique algorithm.)
 
+#### There is only one test that you need to know because `all the statistical tests are in reality the same one test!`
+
+
 
 
 
