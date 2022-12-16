@@ -184,6 +184,7 @@
 - [5 Essential Qualities of Anomaly Detection Systems (DL)](https://towardsdatascience.com/5-essential-qualities-of-anomaly-detection-systems-fcd1ec5ee9d5)
 - [Predicting solar power output using machine learning techniques (DL)](https://towardsdatascience.com/predicting-solar-power-output-using-machine-learning-techniques-56e7959acb1f)
 - [Beyond The Basics! Level Up Your Causal Discovery Skills in Python (2023) (DL)](https://towardsdatascience.com/beyond-the-basics-level-up-your-causal-discovery-skills-in-python-now-2023-cabe0b938715)
+- [5 Popular Posts on Making Your Life as a Data Scientist Easier (DL)](https://towardsdatascience.com/5-popular-posts-on-making-your-life-as-a-data-scientist-easier-f77c7ff0303e)
 
 
 
