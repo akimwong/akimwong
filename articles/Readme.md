@@ -117,7 +117,7 @@
 ### Statistics
 - [7 Most Asked Questions on Central Limit Theorem (SMRY)(DL)](https://medium.com/towards-data-science/7-most-asked-questions-on-central-limit-theorem-82e95eb7d964)
 - [Understanding Boxplot: Infinity Gauntlet of the Dataverse (SMRY)(DL)](https://towardsdatascience.com/understanding-boxplot-infinity-gauntlet-of-the-dataverse-cd57cd067711)
-- [Data Scientists Need to Know Just One Statistical Test (DL)](https://towardsdatascience.com/data-scientists-need-to-know-just-one-statistical-test-3115b2ff26fd)
+- [Data Scientists Need to Know Just One Statistical Test (SMRY)(DL)](https://towardsdatascience.com/data-scientists-need-to-know-just-one-statistical-test-3115b2ff26fd)
 - [3 Most Common Misinterpretations: Hypothesis Testing, Confidence Interval, P-Value (DL)](https://towardsdatascience.com/the-most-common-misinterpretations-hypothesis-testing-confidence-interval-p-value-4548a10a5b72)
 - [Simple Explanations of Basic Statistics Concepts (Part 1) (DL)](https://towardsdatascience.com/simple-explanations-of-basic-statistics-concepts-part-1-bba66a1761d7)
 - [Chi-square Test — How to calculate Chi-square using Formula & Python Implementation (DL)](https://towardsdatascience.com/chi-square-test-how-to-calculate-chi-square-using-formula-python-implementation-6da203f96569)
