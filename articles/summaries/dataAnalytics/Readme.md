@@ -56,4 +56,6 @@ If they want to lay a claim to being a pro, they build scary-good skills in leas
 
 ## Practice makes perfect!
 - If all you’re after is a nudge to get started with analytics, go look at some numbers already. 
-- 
+- Don’t wait for special permission. You don’t need any fancy training. 
+- Skip the courses and the books and don’t worry if you’re not an expert yet… just dive in!
+- `Reading about analytics can help you with mindset and attitude, but mastery takes talent and practice. Lots and lots and lots and LOTS of practice.`
