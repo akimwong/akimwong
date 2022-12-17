@@ -29,7 +29,7 @@ With this simple practice you can dramatically improve your presentation with li
 ## 7.	Focus Your Audience’s Attention
 When your eyes and brain first see a slide, for the first fraction of a second, you are drawn to different elements that stand out. Items can be in bold, italics, or a different color or size. The fact that they are different from the main text is how you can focus your attention.
 
-For example: In which graph is the number of 7 best counted?
+For example: On which chart is it easier to count the number 7?
 <p align="center">
   <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/storytelling/StoryTelling3.png" width="400" height="200">
 </p>
