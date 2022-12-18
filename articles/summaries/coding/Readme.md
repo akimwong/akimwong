@@ -38,5 +38,5 @@
 
 #### What makes a “good code” exactly?
 <p align="center">
-  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/coding/coding1.jpg" width="400" height="400">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/coding/coding1.jpg" width="600" height="600">
 </p>
