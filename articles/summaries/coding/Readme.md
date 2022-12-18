@@ -35,3 +35,5 @@
 ------------------
 # Good Data Scientists Write Good Code
 (Tips on how to be nice to yourself and your colleagues when developing code for data products)
+
+#### What makes a “good code” exactly?
