@@ -51,3 +51,5 @@ Best practices and principles to be particularly relevant and useful:
 -	there is a monitoring infrastructure that allows one to track and understand how the application behaves in production.
 
 #### Writing a perfect piece of code in one go is almost impossible, and that’s OK
+- Having clearly formulated requirements in Data Science projects is uncommon.
+- 
