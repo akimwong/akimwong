@@ -37,3 +37,6 @@
 (Tips on how to be nice to yourself and your colleagues when developing code for data products)
 
 #### What makes a “good code” exactly?
+<p align="center">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/statistics/boxplot2.png" width="600" height="300">
+</p>
