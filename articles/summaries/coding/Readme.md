@@ -38,5 +38,16 @@
 
 #### What makes a “good code” exactly?
 <p align="center">
-  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/coding/coding1.jpg" width="500" height="500">
+  <img src="https://github.com/akimwong/akimwong/blob/main/articles/summaries/coding/coding1.jpg" width="450" height="450">
 </p>
+
+Best practices and principles to be particularly relevant and useful:
+-	it takes minimal time and cost for new team members to join the project;
+-	the code is written in a modular way and is version-controlled and unit-tested;
+-	the application is fully configurable and contains no hard-coded values that control its execution;
+-	the application is portable between execution environments;
+-	the application is scalable without changing the tooling, architecture or development practices;
+-	no code gets deployed in production without a peer review;
+-	there is a monitoring infrastructure that allows one to track and understand how the application behaves in production.
+
+#### Writing a perfect piece of code in one go is almost impossible, and that’s OK
