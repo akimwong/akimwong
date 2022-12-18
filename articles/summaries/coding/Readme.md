@@ -32,3 +32,6 @@
 #### Practice describing how your code works so that a 5-year-old could understand it
 - By reviewing your code documentation a few times before making it available, you ensure that you can explain your code as simply as possible through your literature and that you can explain it in more detail if questions ever arise.
 
+------------------
+# Good Data Scientists Write Good Code
+(Tips on how to be nice to yourself and your colleagues when developing code for data products)
