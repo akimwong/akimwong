@@ -96,7 +96,7 @@ Deployment of data products often brings about a whole lot of hard requirements,
 
 #### Use descriptive variable names
 
-    z = x / y^2   ---->  body_mass_index = body_mass / body_height^2
+    NO: z = x / y^2   ---->   YES:  body_mass_index = body_mass / body_height^2
 
 - This code is fully `self-documenting` — there is `no need to provide any additional comments` as to what it’s calculating.
 - It’s very important to realise that production-grade code is written not for ourselves but mainly for other people.
