@@ -85,5 +85,16 @@ Since the prototype code is disposable, it:
 
 ## 2. Making it right
 
+The process of making a `data product available` to its human users or other systems is referred to as `deployment`.
+Deployment of data products often brings about a whole lot of hard requirements, including but not limited to:
+- project-specific SLAs (for instance, sufficiently low response time from an API that serves model predictions, high availability and concurrency for web applications, etc.);
+-	infrastructure to deploy and run the application in a fully automated and scalable way (DevOps/MLOps);
+-	infrastructure to robustly deliver high-quality input data when and if required by the application;
+-	infrastructure to monitor the operational (e.g., CPU load) and product-related metrics (e.g., the accuracy of predictions);
+-	continuous operational support for business-critical applications, etc.
+- Data Scientists also have to “make things right” on their end, in terms of code quality.
 
+#### Use descriptive variable names
+
+z = x / y^2   ---->>>>   body_mass_index = body_mass / body_height^2
 
