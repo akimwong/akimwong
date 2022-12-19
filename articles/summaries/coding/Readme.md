@@ -116,6 +116,6 @@ Deployment of data products often brings about a whole lot of hard requirements,
 
 #### Never hard-code sensitive information
 - Production code must never expose any sensitive information in the form of hard-coded constants.
-- It is recommended storing sensitive information in `environment variables`. One convenient and secure way of working with such variables involves storing them as key-value pairs in a special .env file``, which never gets committed to the app’s remote code repository.  
+- It is recommended storing sensitive information in `environment variables`. One convenient and secure way of working with such variables involves `storing them as key-value pairs in a special .env file`, which never gets committed to the app’s remote code repository.  
 
 
