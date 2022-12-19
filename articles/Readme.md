@@ -14,7 +14,7 @@
 
 ### Coding
 - [How to Write Good Code Documentation for Data Scientists (SMRY)(DL)](https://towardsdatascience.com/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)
-- [Good Data Scientists Write Good Code (DL)](https://towardsdatascience.com/good-data-scientists-write-good-code-28352a826d1f)
+- [Good Data Scientists Write Good Code (SMRY)(DL)](https://towardsdatascience.com/good-data-scientists-write-good-code-28352a826d1f)
 - [3 Powerful Reasons You Should Plan Your Python Code Before You Write It (DL)](https://towardsdatascience.com/3-powerful-reasons-you-should-plan-your-python-code-before-you-write-it-dcedd4b3bf28)
 - [How to Write High-Quality Python as a Data Scientist (DL)](https://towardsdatascience.com/how-to-write-high-quality-python-as-a-data-scientist-cde99f582675)
 - [10 Easy Tips to Write Code Like a Pro (DL)](https://towardsdatascience.com/how-to-write-code-like-a-pro-659760804724)
