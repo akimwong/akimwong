@@ -64,6 +64,26 @@ Best practices and principles to be particularly relevant and useful:
 - The code at this stage doesn’t have to be “pretty”.
 - We build prototypes to analyse and learn from them as cheap as possible so that we can quickly decide whether further development and deployment are justified ROI-wise. 
 
+#### A prototype code is a throw-away code
+- The code of a prototype solution needs to be treated as disposable code. 
+- As a Data Scientist leading the project or as a Project Manager, you must make this very clear to your stakeholders.
+
+#### What’s OK to do when building a prototype as code
+Since the prototype code is disposable, it:
+- doesn’t have to be “pretty” or optimised for computational speed as the speed of development is way more important at this stage;
+- doesn’t have to be documented to the same level as a production-grade code (however, there should be enough comments and/or Markdown-based notes to understand what the code does and to ensure its reproducibility);
+-	doesn’t have to be version-controlled (although setting up version control at the beginning of any project is always a good idea);
+-	it’s OK to have hard-coded values (but not the sensitive ones, such as passwords, API keys, etc.);
+-	can be written and stored in a Jupyter Notebook or similar media (e.g., R Markdown Notebook) instead of being organised into a library of functions and/or a collection of production-ready scripts.
+
+#### What’s not OK to do when building a prototype as code
+- using cryptic or abbreviated names for variables and functions;
+- mixing code styles (e.g., randomly using camelCase and snake_case to name variables and functions in languages like Python or R, or using uppercased and lowercased command names in SQL);
+-	not using comments in the code at all;
+-	having sensitive values (passwords, API keys, etc.) exposed in-code;
+-	not storing notebooks or scripts with the prototype code for future reference.
+
+## 2. Making it right
 
 
 
