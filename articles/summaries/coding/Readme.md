@@ -57,10 +57,12 @@ Best practices and principles to be particularly relevant and useful:
 - One approach to software development that I find particularly relevant suggests thinking about the evolution of the application codebase in terms of the following stages: “make it work, make it right, make it fast”. 
 
 ## 1. Make it work
-- At the beginning of a project it is important to start small and build a prototype (early sample, model, or release of a product built to `test a concept` or process) first. 
+('prototype': early sample, model, or release of a product built to `test a concept` or process)
+- At the beginning of a project it is important to start small and build a prototype first. 
 - Develop a prototype solution for the business problem at hand in order to analyse that solution, learn from it, and decide if further development and deployment are justified. 
 - For instance, this could involve quickly building a predictive model on a limited sample of data using default hyperparameters. 
 - The code at this stage doesn’t have to be “pretty”.
+- We build prototypes to analyse and learn from them as cheap as possible so that we can quickly decide whether further development and deployment are justified ROI-wise. 
 
 
 
