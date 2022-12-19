@@ -114,7 +114,8 @@ Deployment of data products often brings about a whole lot of hard requirements,
 2. `Make the code easy to read and comprehend`. In addition to using descriptive names, this can be achieved by avoiding highly specialised constructs of the programming language used in the project.
 3. `Minimise the number of function arguments`. It’s not a hard rule, and there are exceptions, but if the function you write has more than 3–5 arguments, it’s probably doing too many things, so consider splitting its code further still.
 
-
-
+#### Never hard-code sensitive information
+- Production code must never expose any sensitive information in the form of hard-coded constants.
+- It is recommended storing sensitive information in `environment variables`. One convenient and secure way of working with such variables involves storing them as key-value pairs in a special .env file``, which never gets committed to the app’s remote code repository.  
 
 
