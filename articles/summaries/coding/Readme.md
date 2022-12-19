@@ -184,7 +184,7 @@ Deployment of data products often brings about a whole lot of hard requirements,
 - Before rushing into the code refactoring, it is helpful to recall the following “rules of optimisation”:
 1.	First Rule of Optimisation: Don’t
 2.	Second Rule of Optimisation: Don’t… yet
-3.	Profile Before Optimising
+3.	Third Rule of Optimisation: Profile Before Optimising
 
 - In other words, it is always a good idea to make sure the problem is real before investing your precious time trying to fix it. 
 - This is done by “profiling” (as per Rule 3 above), which in Data Science projects usually means two things:
