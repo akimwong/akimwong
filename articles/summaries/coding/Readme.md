@@ -55,3 +55,8 @@ Best practices and principles to be particularly relevant and useful:
 - Given the highly risky nature of Data Science projects, especially in their early stages, it doesn’t make much sense to write production-grade code from Day 1.
 - Instead, it’s useful to approach code development more pragmatically, similar to how it’s done in software development projects.
 - One approach to software development that I find particularly relevant suggests thinking about the evolution of the application codebase in terms of the following stages: “make it work, make it right, make it fast”. 
+
+### 1. Make it work
+
+
+## 1. Make it work
