@@ -170,7 +170,29 @@ Deployment of data products often brings about a whole lot of hard requirements,
 - In many cases, it makes sense to simplify these constructs for readability’s sake. 
 - Spotting parts of the code that might be improved requires a “fresh pair of eyes”, and a peer reviewer can help with that. 
 - The reviewer is typically someone from the team, who is familiar with the project or directly contributes to it.
+- Peer review is also important when making changes in the codebase that may significantly impact the end users.
 
+#### Document things, religiously
+- Production-grade code must be documented. Without documentation, it will be very difficult to maintain code in the long term, distribute it efficiently, and onboard new team members quickly and smoothly. 
+- The following recommendations will help with creating a well-documented codebase:
+1. When writing classes, methods or pure functions, `use docstrings` for Python or a similar language-specific mechanism if you are working with other languages.
+2. When writing scripts, (i) provide a comment at the top and explain briefly the purpose of the script; (ii) provide additional comments in places that might be challenging to understand otherwise.
+3. In the project’s remote repository, provide a README file that explains all the relevant details about that repository.
+
+## Making it fast
+- A deployed application may reveal various computational inefficiencies and bottlenecks. 
+- Before rushing into the code refactoring, it is helpful to recall the following “rules of optimisation”:
+1.	First Rule of Optimisation: Don’t
+2.	Second Rule of Optimisation: Don’t… yet
+3.	Profile Before Optimising
+
+- In other words, it is always a good idea to make sure the problem is real before investing your precious time trying to fix it. 
+- This is done by “profiling” (as per Rule 3 above), which in Data Science projects usually means two things:
+1. Measuring the performance of the code of interest;
+2. Considering the intended optimisation work in the context of the entire project’s ROI and the business value it generates.
+
+- The proposed optimisation work will only make sense if the expected ROI of the entire project is positive and sufficiently large. 
+- The final decision is to be made by all the project members involved.
 
 
 
