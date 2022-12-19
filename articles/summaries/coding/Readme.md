@@ -96,5 +96,25 @@ Deployment of data products often brings about a whole lot of hard requirements,
 
 #### Use descriptive variable names
 
-z = x / y^2   ---->>>>   body_mass_index = body_mass / body_height^2
+z = x / y^2   ---->  body_mass_index = body_mass / body_height^2
+
+- This code is fully `self-documenting` — there is `no need to provide any additional comments` as to what it’s calculating.
+- It’s very important to realise that production-grade code is written not for ourselves but mainly for other people.
+
+#### Use a consistent coding style
+
+- It doesn’t matter much which style exactly a team of developers chooses because ultimately it’s all about consistency.
+
+#### Write modular code
+
+- Modular code is code that is broken down into small independent parts (e.g., functions), each doing one thing and one thing only. 
+- Organising code this way makes it much easier to maintain, debug, test, share with other people, and ultimately helps to write new programs faster.
+- When designing and writing functions, stick to the following best practices:
+1. `Keep it short`. If you find your function contains tens of lines of code, consider splitting that code even further.
+2. `Make the code easy to read and comprehend`. In addition to using descriptive names, this can be achieved by avoiding highly specialised constructs of the programming language used in the project.
+3. `Minimise the number of function arguments`. It’s not a hard rule, and there are exceptions, but if the function you write has more than 3–5 arguments, it’s probably doing too many things, so consider splitting its code further still.
+
+
+
+
 
