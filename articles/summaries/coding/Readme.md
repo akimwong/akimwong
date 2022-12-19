@@ -179,7 +179,7 @@ Deployment of data products often brings about a whole lot of hard requirements,
 2. When writing scripts, (i) provide a comment at the top and explain briefly the purpose of the script; (ii) provide additional comments in places that might be challenging to understand otherwise.
 3. In the project’s remote repository, provide a README file that explains all the relevant details about that repository.
 
-## Making it fast
+## 3. Making it fast
 - A deployed application may reveal various computational inefficiencies and bottlenecks. 
 - Before rushing into the code refactoring, it is helpful to recall the following “rules of optimisation”:
 1.	First Rule of Optimisation: Don’t
