@@ -118,4 +118,61 @@ Deployment of data products often brings about a whole lot of hard requirements,
 - Production code must never expose any sensitive information in the form of hard-coded constants.
 - It is recommended storing sensitive information in `environment variables`. One convenient and secure way of working with such variables involves `storing them as key-value pairs in a special .env file`, which never gets committed to the app’s remote code repository.  
 
+#### Explicitly declare all dependencies in a manifest file
+- It’s common to see data products, whose codebase is dependent on tens of specialised libraries. 
+- The code may work well on the developer’s local machine, where all of these dependencies are installed and function correctly. 
+- However, transferring applications to production environments often breaks things if the code dependencies are not managed properly. 
+- To avoid such problems, one must declare all dependencies, completely and exactly, via a dependency declaration manifest.
+
+#### Use a single, version-controlled code repository
+- The code of a production-intended data product must be version-controlled (VC) and stored in a remote repository accessible by other project members.
+- Git is perhaps the most commonly used VC system, and nowadays Data Scientists developing production-ready data products are expected to be familiar at least with its basic principles.
+- VC is important for a number of reasons, including the following:
+1.	it enables collaboration between project members;
+2.	when things break, it allows one to roll back to a previous working version of the application;
+3.	it enables an automated continuous integration and deployment;
+4.	it creates full transparency, which can be particularly important for audit purposes in regulated industries.
+
+- The codebase of a given application is to be stored in a single repository, and different applications should not share the same pieces of code.
+
+#### Use a config file to store non-sensitive application parameters
+- This includes all sorts of credentials, resource URIs, passwords, and also Data Science-specific variables, such as model hyperparameters, values to impute missing observations, names of the input and output datasets, etc.
+- It is almost guaranteed that a production-intended data product will need a config. 
+- Instead of hard-coding the respective computational resource values (e.g., AWS EC2 instance parameters) into the application’s main code, it makes much more sense to treat those values as configuration parameters.
+- The most common formats for config files are JSON and YAML. YAML files are human-readable and are thus often preferable. 
+
+#### Equip your application with a logging mechanism
+- Logs are a stream of time-ordered events collected from the output streams of all active processes and backing services of an application.
+- These events are commonly written to a text file on the server’s disk, with one event per line. 
+- They are being generated continuously as long as the application is operating. 
+- The purpose of logs is to provide visibility into the behaviour of a running application. 
+- As a result, logs are extremely useful for detecting failures and bugs, alerting, calculating the time taken by various tasks, etc.
+- `It’s strongly recommended that Data Scientists inject logging mechanisms into data products that are to be deployed in production`. 
+- `It should be noted that Machine Learning-based applications have additional monitoring needs because of the non-deterministic nature of the respective algorithms`.
+- This, in turn, requires the project team to spend additional time and effort to build the (often complex) infrastructure to operate and support deployed models.
+
+#### Test your code for correctness
+- No code should go into production without confirming that it does what it’s supposed to be doing. 
+- The best way to confirm that is to write a battery of use case-specific tests, which can then be automatically run at critical time points.
+- This kind of testing is often referred to as “unit testing”, where “unit refers to low-level test cases written in the same language as the production code, which directly access its objects and members”.
+- All major programming languages have dedicated libraries to create automated code tests. Examples include unittest and pytest for Python and testthat for R.
+- An important concept in unit testing is code coverage — the percentage of code that is covered by automated tests.
+- Some of the general recommendations in this regard are as follows:
+1.	write a test for every situation when you are tempted to type something into a print statement to see if the code works as expected;
+2.	avoid testing simple code that you are confident will work;
+3.	always write a test when you discover a bug.
+
+- Code coverage can be automatically calculated using a variety of tools, such as the coverage library in Python or covr in R.
+- At a bare minimum, unit tests should be run locally on the developer’s machine and supplied in the project’s repository so that other project members can re-run them. However, “the right way” to do this nowadays is to run tests fully automatically on a dedicated automation server (e.g., Jenkins) or using other continuous integration tools (e.g., GitHub Actions, GitLab CI, CircleCI, etc.).
+
+#### Make sure at least one person peer-reviews your code
+- A piece of code may well be bugs-free and cleanly formatted, but there are almost always certain aspects that can be improved even further. 
+- In many cases, it makes sense to simplify these constructs for readability’s sake. 
+- Spotting parts of the code that might be improved requires a “fresh pair of eyes”, and a peer reviewer can help with that. 
+- The reviewer is typically someone from the team, who is familiar with the project or directly contributes to it.
+
+
+
+
+
 
