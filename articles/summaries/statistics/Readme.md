@@ -132,8 +132,8 @@ But how do we do it in Python? The algorithm is the following:
 
 ### 2. Interval Estimation (aka Confidence Interval)
 - To estimate an unknown population parameter, and state how confident we are that this interval would include the true population parameter.
-- To construct the confidence interval, we would need two metrics: (/b)
-a. The point estimate of the population parameter (e.g., sample mean)
-b. The standard error of the point estimate (e.g., the standard error of the sample mean), which indicates how different the population parameter is likely to be from one sample statistic.
+- To construct the confidence interval, we would need two metrics: <br/>
+a. The point estimate of the population parameter (e.g., sample mean) <br/>
+b. The standard error of the point estimate (e.g., the standard error of the sample mean), which indicates how different the population parameter is likely to be from one sample statistic. <br/>
 
 
