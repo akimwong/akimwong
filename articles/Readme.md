@@ -133,7 +133,7 @@
 - [Hypothesis Testing Explained_KdNuggets](https://www.kdnuggets.com/2021/09/hypothesis-testing-explained.html)
 - [How to Simplify Hypothesis Testing for Linear Regression in Python (DL)](https://towardsdatascience.com/how-to-simplify-hypothesis-testing-for-linear-regression-in-python-8b43f6917c86)
 - [T-test and Hypothesis Testing (Explained Simply) (DL)](https://towardsdatascience.com/t-test-and-hypothesis-testing-explained-simply-1cff6358633e)
-- [t-test in R-How to Perform T-tests in R](https://finnstats.com/index.php/2020/09/19/t-test-in-r/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
+- [t-test in R-How to Perform T-tests in R_finnStats](https://finnstats.com/index.php/2020/09/19/t-test-in-r/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 - [Importance of Quartiles in Statistics for Data Science_finnstats](https://finnstats.com/index.php/2022/05/24/importance-of-quartiles-in-statistics-for-data-science/)
 - [How confidence intervals can help focus attention and simplify analysis (DL)](https://towardsdatascience.com/beyond-the-numbers-5f20b919ac5b)
 - [¿Qué es la multicolinealidad y por qué es un problema?](https://www.maximaformacion.es/blog-ciencia-datos/que-es-la-multicolinealidad-y-por-que-es-un-problema/)
