@@ -112,3 +112,26 @@ But how do we do it in Python? The algorithm is the following:
 - If you have come this far, you may wonder: if it’s so easy, why do so many tests exist? The answer is mostly “historical”.
 - There was a time when computation was much more expensive than now, so “statistical tests” were basically shortcuts to compute p-values efficiently. 
 - And since there are so many possibilities to choose step 1 and step 2 of the algorithm we have seen, the tests proliferated.
+
+--------------------------------
+# 3 Most Common Misinterpretations: Hypothesis Testing, Confidence Interval, P-Value
+(A refresher on how to interpret statistical inference correctly)
+
+### What is Statistical Inference?
+- Is the process of analyzing sample data and making conclusions about the parameters of a population 
+- There are three common forms of Statistical Inference. Each one has a different way of using sample data to make conclusions about the population. They are:
+1.	Point Estimation
+2.	Interval Estimation 
+3.	Hypothesis Testing
+
+### 1.	Point Estimation
+- We infer an unknown population parameter `using a single value` based on the sample data.
+- Is easy to understand and present. But it is not reliable because it will likely be off the mark.
+- If we took another set of sample data (with the same sample size) and do a point estimate again, it is very likely we would end up making a `different conclusion about the population`.
+- Doesn’t give us any idea as to how good the estimation is.
+
+### Interval Estimation (aka Confidence Interval)
+- To estimate an unknown population parameter, and state how confident we are that this interval would include the true population parameter.
+
+
+
