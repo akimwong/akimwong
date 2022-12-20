@@ -130,8 +130,10 @@ But how do we do it in Python? The algorithm is the following:
 - If we took another set of sample data (with the same sample size) and do a point estimate again, it is very likely we would end up making a `different conclusion about the population`.
 - Doesn’t give us any idea as to how good the estimation is.
 
-### Interval Estimation (aka Confidence Interval)
+### 2. Interval Estimation (aka Confidence Interval)
 - To estimate an unknown population parameter, and state how confident we are that this interval would include the true population parameter.
-
+- To construct the confidence interval, we would need two metrics:
+a. The point estimate of the population parameter (e.g., sample mean)
+b. The standard error of the point estimate (e.g., the standard error of the sample mean), which indicates how different the population parameter is likely to be from one sample statistic.
 
 
