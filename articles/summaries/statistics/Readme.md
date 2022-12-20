@@ -138,4 +138,4 @@ b. The standard error of the point estimate (e.g., the standard error of the sam
 
 
 ### 3. Hypothesis Testing
-- Unlike point estimate and `interval estimate which are used to infer population parameters based on sample data`, the purpose of `hypothesis testing` is to evaluate the strength of evidence from the sample data `for making conclusions` about the population.
+- Unlike point estimate and `interval estimate which are used to infer population parameters based on sample data`, the purpose of `hypothesis testing` is to `evaluate the strength of evidence` from the sample data `for making conclusions` about the population.
