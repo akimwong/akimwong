@@ -135,7 +135,17 @@ But how do we do it in Python? The algorithm is the following:
 - To construct the confidence interval, we would need two metrics: <br/>
 a. The point estimate of the population parameter (e.g., sample mean) <br/>
 b. The standard error of the point estimate (e.g., the standard error of the sample mean), which indicates how different the population parameter is likely to be from one sample statistic. <br/>
-- Confidence interval indicates how confident we are about the conclusion.
+
+#### Misinterpretation #1:
+- It is `NOT correct` to say there is a 95% `probability` that the true population parameter lies between the 95% confidence interval.
+- It is `correct to say we’re 95% `confident` that the true population parameter lies between the 95% confidence interval.
+
+Confidence interval indicates how confident we are about the conclusion.
 
 ### 3. Hypothesis Testing
 - Unlike point estimate and `interval` estimate which are used to infer `population parameters based on sample data`, the purpose of `hypothesis testing` is to `evaluate the strength of evidence` from the sample data `for making conclusions` about the population.
+- In a hypothesis test, we evaluate `two mutually exclusive statements` about the population.
+
+#### Misinterpretation #2:
+- A hypothesis test is `NOT` designed to prove the null or alternative hypothesis. 
+- Instead, it `evaluates the strength of evidence AGAINST the null hypothesis` using sample data.
