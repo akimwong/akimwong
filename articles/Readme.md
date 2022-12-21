@@ -171,6 +171,7 @@
 
 
 ### Interviews
+- [Gestiona tu entrevista de trabajo en videoconferencia_LinkedIn](https://www.linkedin.com/feed/update/urn:li:lyndaVideo:(urn:li:lyndaCourse:2841606,2387125)/)
 - [Interview Questions_SQL_ML_DL_Programing_BigData_Cloud_Statistics_BI_Testing](https://intellipaat.com/blog/interview-questions/)
 - [Questions to Help You Practice for Your Data Science Interview (SMRY)(DL)](https://towardsdatascience.com/questions-to-help-you-practice-for-your-data-science-interview-c619ab6db70b)
 - [Python Practice Questions for Coding Interviews](https://amankharwal.medium.com/python-practice-questions-for-beginners-268fcdfb14e6)
