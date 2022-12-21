@@ -149,6 +149,7 @@
 - [5 ways to Increase Statistical Power (DL)](https://towardsdatascience.com/5-ways-to-increase-statistical-power-377c00dd0214)
 - [How Big Should Your Sample Size Be? (DL)](https://towardsdatascience.com/how-big-should-your-sample-size-be-54ab2154c152)
 - [Bayesian Statistics 101 (DL)](https://towardsdatascience.com/bayesian-statistics-101-4c4bc5fde1e1)
+- [It’s the Data That Should Surprise You, Not the P-Values (DL)](https://towardsdatascience.com/its-the-data-that-should-surprise-you-not-the-p-values-79fce3963d35)
 
 ### Jobs
 - [How to Get Your Resume Noticed (And Out of the Trash Bin) (SMRY)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
