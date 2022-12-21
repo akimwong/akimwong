@@ -201,6 +201,7 @@
 - [Beyond The Basics! Level Up Your Causal Discovery Skills in Python (2023) (DL)](https://towardsdatascience.com/beyond-the-basics-level-up-your-causal-discovery-skills-in-python-now-2023-cabe0b938715)
 - [5 Popular Posts on Making Your Life as a Data Scientist Easier (DL)](https://towardsdatascience.com/5-popular-posts-on-making-your-life-as-a-data-scientist-easier-f77c7ff0303e)
 - [An Introduction to Orchestrating Data Assets with Dagster (DL)](https://odsc.medium.com/an-introduction-to-orchestrating-data-assets-with-dagster-3d7610fd893c)
+- [The 10 Best Data Visualizations of 2022 (DL)](https://towardsdatascience.com/the-10-best-data-visualizations-of-2022-3e49d7ccb832)
 
 
 
