@@ -194,6 +194,7 @@
 - [Interview Questions for Entry-Level Data-Intensive Jobs (DL)](https://towardsdatascience.com/interview-questions-for-entry-level-data-intensive-jobs-a6647f2652b8)
 - [120+ Data Science Interview Questions And Answers for 2023](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
 - [12 Most Challenging Data Science Interview Questions_KdNuggets](https://www.kdnuggets.com/2022/07/12-challenging-data-science-interview-questions.html)
+- [20 Data Science Interview Questions for a Beginner_ThinkDataAnalytics](https://www.thinkdataanalytics.com/data-science-interview-questions/)
 
 ### Other
 - [Data engineering failure — Why is it almost impossible to meet deadlines? (DL)](https://towardsdatascience.com/data-engineering-failure-why-is-it-almost-impossible-to-meet-deadlines-fc1b5b5aa90)
