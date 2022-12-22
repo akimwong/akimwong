@@ -193,6 +193,7 @@
 - [Failed in Data Science Interview? Here Are Some Tips to Help You Succeed (DL)](https://towardsdatascience.com/failed-in-data-science-interview-here-are-some-tips-to-help-you-succeed-2e9a6bb2b307)
 - [Interview Questions for Entry-Level Data-Intensive Jobs (DL)](https://towardsdatascience.com/interview-questions-for-entry-level-data-intensive-jobs-a6647f2652b8)
 - [120+ Data Science Interview Questions And Answers for 2023](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
+- [12 Most Challenging Data Science Interview Questions_KdNuggets](https://www.kdnuggets.com/2022/07/12-challenging-data-science-interview-questions.html)
 
 ### Other
 - [Data engineering failure — Why is it almost impossible to meet deadlines? (DL)](https://towardsdatascience.com/data-engineering-failure-why-is-it-almost-impossible-to-meet-deadlines-fc1b5b5aa90)
