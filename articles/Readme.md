@@ -169,6 +169,7 @@
 - [3 aspects that make Data Scientists think about moving on to greener pastures](https://towardsdatascience.com/what-makes-data-scientists-resign-77600516d0a8)
 - [Creating a Cover Letter Generator Using Python and GPT-3 (DL)](https://towardsdatascience.com/creating-a-cover-letter-generator-using-python-and-gpt-3-297a6b2a3886)
 - [How to Land a Senior Data Scientist Position_KdNuggets](https://www.kdnuggets.com/2022/12/land-senior-data-scientist-position.html)
+- [My Data Science Job Search (DL)](https://towardsdatascience.com/my-data-science-job-search-6deb4117e7b5)
 
 
 ### Interviews
