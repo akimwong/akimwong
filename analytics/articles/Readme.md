@@ -7,3 +7,4 @@
 - [The 7 Most Useful Data Analysis Methods and Techniques](https://careerfoundry.com/en/blog/data-analytics/data-analysis-techniques/)
 - [Problems in Research: Quantitative & Qualitative Methods](https://classroom.synonym.com/problems-research-quantitative-qualitative-methods-4418.html)
 - [Diagnostic analytics — how to conduct a root-cause analysis (DL)](https://towardsdatascience.com/diagnostic-analytics-how-to-conduct-a-root-cause-analysis-4e92583cf008)
+- [How to use a risk assessment matrix: A free template and guide_TechTarget](https://www.techtarget.com/searchdisasterrecovery/feature/How-to-use-a-risk-assessment-matrix-A-free-template-and-guide)
