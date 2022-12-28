@@ -208,6 +208,7 @@
 - [5 Popular Posts on Making Your Life as a Data Scientist Easier (DL)](https://towardsdatascience.com/5-popular-posts-on-making-your-life-as-a-data-scientist-easier-f77c7ff0303e)
 - [An Introduction to Orchestrating Data Assets with Dagster (DL)](https://odsc.medium.com/an-introduction-to-orchestrating-data-assets-with-dagster-3d7610fd893c)
 - [The 10 Best Data Visualizations of 2022 (DL)](https://towardsdatascience.com/the-10-best-data-visualizations-of-2022-3e49d7ccb832)
+- [AI will thrive in 3 key areas in 2023, despite economic conditions (DL)](https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/)
 
 
 
