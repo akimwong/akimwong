@@ -73,6 +73,7 @@
 - [In Data Science, the Best Way to Learn Is by Doing (DL)](https://towardsdatascience.com/in-data-science-the-best-way-to-learn-is-by-doing-6d16e38d7f1a)
 - [27 successful data science tips to learn before 2023_DScDojo](https://datasciencedojo.com/blog/successful-data-science-tips/)
 - [How to Be an Effective Data Science Manager (DL)](https://towardsdatascience.com/how-to-be-an-effective-data-science-manager-dbdea96b783c)
+- [A Day in the Life of a Data Scientist (DL)](https://towardsdatascience.com/a-day-in-the-life-of-a-data-scientist-938d917370b9)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python (DL)](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
