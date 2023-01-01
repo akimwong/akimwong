@@ -13,6 +13,7 @@
 - [To Achieve Big Goals, Start with Small Habits (DL)](https://hbr.org/2020/01/to-achieve-big-goals-start-with-small-habits?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [When a Tough Question Puts You on the Spot (DL)](https://hbr.org/2022/12/when-a-tough-question-puts-you-on-the-spot?utm_campaign=hbr&utm_medium=social&utm_source=twitter)
 - [5 Ways to Project Confidence in Front of an Audience (DL)](https://hbr.org/2018/05/5-ways-to-project-confidence-in-front-of-an-audience?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [The 3 Elements of Trust (DL)](https://hbr.org/2019/02/the-3-elements-of-trust?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 
 ### Coding
 - [How to Write Good Code Documentation for Data Scientists (SMRY)(DL)](https://towardsdatascience.com/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)
