@@ -5,7 +5,6 @@ I am focused on the continuous developing of an [analytical mind](analytics/) wi
 
 <!--
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" />
-https://github.com/mysql/mysql-workbench/blob/8.0/images/icons/MySQLWorkbench-256.png
 -->
 **Languages and tools:**  
 
