@@ -3,8 +3,9 @@
 Hi, my name is Carlos Wong,<br/>
 I am focused on the continuous developing of an [analytical mind](analytics/) with the help of data science tools, to solve business problems and to try to forecast the future.
 
+<!--
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" />
-
+-->
 **Languages and tools:**  
 
 <!--
