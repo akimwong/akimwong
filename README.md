@@ -5,6 +5,7 @@ I am focused on the continuous developing of an [analytical mind](analytics/) wi
 
 <!--
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" />
+https://github.com/mysql/mysql-workbench/blob/8.0/images/icons/MySQLWorkbench-256.png
 -->
 **Languages and tools:**  
 
@@ -15,7 +16,7 @@ I am focused on the continuous developing of an [analytical mind](analytics/) wi
 <a href="https://jupyter.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://cran.r-project.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://github.com/mysql/mysql-workbench/blob/8.0/images/icons/MySQLWorkbench-256.png" alt="mysqlwb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysqlwb" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <!--
 <a href="https://www.tableau.com" target="_blank"> <img src="https://camo.githubusercontent.com/8b08e01db72ef188a00eb19bb8b9ec94c9646ed818b1c3f9ee443dc8947e842b/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7461626c6561752d69636f6e2e737667" alt="tableau" width="40" height="40"/> </a>
