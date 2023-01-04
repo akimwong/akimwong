@@ -74,6 +74,7 @@
 - [27 successful data science tips to learn before 2023_DScDojo](https://datasciencedojo.com/blog/successful-data-science-tips/)
 - [How to Be an Effective Data Science Manager (DL)](https://towardsdatascience.com/how-to-be-an-effective-data-science-manager-dbdea96b783c)
 - [A Day in the Life of a Data Scientist (DL)](https://towardsdatascience.com/a-day-in-the-life-of-a-data-scientist-938d917370b9)
+- [10 Simple Things You Can Do to Improve Your Data Science Skills in 2023 (DL)](https://towardsdatascience.com/10-simple-things-you-can-do-to-improve-your-data-science-skills-in-2023-af274dc513da)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python (DL)](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
