@@ -157,6 +157,7 @@
 - [Bayesian Statistics 101 (DL)](https://towardsdatascience.com/bayesian-statistics-101-4c4bc5fde1e1)
 - [It’s the Data That Should Surprise You, Not the P-Values (DL)](https://towardsdatascience.com/its-the-data-that-should-surprise-you-not-the-p-values-79fce3963d35)
 - [Rejection Region in Hypothesis Testing_DScTutorials (DL)](https://datasciencetut.com/rejection-region-in-hypothesis-testing/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
+- [
 
 ### Jobs
 - [How to Get Your Resume Noticed (And Out of the Trash Bin) (SMRY)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
@@ -176,7 +177,7 @@
 - [Creating a Cover Letter Generator Using Python and GPT-3 (DL)](https://towardsdatascience.com/creating-a-cover-letter-generator-using-python-and-gpt-3-297a6b2a3886)
 - [How to Land a Senior Data Scientist Position_KdNuggets](https://www.kdnuggets.com/2022/12/land-senior-data-scientist-position.html)
 - [My Data Science Job Search (DL)](https://towardsdatascience.com/my-data-science-job-search-6deb4117e7b5)
-
+- [Don’t Throw Away Your Outliers! (DL)](https://towardsdatascience.com/dont-throw-away-your-outliers-c37e1ab0ce19)
 
 ### Interviews
 - [Gestiona tu entrevista de trabajo en videoconferencia_LinkedIn](https://www.linkedin.com/feed/update/urn:li:lyndaVideo:(urn:li:lyndaCourse:2841606,2387125)/)
