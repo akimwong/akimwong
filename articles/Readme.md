@@ -219,6 +219,7 @@
 - [The 10 Best Data Visualizations of 2022 (DL)](https://towardsdatascience.com/the-10-best-data-visualizations-of-2022-3e49d7ccb832)
 - [AI will thrive in 3 key areas in 2023, despite economic conditions (DL)](https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/)
 - [Learning Docker, the Easy Way (DL)](https://towardsdatascience.com/learning-docker-the-easy-way-52b7bdec5e86)
+- [6 Reasons Why Companies Fail at Data Governance (DL)](https://towardsdatascience.com/6-reasons-why-companies-fail-at-data-governance-6d13fdeda570)
 
 
 
