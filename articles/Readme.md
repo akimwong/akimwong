@@ -15,6 +15,7 @@
 - [5 Ways to Project Confidence in Front of an Audience (DL)](https://hbr.org/2018/05/5-ways-to-project-confidence-in-front-of-an-audience?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [The 3 Elements of Trust (DL)](https://hbr.org/2019/02/the-3-elements-of-trust?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [4 Ways to Get More Done in Less Time (DL)](https://hbr.org/2021/02/4-ways-to-get-more-done-in-less-time?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [Make Learning a Part of Your Daily Routine (DL)](https://hbr.org/2021/11/make-learning-a-part-of-your-daily-routine?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 
 ### Coding
 - [How to Write Good Code Documentation for Data Scientists (SMRY)(DL)](https://towardsdatascience.com/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)
