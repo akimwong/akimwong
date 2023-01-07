@@ -106,6 +106,7 @@
 - [Why Do People Say It’s So Hard To Deploy A ML Model To Production? (DL)](https://towardsdatascience.com/why-do-people-say-its-so-hard-to-deploy-a-ml-model-to-production-814548d446b5)
 - [Machine Learning Explainability vs Interpretability: Two concepts that could help restore trust in AI_KdNuggets](https://www.kdnuggets.com/2018/12/machine-learning-explainability-interpretability-ai.html)
 - [Find Your Machine Learning Tribe_MlMastery](https://machinelearningmastery.com/machine-learning-tribe/)
+- [All Machine Learning Algorithms You Should Know for 2023 (DL)](https://towardsdatascience.com/all-machine-learning-algorithms-you-should-know-for-2023-843dba11419c)
 
 ### Decission Making
 - [Types of Algorithms in Decision Making_SanwouoBrell](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
