@@ -80,6 +80,7 @@
 - [Beat The Heat with Machine Learning Cheat Sheet (DL)](https://medium.com/dataflair/beat-the-heat-with-machine-learning-cheat-sheet-365c25bd1c3)
 - [Top 10 Data Science Myths Busted (DL)](https://medium.com/codex/top-10-data-science-myths-busted-268e47d49d38)
 - [Data Science for Small Business Growth_365DataScience](https://365datascience.com/trending/data-science-for-small-business-growth/?utm_medium=social&utm_source=twitter&utm_campaign=tw-data-science-small-business-link&utm_content=tw-data-science-small-business-link&utm_term=link)
+- [18 Data Science Project Ideas for Beginners (DL)](https://towardsdatascience.com/19-data-science-project-ideas-for-beginners-3de3db9bf830)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python (DL)](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
