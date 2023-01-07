@@ -79,6 +79,7 @@
 - [10 Simple Things You Can Do to Improve Your Data Science Skills in 2023 (DL)](https://towardsdatascience.com/10-simple-things-you-can-do-to-improve-your-data-science-skills-in-2023-af274dc513da)
 - [Beat The Heat with Machine Learning Cheat Sheet (DL)](https://medium.com/dataflair/beat-the-heat-with-machine-learning-cheat-sheet-365c25bd1c3)
 - [Top 10 Data Science Myths Busted (DL)](https://medium.com/codex/top-10-data-science-myths-busted-268e47d49d38)
+- [Data Science for Small Business Growth_365DataScience](https://365datascience.com/trending/data-science-for-small-business-growth/?utm_medium=social&utm_source=twitter&utm_campaign=tw-data-science-small-business-link&utm_content=tw-data-science-small-business-link&utm_term=link)
 
 ### Machine Learning
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python (DL)](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
