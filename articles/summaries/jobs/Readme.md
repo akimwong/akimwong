@@ -17,6 +17,42 @@
 - Metrics are essential to telling the story of previous successes. 
 - So keep track of any quantifiable milestones you’re hitting in your current role, project, or internship
 
+----------------------------
+
+# What I Look For in Every Data Analyst Candidate
+(From the Perspective of a Hiring Manager)
+
+## 1. Focus Your Technical Skillset
+- Many who are new to the data analysis workforce, tend to present a laundry list of technical skills that they have fair to rudimentary knowledge of in the hopes that it might give them an edge. `This is a mistake`.
+- What matters is that you can `demonstrate the ability to use the skills you have learned in a real-world application`. 
+- For example, if you have spent your time learning how to program in R (the statistical language):
+1. I would want to hear about how you deployed it to answer real-world questions versus just being able to recite a list of functions you could call. 
+2. Describe the question you were seeking to answer from a business perspective and then what functionalities of the tool you used to answer it. 
+- Being able to do this will demonstrate two things to me. First, that you possess the technical skill and `second (and much more importantly), that you understand how to use it within the context of a business`.
+
+## 2. Learn as Much as You Can About the Business You Support
+- As a hiring manager, the `primary trait that I look for (and value the most) is curiosity`. 
+- For data analysts, that `curiosity is demonstrated by their ability to show a true understanding of the business that they are supporting`. 
+- At a high level, can you tell me `what the company does, and how it makes money? What challenges does it have?` The more you can tell me the better. And then, at a more detailed level, `how did the analysis you perform help the company?`
+- For example, if your company was experiencing extreme delays in the shipping of their products and you were tasked with finding the cause:
+1. What was your approach to analyzing this issue? 
+2. Can you describe to me, in detail, what the actual shipping process was? 
+3. And then, based on your understanding of that process, how you structured your analysis and identified the issue? 
+- If you could, I can guarantee you it would set you apart from the majority of data analyst candidates. 
+- The `best data analysts possess a thorough understanding of the business operation that they support`.
+- Don’t just learn how to code or use analytic software by rote, it will be wasted time for a number of reasons.
+- There are plenty of publicly available data sets you can use to create your own data analysis scenarios. I encourage you to take this approach for two reasons. 
+1. The first of course is to learn a technical skill. 
+2. The second (and perhaps more important), `is to find out if this is work that you have an aptitude for and might actually enjoy`.
+- `Becoming a data analyst is a huge commitment`. Take this as an opportunity to sample this role in advance so `you can determine whether or not it is a career path that you truly want to pursue`. 
+- During my time as a data analyst, I `always made it a goal to try and understand the business that I was supporting as well as they did`. I found that by doing this, `I became an incredibly effective data analyst which in turn made me an invaluable team member. It also made my job much more rewarding as I could see, first-hand, the value that I was adding`. I cannot emphasize enough how pivotal taking this approach was to my career.
+
+## 3. Keep Your Technical Knowledge Base Up to Date
+- The technical landscape for data analysis continues to `evolve and grow at light speed as more and more companies recognize` the veritable pot of gold that the ability to gather insights from all of this data represents.
+- (AI, ML, the Cloud, Hadoop clusters, Apache Spark, data lakes, data pipelines, data fabric, data mesh, data visualization, the list goes on and on as new technologies, architectures and analytic approaches continue to come online). `Being proficient in all of these is clearly impossible, but I would strongly encourage you to develop a conceptual understanding of their function and what role they play in the overall data analysis picture`.
+- I can almost guarantee you that there will come a time when you realize a great opportunity by developing a new skill in one of them. Also, `keep abreast of the top trends in data and analytics`.
+- Building and maintaining this knowledge base will help with your overall understanding of the many different aspects of data analysis as well as keep you relevant in an ever-evolving field. `Remember, stay curious!` 
+
 -------------------------
 
 # 5 Reasons Why Every Data Scientist Should Consider Freelancing
@@ -327,42 +363,6 @@ There are plenty of data formats which far fewer people know how to work with �
 Most everything in the world can be viewed as data, and thus embodies a potential avenue for the field of data science to explore. It’s therefore unfortunate that we often neglect potentially exciting areas of study in favor of the comfort provided by rows and columns of numbers.  </br>
 
 It’s a simple case of supply and demand. Not enough people know how to deal with the immense supply of unorthodox data — become one of them, and you’ll be in high demand.
-
-----------------------------
-
-# What I Look For in Every Data Analyst Candidate
-(From the Perspective of a Hiring Manager)
-
-## 1. Focus Your Technical Skillset
-- Many who are new to the data analysis workforce, tend to present a laundry list of technical skills that they have fair to rudimentary knowledge of in the hopes that it might give them an edge. `This is a mistake`.
-- What matters is that you can `demonstrate the ability to use the skills you have learned in a real-world application`. 
-- For example, if you have spent your time learning how to program in R (the statistical language):
-1. I would want to hear about how you deployed it to answer real-world questions versus just being able to recite a list of functions you could call. 
-2. Describe the question you were seeking to answer from a business perspective and then what functionalities of the tool you used to answer it. 
-- Being able to do this will demonstrate two things to me. First, that you possess the technical skill and `second (and much more importantly), that you understand how to use it within the context of a business`.
-
-## 2. Learn as Much as You Can About the Business You Support
-- As a hiring manager, the `primary trait that I look for (and value the most) is curiosity`. 
-- For data analysts, that `curiosity is demonstrated by their ability to show a true understanding of the business that they are supporting`. 
-- At a high level, can you tell me `what the company does, and how it makes money? What challenges does it have?` The more you can tell me the better. And then, at a more detailed level, `how did the analysis you perform help the company?`
-- For example, if your company was experiencing extreme delays in the shipping of their products and you were tasked with finding the cause:
-1. What was your approach to analyzing this issue? 
-2. Can you describe to me, in detail, what the actual shipping process was? 
-3. And then, based on your understanding of that process, how you structured your analysis and identified the issue? 
-- If you could, I can guarantee you it would set you apart from the majority of data analyst candidates. 
-- The `best data analysts possess a thorough understanding of the business operation that they support`.
-- Don’t just learn how to code or use analytic software by rote, it will be wasted time for a number of reasons.
-- There are plenty of publicly available data sets you can use to create your own data analysis scenarios. I encourage you to take this approach for two reasons. 
-1. The first of course is to learn a technical skill. 
-2. The second (and perhaps more important), `is to find out if this is work that you have an aptitude for and might actually enjoy`.
-- `Becoming a data analyst is a huge commitment`. Take this as an opportunity to sample this role in advance so `you can determine whether or not it is a career path that you truly want to pursue`. 
-- During my time as a data analyst, I `always made it a goal to try and understand the business that I was supporting as well as they did`. I found that by doing this, `I became an incredibly effective data analyst which in turn made me an invaluable team member. It also made my job much more rewarding as I could see, first-hand, the value that I was adding`. I cannot emphasize enough how pivotal taking this approach was to my career.
-
-## 3. Keep Your Technical Knowledge Base Up to Date
-- The technical landscape for data analysis continues to `evolve and grow at light speed as more and more companies recognize` the veritable pot of gold that the ability to gather insights from all of this data represents.
-- (AI, ML, the Cloud, Hadoop clusters, Apache Spark, data lakes, data pipelines, data fabric, data mesh, data visualization, the list goes on and on as new technologies, architectures and analytic approaches continue to come online). `Being proficient in all of these is clearly impossible, but I would strongly encourage you to develop a conceptual understanding of their function and what role they play in the overall data analysis picture`.
-- I can almost guarantee you that there will come a time when you realize a great opportunity by developing a new skill in one of them. Also, `keep abreast of the top trends in data and analytics`.
-- Building and maintaining this knowledge base will help with your overall understanding of the many different aspects of data analysis as well as keep you relevant in an ever-evolving field. `Remember, stay curious!` 
 
 -----------------------
 
