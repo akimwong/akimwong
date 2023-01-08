@@ -362,8 +362,7 @@ It’s a simple case of supply and demand. Not enough people know how to deal wi
 - The technical landscape for data analysis continues to `evolve and grow at light speed as more and more companies recognize` the veritable pot of gold that the ability to gather insights from all of this data represents.
 - (AI, ML, the Cloud, Hadoop clusters, Apache Spark, data lakes, data pipelines, data fabric, data mesh, data visualization, the list goes on and on as new technologies, architectures and analytic approaches continue to come online). `Being proficient in all of these is clearly impossible, but I would strongly encourage you to develop a conceptual understanding of their function and what role they play in the overall data analysis picture`.
 - I can almost guarantee you that there will come a time when you realize a great opportunity by developing a new skill in one of them. Also, `keep abreast of the top trends in data and analytics`.
-- Building and maintaining this knowledge base will help with your overall understanding of the many different aspects of data analysis as well as keep you relevant in an ever-evolving field. `Remember, stay curious!`
-- 
+- Building and maintaining this knowledge base will help with your overall understanding of the many different aspects of data analysis as well as keep you relevant in an ever-evolving field. `Remember, stay curious!` 
 
 
 
