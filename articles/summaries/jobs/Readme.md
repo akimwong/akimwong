@@ -381,9 +381,48 @@ The applications may pass through the black hole called ATS (application trackin
 5.Research well on the standard salary for that role considering the location of your role, your experience level, and any other competing offers you might have — `do not bluff on your salary expectations`.
 6. Apply to a full-time job (the ability to work 40 hours per week) only when you know you’d be able to start ASAP.
 
+## Step 2: Resume Review
+- Once your application is accepted and considered a fit for the open role, the hiring managers and/or recruiters will review your resume to determine who can be called in for an interview and reject the resumes that do not meet the requirements.
 
+### Things to know:
+1. For folks still in school — please include your graduation year and month. Job positions have a timeline by which they need to have the role filled. The acceptance or rejection of a resume becomes easier per your graduation date, saving both the applicant’s and recruiter’s time
+2. Quantify your experience — showcase how you added value to your past roles. Hiring managers want to hear about the skills and qualities you can bring to the table. (I prefer the STAR technique — situation, task, action, the result for showcasing work experience.)
+3. List your experience from most relevant to the least and ideally, the most relevant would be the most recent.
+4. Try to include keywords relevant to your experience rather than irrelevant buzzwords just to impress the ATS.
+5. Writing down certifications and leadership experience can help present your intent to be updated with skills and the initiative to put in extra work.
+6. Get your resume reviewed by peers, mentors, and industry connections over and over again (I’ve seen some of the most basic resumes with the bare minimum of effort developing a data persona, and the same people complaining of not securing job interviews is just unfair).
 
+## Step 3: Initial Screening (phone/video interview)
+- The world changed with the pandemic and so did the traditional face-to-face. 
+- `Virtual interviews have an advantage eliminating the assessment of body language`. However, `everything now depends only on verbal cues`.
 
+### Things to know:
+1. Every response of yours should ideally try to give away a quality of yours as a professional — be it data-related or human behavior.
+2. Interviewers usually take notes when interviewing and as a candidate, you might observe them engaged in your answers. When they stop writing, you’ve probably said enough in the response
+3. `If you are an introvert, practicing your interviews can help a lot. Every candidate who is a good communicator has an advantage as it would allow others and yourself to understand information more accurately and quickly`.
+4. `Prepare at least two questions about the role, team, or company to ask at the end of your interview apart from asking the next steps in the hiring process`.
+5. Many candidates start strong during the interview & fade before the end. `Try to keep your tone upbeat and conversational throughout the interview`.
+
+## Step 4: Second round and beyond — panel or coding
+- This is the round that usually makes or breaks the deal about a candidate getting offered the role.
+- The process usually differs by role, company, and level of expertise needed. Panel rounds are usually a backdrop to get a realistic preview of how candidates perform under stressful, tough conditions. You might also work on a case study at home and present it to a panel or write code during the interview.
+
+### Things to know:
+1. Take time to understand the business.
+2. Be prepared to answer multiple questions on the required skills listed in the job description.
+3. Try to get a solid understanding of who’s in the panel (from their introduction if they are data or business) and cater the answers to everyone’s understanding (except the technical questions of course).
+4. Be ready with multiple examples and anecdotes to use in your answers while explaining your background and experience.
+5. Engage with everyone on the panel, not just the person who’s asking the questions.
+6. Again, prepare good follow-up questions.
+
+## Step 5: Post-interview etiquette (optional)
+- Once you complete your interview, you may want to keep in touch with the interviewer.
+
+### Things to know:
+1. You can always send a Thank You note to your interviewer — brief and professional. This could also be an opportunity to let them know you are working to find answers to a question you might not have known about.
+2. Never stop your job search process or quit your job as you advance in the hiring process. The future is unpredictable for a reason.
+3. Avoid posting anything about the company or interview on social media while you’re in the process (unless you had the most terrible experience of interviewing with that company or got scammed).
+4. If you were referred by a current employee and you get called for an interview and also end up with the job offer, never forget to thank the person (for they trusted you before anyone else).
 
 
 
