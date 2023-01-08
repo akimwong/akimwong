@@ -169,6 +169,7 @@
 
 ### Jobs
 - [How to Get Your Resume Noticed (And Out of the Trash Bin) (SMRY)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [What I Look For in Every Data Analyst Candidate (SMRY)(DL)](https://towardsdatascience.com/what-i-look-for-in-every-data-analyst-candidate-7d05c52bb19e)
 - [5 Reasons Why Every Data Scientist Should Consider Freelancing (SMRY)](https://towardsdatascience.com/5-reasons-why-every-data-scientist-should-consider-freelancing-42ad24fad3e)
 - [How to Use Your LinkedIn Profile to Power a Career Transition (SMRY)](https://hbr.org/2015/05/how-to-use-your-linkedin-profile-to-power-a-career-transition?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [From a Hiring Manager’s Perspective: What I Was Looking for in a Junior Data Scientist Role During the Interview (SMRY)](https://towardsdatascience.com/from-a-hiring-managers-perspective-what-i-was-looking-for-in-a-junior-data-scientist-role-during-18fe3579c6bd)
@@ -177,7 +178,6 @@
 - [5 Things in Your Resume That Are Keeping You from Getting Your First Job in Data Science (SMRY)(DL)](https://towardsdatascience.com/5-things-in-your-resume-that-are-keeping-you-from-getting-your-first-job-in-data-science-1a4d474ff3e4)
 - [Building a Data Science Team (SMRY)(DL)](https://towardsdatascience.com/building-a-data-science-team-d03f854e63b4)
 - [3 Underappreciated Skills to Make You A Next-Level Data Scientist (SMRY)(DL)](https://towardsdatascience.com/3-underappreciated-skills-to-make-you-a-next-level-data-scientist-6b5236770651)
-- [What I Look For in Every Data Analyst Candidate (SMRY)(DL)](https://towardsdatascience.com/what-i-look-for-in-every-data-analyst-candidate-7d05c52bb19e)
 - [How Are Data Analysts Hired Today? All You Need To Know (SMRY)(DL)](https://towardsdatascience.com/how-are-data-analysts-hired-today-all-you-need-to-know-874f42cea97f)
 - [How to find the right Machine Learning team (SMRY)(DL)](https://towardsdatascience.com/how-to-find-the-right-machine-learning-team-97a4b56fbbb7)
 - [My Data Science Job Search (DL)](https://towardsdatascience.com/my-data-science-job-search-6deb4117e7b5)
