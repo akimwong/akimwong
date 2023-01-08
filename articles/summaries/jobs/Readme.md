@@ -495,10 +495,50 @@ When looking for your next (or first) ML team, always keep these 3 questions in 
 - Lastly, just as roles and titles change over time, so will your own preferences.
 - Always remember, `this is your career, and if you don’t look out for your own best interests no one else will. Make the choices that get you where you want to be`.
 
+-----------------------
 
+# My Data Science Job Search (DL)
 
+## 1. Find Your Niche
+- Data science is such a versatile tool, that you can almost find any type of company that will be looking to hire someone. 
+- I applied to several jobs that just had a “data science” job title, but many of them early on were with companies that I had no interest in. 
+- My background didn’t align, and my passions didn’t align, and they could tell. 
+- I didn’t get a single call-back from any of them. 
+- The advice here is to `decide what you want to do with your data science career, find your passion, and apply for those kinds of jobs`.
 
+## 2. Resume Tips
+- When I was applying to lots of jobs but not getting many responses. 
+- I revamped my resume, and suddenly I was getting twice as many interviews in a week while applying for fewer jobs. 
+- Here are some specific things that I did:
+2.1. I created a professional website, where I put a career statement, my full CV, and some links to projects and articles I had worked on and written. 
+2.2, On my resume, I included links at the top to my professional website, LinkedIn profile, and Github.
+2.3. Keyword revamp! Hey, your employers for a machine learning/data science position are most likely using ML to sort through resumes. What’s the best way to let them know you’re competent in ML? `Recognize that they’re likely doing keyword searches, and flood your resume with those special keywords like “data science,” “github,” “AWS,” or whatever other skills you have`.
+2.4. Trim the fat. I always kept a little section of the resume called “Additional Skills and Interests” where I mentioned a few hobbies. While this is awesome for the occasional interview where I talk to a fellow marathon runner or musician, it just takes up valuable space and doesn’t contribute anything to the keyword searches. `So take out the fluff. If you’re hired, you’ll get plenty of time to connect over hobbies. If at all possible, keep your resume streamlined`.
 
+## 3. Tracking Your Progress
+- By tracking your applications, you can see what’s working and what’s not, and give yourself some reality if you think you’re doing better or worse than you actually are.
+- I personally tracked everything in an Excel spreadsheet. 
+- I had a column for the company name, position title, and where I’d found the posting (LinkedIn, Indeed, company website, etc.). I had a column for the date that I applied, 5 columns for dates that I interviewed (the most interviews I had to go through was 6), and then an “excitement rating” column and “notes” column. 
+- So when I’d apply to a job, I’d record the basic info so I could track it down if they contacted me for an interview, give it an “excitement rating” on a scale of 1–5, and write the date I applied. 
+- If I had interviews, I would record the dates and any notes on them. Then I wrote some Excel formulas to track how many jobs I applied for, how excited I was for those jobs on average, see how many jobs on average led to an interview, and make plots. 
+- Finally, I put in place a point system. Rather than saying “I will apply for 20 jobs this week,” I made a goal to earn X points.
 
+## 4. Learn Marketable Skills
+- `If you’re only applying to jobs all day, you’ll probably get burned out`. 
+- `Shake things up by working on productive projects and skills, and not only will you find more satisfaction and variety while job searching, but you’ll also gain skills to stand out`. 
+- It’s also a good idea to `practice some coding questions`. 
+- My personal experience is that about a quarter of my interviews had a coding component, but that’s probably unique because I was looking more for jobs that valued the chemical engineering side rather than the coding side.
 
+## 5. The “Dress to Impress” Question
+- Your interviews will all be remote. 
+- You’ll probably read lots of posts saying how you should still dress to impress. 
+- That’s probably sound advice, but my experience is it didn’t matter. 
 
+## 6. Gratitude Journal
+- Everyone gets it: a job search is hard. 
+- If you’re reading this, you’re probably one of the many who didn’t have everything handed to them on a silver platter. Your job search has probably been frustrating. I was certainly there at many times in my job search.
+- A few weeks in, `I decided to write down one thing I was grateful for each day`. Sometimes it was a good interview, sometimes it was a new job posting that I was excited for, and sometimes it was something tongue-in-cheek like “I’m grateful this one company didn’t give me an offer because now I realize it, it would have been a bad fit!” Some days may be super hard to find something to be grateful for, but `there will always be something`. Doing this `helped me keep going through the long process and keep a semblance of sanity`, and if there’s one thing you take from this article, I hope this is it.
+
+## 7. Use Your Connections!
+- So use your professors, use your friends. 
+- It may be scary and you may feel like you’re imposing on their time, but I’m sure you’ll find that they’re not only willing, but eager to help you find a job! 
