@@ -364,6 +364,26 @@ It’s a simple case of supply and demand. Not enough people know how to deal wi
 - I can almost guarantee you that there will come a time when you realize a great opportunity by developing a new skill in one of them. Also, `keep abreast of the top trends in data and analytics`.
 - Building and maintaining this knowledge base will help with your overall understanding of the many different aspects of data analysis as well as keep you relevant in an ever-evolving field. `Remember, stay curious!` 
 
+-----------------------
+
+# How Are Data Analysts Hired Today? All You Need To Know
+(An insider’s insights on the hiring process and industry demands)
+
+## Step 1: The application
+- Any hiring process starts with a candidate submitting an application and conveying an interest in the position. 
+The applications may pass through the black hole called ATS (application tracking system) and/or are screened by recruiters based on the role description and job requirements
+
+### Things to know:
+1. An application is considered a good fit only when the candidate `meets most (if not all) of the required qualifications` and is better recommended if they have the preferred qualifications as well.
+2. You `must include anything & everything you’d want the hiring manager to know` on your application that you missed out on your resume — a gap in your resume, `the value you added in your previous role`, etc.
+3. Indicate clearly if you’re open to relocation (if the role is not remote).
+4. If you know someone at the company personally, definitely ask them to put in a referral for you before you apply for the role but that does not guarantee you an interview. The referral is merely a certificate of trust in your ability to be a fit for the role.
+5.Research well on the standard salary for that role considering the location of your role, your experience level, and any other competing offers you might have — `do not bluff on your salary expectations`.
+6. Apply to a full-time job (the ability to work 40 hours per week) only when you know you’d be able to start ASAP.
+
+
+
+
 
 
 
