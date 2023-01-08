@@ -180,7 +180,7 @@
 - [3 Underappreciated Skills to Make You A Next-Level Data Scientist (SMRY)(DL)](https://towardsdatascience.com/3-underappreciated-skills-to-make-you-a-next-level-data-scientist-6b5236770651)
 - [How Are Data Analysts Hired Today? All You Need To Know (SMRY)(DL)](https://towardsdatascience.com/how-are-data-analysts-hired-today-all-you-need-to-know-874f42cea97f)
 - [How to find the right Machine Learning team (SMRY)(DL)](https://towardsdatascience.com/how-to-find-the-right-machine-learning-team-97a4b56fbbb7)
-- [My Data Science Job Search (DL)](https://towardsdatascience.com/my-data-science-job-search-6deb4117e7b5)
+- [My Data Science Job Search (SMRY)(DL)](https://towardsdatascience.com/my-data-science-job-search-6deb4117e7b5)
 - [The Three Trending Data Science Jobs and How to Land Them (DL)](https://opendatascience.com/the-three-trending-data-science-jobs-and-how-to-land-them/)
 - [How to Create a Professional Portfolio on GitHub That Will Help Land Your First Job in Data Science (DL)](https://towardsdatascience.com/how-to-create-a-professional-portfolio-on-github-that-will-help-land-your-first-job-in-data-science-e1fc8bd7a797)
 - [3 aspects that make Data Scientists think about moving on to greener pastures](https://towardsdatascience.com/what-makes-data-scientists-resign-77600516d0a8)
