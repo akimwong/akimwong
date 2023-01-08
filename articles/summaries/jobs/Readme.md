@@ -17,6 +17,8 @@
 - Metrics are essential to telling the story of previous successes. 
 - So keep track of any quantifiable milestones you’re hitting in your current role, project, or internship
 
+-------------------------
+
 # 5 Reasons Why Every Data Scientist Should Consider Freelancing
 
 #### 1.Work on New Problems
@@ -39,6 +41,8 @@
 - I’ve worked with ER doctors, special forces operators, clinicians, business people, and researchers with so many different backgrounds and experiences.
 - These connections have truly enriched how I see the world.
 
+--------------------
+
 # How to Use Your LinkedIn Profile to Power a Career Transition
 - It’s tempting to create an “everything under the sink” profile that makes you look qualified for both the job you have and the one you want or for a variety of new functions, industries, or roles. But that’ll just confuse your readers and send them running—to others’ LinkedIn pages.
 - Instead, focus your profile on your new career direction, just as you’ve tailored your resume to specific jobs. In both cases, you highlight your most relevant experiences and minimize or omit the rest.
@@ -58,6 +62,8 @@
 6. IMAGES AND MEDIA SHAPES:
 - Use images and media samples to draw attention to your most impressive accomplishments. 
 - Add them only to the positions you want your new profile readers to focus on.
+
+---------------------------
 
 # From a Hiring Manager’s Perspective: What I Was Looking for in a Junior Data Scientist Role During the Interview
 - I want to see that they are intelligent and able to communicate effectively.
@@ -94,6 +100,8 @@ Is important for a data scientist to have a strong understanding of data science
 
 While technical skills are important, soft skills are just as critical for data scientists. In order to be successful in the data science marketplace, you have to stand out from the rest by demonstrating that you can communicate effectively with other team members, work independently, and be motivated to learn new things.
 
+------------------------
+
 # Prepare Your CV for a Data Science Job
 
 ### In my first access
@@ -118,6 +126,8 @@ While technical skills are important, soft skills are just as critical for data 
 -	Make sure the position of the title in the work experience section is aligned with the Company and the time worked there. Apply proper margins. In the end, we are humans, we read organized things, not messy. If your CV is not organized, I would assume that you won’t be organized in your position, so unless the hiring manager relates to that, you won’t be easily taken into account.
 -	Don’t write that you are single or even your birth date. We base the decisions on your qualifications, so avoid anything extra that could bias the decision.
 -	Send your CV in PDF, not .docx. You don’t know the platform we are using to open it, and if it’s not pdf it’s possible we don’t see it as beautiful as you did it.
+
+------------------------------------------
 
 # Top Mistakes to Avoid in Your 2022 Data Science Job Search
 Three of the most common mistakes made during data science job searches include:
@@ -148,6 +158,8 @@ a. Don’t spend too much time worrying about what you don’t know, instead spe
 b. Steady improvement will lead to a solid foundation for your abilities as a data scientist and lead to more successful outcomes from interviews. 
 - If you realize you have a knowledge gap, and you know there’s a way to help you gain the knowledge and fill the gap, then simply take action rather than wasting time over-analyzing. Remember that you’ll never regret any investment in yourself.
 
+---------------------------------
+
 # 5 Things in Your Resume That Are Keeping You from Getting Your First Job in Data Science
 
 ### 1. Skill-level bars to indicate skill proficiency
@@ -175,6 +187,8 @@ b. Steady improvement will lead to a solid foundation for your abilities as a da
 - Make a point of working on personal research projects every so often to show recruiters that you are always looking to improve your skills and learn something new.
 - Each new project doesn’t have to be huge, but it should integrate some new technology, algorithm, or thought process to tackle a real-world problem. Each project should be described in your resume using a short sentence that captures the advancement of your skillset and the problem you set out to solve.
 - Adding links to your project repository or portfolio is a great way to give recruiters a hands-on look at your work.
+
+----------------------------
 
 # Building a Data Science Team
 
@@ -276,6 +290,7 @@ There are a lot of data science projects out there, and it can be tough to decid
 - Take into account the resources you have available. Do you have the time and budget to dedicate to this project?
 - Lastly, don’t forget to have some fun! Data science is supposed to be enjoyable, so pick projects that seem interesting and exciting to you and your team.
 
+-----------------------------
 
 # 3 Underappreciated Skills to Make You A Next-Level Data Scientist
 
@@ -312,6 +327,14 @@ There are plenty of data formats which far fewer people know how to work with �
 Most everything in the world can be viewed as data, and thus embodies a potential avenue for the field of data science to explore. It’s therefore unfortunate that we often neglect potentially exciting areas of study in favor of the comfort provided by rows and columns of numbers.  </br>
 
 It’s a simple case of supply and demand. Not enough people know how to deal with the immense supply of unorthodox data — become one of them, and you’ll be in high demand.
+
+----------------------------
+
+# What I Look For in Every Data Analyst Candidate
+(From the Perspective of a Hiring Manager)
+
+## 1. Focus Your Technical Skillset
+- Many who are new to the data analysis workforce, tend to present a laundry list of technical skills that they have fair to rudimentary knowledge of in the hopes that it might give them an edge. `This is a mistake`.
 
 
 
