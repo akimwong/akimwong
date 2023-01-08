@@ -335,7 +335,11 @@ It’s a simple case of supply and demand. Not enough people know how to deal wi
 
 ## 1. Focus Your Technical Skillset
 - Many who are new to the data analysis workforce, tend to present a laundry list of technical skills that they have fair to rudimentary knowledge of in the hopes that it might give them an edge. `This is a mistake`.
-
+- What matters is that you can demonstrate the ability to use the skills you have learned in a real-world application. 
+- For example, if you have spent your time learning how to program in R (the statistical language):
+1. I would want to hear about how you deployed it to answer real-world questions versus just being able to recite a list of functions you could call. 
+2. Describe the question you were seeking to answer from a business perspective and then what functionalities of the tool you used to answer it. 
+- Being able to do this will demonstrate two things to me. First, that you possess the technical skill and second (and much more importantly), that you understand how to use it within the context of a business.
 
 
 
