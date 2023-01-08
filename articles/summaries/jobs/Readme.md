@@ -497,7 +497,7 @@ When looking for your next (or first) ML team, always keep these 3 questions in 
 
 -----------------------
 
-# My Data Science Job Search (DL)
+# My Data Science Job Search
 
 ## 1. Find Your Niche
 - Data science is such a versatile tool, that you can almost find any type of company that will be looking to hire someone. 
