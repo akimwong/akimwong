@@ -436,22 +436,64 @@ The applications may pass through the black hole called ATS (application trackin
 ## 1. what kind of ML team are they?
 - In a matured tech company (not necessarily in startups though), you’ll typically find 3 types of ML teams, infra, applied, and research:
 
-### A. Infra ML Teams
+### 1.1. Infra ML Teams
 - Build services for model development that they serve to other teams via APIs or UIs. 
 - One team may own a modeling service, another team a feature engineering service, another team an inference service, and so on
-- ML infra teams work on problems such as:
+- ML infra teams work on problems such as: <br/>
 A. Scalability: how can we scale our services to the entire suite of ML models owned by the company? <br/>
 B. Efficiency: how can we reduce the computational cost of training and serving our models? <br/>
 C. Integration: how can we integrate the model predictions with the product? How do we handle error cases where the model inference call fails? <br/>
 D. Automation and abstraction: how can we automate and abstract away most of the heavy lifting around model development? How can we build user-friendly self-service tools such that even non-technical business partners can build and deploy their own models? <br/>
 
+### 1.2. Applied ML teams design
+- Develop, test, deploy, and iteratively improve ML models that solve concrete business problems, using tools owned by ML infra teams where suitable. 
+- These teams work on problems such as: <br/>
+A. Faming: how can we frame a business problem as an ML problem? <br/>
+B. Data and feature discovery: what data do we need to solve this problem? How do we get the right labels, and make sure they are reliable? What features do we need, and what’s the coverage of these features? <br/>
+C. Experimentation and A/B testing: which model works best for our use-case? <br/>
+D. Continuous improvement: how often should we re-train the model? How can we improve the next model version with more features, more labeled data, better sampling, or a better model architecture? <br/>
+
+### 1.3. ML research teams 
+- Invent new algorithms or model architectures, with the main goal of publishing their findings in academic journals and conferences. 
+- They’re the birthplace of innovations such as the ADAM optimizer, the attention mechanism, or particular model architectures such as AlexNet or BERT. 
+- Most of ML research never finds its way into production, but when it does, it can create a paradigm shift with massive performance gains. 
+- Research teams work on problems such as: <br/>
+A. How can we beat the latest state-of-the-art on a public benchmark dataset?
+B. What are the empirical scaling laws that describe the behavior of large neural networks?
+C. Why does deep learning work in the first place, and what are its limitations?
+D. How exactly does fine-tuning of a large language model work?
+
+- Choose a team that aligns best with the kind of ML work that you want to do.
+- Avoid pin factories, where model developers build model artifacts and hand these over to engineers for deployment. 
+- This is frustrating for everyone because it introduces communication overhead, slows down iteration cycles, and creates unclear ownership and finger-pointing when things break in production.
 
 ## 2.	what’s the skill gap?
 
+- There’s never going to be a role for which you have all the required skills. 
+- Instead, there will always be a gap between your personal set of skills and those that define the role.
+- This introduces a trade-off: if the skill gap is large, you’ll learn more, but it will take you longer to ramp up. 
+- If the skill gap is small, you learn less, but you’ll ramp up faster and make contributions sooner.
 
-
+- Choose a role with a skill gap that’s small enough that you feel confident to be able to make contributions within a reasonable amount of time, but avoid roles in which there’s really nothing new for you to learn.
+- 
 ## 3.	what do they own and who are their customers?
 
+- Every team should be owning something, and they should have customers. In particular, <br/>
+3.1. Infra ML teams own services, and their customers are either other infra ML teams or applied ML teams, <br/>
+3.2. Applied ML teams own models, and their customers are the users of the company’s apps and websites, <br/>
+3.3. Research ML teams own research domains, and their customers are mostly other research teams, and in rare cases, if an innovation is practical enough to productize, infra and applied ML teams. <br/>
+
+- Be careful about teams that either don’t own anything directly or own something but have no customers.
+
+## 4. Final thoughts
+When looking for your next (or first) ML team, always keep these 3 questions in mind: <br/>
+
+4.1. what kind of ML team are they? Infra, applied, or research? <br/>
+4.2. what’s the skill gap, and are you comfortable with that? Are there new things for you to learn? <br/>
+4.3. what do they own and who are their customers? If they don’t own anything, how do they create impact? If they don’t have customers, why are they needed? <br/>
+
+- Lastly, just as roles and titles change over time, so will your own preferences.
+- Always remember, `this is your career, and if you don’t look out for your own best interests no one else will. Make the choices that get you where you want to be`.
 
 
 
