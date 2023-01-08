@@ -424,6 +424,34 @@ The applications may pass through the black hole called ATS (application trackin
 3. Avoid posting anything about the company or interview on social media while you’re in the process (unless you had the most terrible experience of interviewing with that company or got scammed).
 4. If you were referred by a current employee and you get called for an interview and also end up with the job offer, never forget to thank the person (for they trusted you before anyone else).
 
+---------------------
+
+# How to find the right Machine Learning team
+(Questions you should ask and red flags you should avoid)
+
+- As Machine Learning professional, navigating the diverse landscape of ML roles within the industry can be confusing. 
+- Job titles are usually not a big help because they change depending on the company and also depending on the organization within a company. 
+- In order to navigate the job market and find potential roles for yourself, you therefore need to have a list of probing question.
+
+## 1. what kind of ML team are they?
+- In a matured tech company (not necessarily in startups though), you’ll typically find 3 types of ML teams, infra, applied, and research:
+
+### A. Infra ML Teams
+- Build services for model development that they serve to other teams via APIs or UIs. 
+- One team may own a modeling service, another team a feature engineering service, another team an inference service, and so on
+- ML infra teams work on problems such as:
+A. Scalability: how can we scale our services to the entire suite of ML models owned by the company? <br/>
+B. Efficiency: how can we reduce the computational cost of training and serving our models? <br/>
+C. Integration: how can we integrate the model predictions with the product? How do we handle error cases where the model inference call fails? <br/>
+D. Automation and abstraction: how can we automate and abstract away most of the heavy lifting around model development? How can we build user-friendly self-service tools such that even non-technical business partners can build and deploy their own models? <br/>
+
+
+## 2.	what’s the skill gap?
+
+
+
+## 3.	what do they own and who are their customers?
+
 
 
 
