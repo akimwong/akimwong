@@ -165,7 +165,7 @@
 
 ## 10. And finally, take a break
 - The tech industry is notorious for its intensity. 
-- It’s easy to fall into a pattern which focuses on working and bettering yourself 24/7, all the while forgetting what life is truly about. 
+- It’s easy to fall into a pattern which focuses on `working and bettering yourself 24/7, all the while forgetting what life is truly about`. 
 - `You want to do data science to make the world a better place, right? Then start with yourself`. 
 - `If you overwork yourself, you’ll become bitter — at everyone and everything. When that happens, it’ll be hard to remember why you started in the first place`.
 - Trust me — I’ve been there. It’s a place better left unseen.
