@@ -115,6 +115,6 @@
 
 ## 2. Commit to learning one specific, new skill
 - There are two advantages to expanding your skill set beyond your current comfort zone: <br/>
-2.1.	You’ll become a more diverse data scientist. <br/>
-2.2.	You’ll become a more unique data scientist. <br/>
-- And both of these advantages will lead to an even one: companies will want you, and they’ll want you bad.
+2.1.	You’ll become a `more diverse data scientist`. <br/>
+2.2.	You’ll become a `more unique data scientist`. <br/>
+- And `both of these advantages will lead to an even one: companies will want you`, and they’ll want you bad.
