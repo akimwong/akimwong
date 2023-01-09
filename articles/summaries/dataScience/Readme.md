@@ -153,3 +153,21 @@
 - Since I have a penchant toward the data science sub-field of visualization, I’ll `use it as an example here. Consider this example as a microcosm for all of data science`.
 - When most folks hear the words “data visualization,” they think of line charts or bar graphs, perhaps even a histogram if they’re feeling adventurous.  
 - This is an extremely limited view. `What’s the point of data visualization?` It’s meant to `take data that is in some hard-to-interpret form` — be it numerical, textual, or otherwise, `and represent it in a visual way that’s easy to understand`. It can be anything that takes such data and applies a visual transformation to it.
+- Don’t get `hung up on textbook definitions of “data science”. Successful data science requires imagination and cleverness.  Broaden your perspective`.
+
+## 9. Write an article
+- `One of the best ways to learn something is to teach it`.
+- Every time I write an article about some technical data science topic, I come out of it with a deeper understanding than I previously had. That’s simply the nature of writing. 
+- `Being forced to articulate a concept clearly requires me to understand it deeply`. 
+- On top of that, motivated by the fear of misleading others, I’ll often research the topic and review it with various resources first, adding even further to my own learning.
+- Is it often time-consuming and intimidating? Yes. But is it well worth it? Most definitely.
+- Give it a shot — you never know what you might learn.
+
+## 10. And finally, take a break
+- The tech industry is notorious for its intensity. 
+- It’s easy to fall into a pattern which focuses on working and bettering yourself 24/7, all the while forgetting what life is truly about. 
+- `You want to do data science to make the world a better place, right? Then start with yourself`. 
+- `If you overwork yourself, you’ll become bitter — at everyone and everything. When that happens, it’ll be hard to remember why you started in the first place`.
+- Trust me — I’ve been there. It’s a place better left unseen.
+- So `be kind to yourself, take a breath, and maybe worry about that data set after a nice tropical vacation`.
+
