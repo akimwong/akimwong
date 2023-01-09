@@ -102,3 +102,19 @@
 - Data science competitions are a good idea to acquire the right skills and also to get an idea of the data science environment and even acquire development skills.
 - But `if you think that by only participating in hackathons, and creating projects in competitions, you can help you become a data science expert then this is not true`. 
 - `You will improve and add value to your resume, so that you can showcase your work and what kind of results you have achieved, but if you really want to be an expert you need to work on some realistic use cases or a production-level application`. For this reason, `it is advisable that freshmen are directed toward a good internship`.
+
+------------------
+
+# 10 Simple Things You Can Do to Improve Your Data Science Skills in 2023
+(Here’s to making this next year productive, satisfying, and all-around beneficial)
+
+## 1. Sign up for an online class
+- Data science is an ever-changing field. As a result, you need to stay on top of your game.
+- If you’re unwilling to keep up with and learn the latest technologies, you’ll be quickly left behind in `an industry that waits for no one`.
+- So please, sign up for an online class, go through a detailed YouTube tutorial, learn a new technique on Kaggle, do SOMETHING.
+
+## 2. Commit to learning one specific, new skill
+- There are two advantages to expanding your skill set beyond your current comfort zone:
+2.1.	You’ll become a more diverse data scientist.
+2.2.	You’ll become a more unique data scientist.
+- And both of these advantages will lead to an even one: companies will want you, and they’ll want you bad.
