@@ -85,3 +85,20 @@
 - Both are required to become good data scientists. In order to become a good data scientist, you cannot just rely on programming or any specific tool you think is being used in data science. If you are a good expert in both stuff, you are likely to become a good data scientist. 
 - As data scientists, `we have to interact with multiple stakeholders when working on complex data problems`, and we must work directly with the business to gather all the requirements. 
 - `Understanding the data domain, why we are processing it, what insights we can gain from the transform data, how to solve it, and what is relevant and what is irrelevant, are all necessary for this data science domain. Don’t think that only technical stuff or any specific tool like a language or a database is just enough to crack the data science profile. You need to use your non-technical skills and soft skills as your support system to become a good data scientist`.
+
+## Myth 8. Companies are not hiring freshers for the data science role
+- Freshers nowadays are self-aware and self-motivated, and they are very interested in exploring fields such as data science, and data engineering. 
+- Instead of depending on others, they are putting their own effort into exploring these positions. 
+- They are also taking participation actively in competitions in hackathons open source contributions and trying to build cool projects on their own. 
+- That’s how they are able to acquire the right skill sets for the data science profile and also amazing dev skills. 
+- That’s why now companies are preferring freshers to join them to cope with the vacancies in data science roles.
+
+## Myth 9. Transitioning into data science domain is impossible from the different job profile
+- If you come from a data-related background, let’s say you worked as a data engineer, data analyst, or business analyst then this transition will be easy for you because you already know about the data and how to work with it different tools and tech frameworks. 
+- On the other hand, if you are coming from a different job profile as a testing profile or a software engineering profile then transitioning into data science will be challenging but not impossible. 
+- `You need to work on a skill set you need to acquire and then work on some realistic projects that can help you in acquire new capabilities and develop your interest in the data science domain to understand how you really can add value to the company as a data scientist`.
+
+## Myth 10. Data Science competitions are going to make you an Expert
+- Data science competitions are a good idea to acquire the right skills and also to get an idea of the data science environment and even acquire development skills.
+- But `if you think that by only participating in hackathons, and creating projects in competitions, you can help you become a data science expert then this is not true`. 
+- `You will improve and add value to your resume, so that you can showcase your work and what kind of results you have achieved, but if you really want to be an expert you need to work on some realistic use cases or a production-level application`. For this reason, `it is advisable that freshmen are directed toward a good internship`.
