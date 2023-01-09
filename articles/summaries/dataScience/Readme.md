@@ -109,7 +109,7 @@
 (Here’s to making this next year productive, satisfying, and all-around beneficial)
 
 ## 1. Sign up for an online class
-- Data science is an ever-changing field. As a result, you need to stay on top of your game.
+- `Data science is an ever-changing field`. As a result, you need to stay on top of your game.
 - If you’re unwilling to keep up with and learn the latest technologies, you’ll be quickly left behind in `an industry that waits for no one`.
 - So please, sign up for an online class, go through a detailed YouTube tutorial, learn a new technique on Kaggle, do SOMETHING.
 
@@ -118,3 +118,38 @@
 2.1.	You’ll become a `more diverse data scientist`. <br/>
 2.2.	You’ll become a `more unique data scientist`. <br/>
 - And `both of these advantages will lead to an even one: companies will want you`, and they’ll want you bad.
+
+## 3. Teach someone, anyone, that machine learning isn’t magic
+- A growing number of people have started to view machine learning as some kind of magical black box that can do anything.
+- I don’t mean to burst your bubble, but machine learning is just a bunch of spreadsheets and complex mathematical equations. 
+- It’s powerful, `but it’s only as good as the data`, and it can result in some pretty terrible results (think discriminatory facial recognition algorithms or self-driving cars that hit people) if your data isn’t up to par.
+
+## 4. If you don’t know Pandas, learn it
+- And if you do, learn something new about it.
+- Pandas is one of the most powerful tools out there for data processing, manipulation, and analysis. It’s so well-established that more specialized modules are designed to work with its primary data storage method, the DataFrame: <br/>
+4.1. Scikit-learn for machine learning <br/>
+4.2. Altair for visualization <br/>
+4.3. SciPy for scientific computing <br/>
+- Developers and researchers are also consistently developing tools built on top of Pandas to make it even better. 
+
+## 5. Learn a thing or two about qualitative research
+- If you’re overly attached to your code and numbers (like myself), consider learning a thing or two about qualitative research.
+- Good data science requires a bit of both.
+
+## 6. Learn to design a user study
+- `Blind trust in technology can be foolish and dangerous`. 
+- As a result, good data science is becoming more human-centered.
+- Whether you’re designing a new model, algorithm, or visualization, it is essential to test it to determine practical usability and ensure proper ethics. 
+- However, running a proper, rigorous user study is no walk in the park. It involves careful design, a working knowledge of statistics, and the ability to put into practice what you learn.
+
+## 7. `Work on a personal project
+- Assuming you’re applying for an industry-based technical position, projects should be one of the most prominent sections on your resume.
+- Employers aren’t nearly as concerned about where you’ve worked or what your degree is in as they are about what you can do. 
+- Even when reading about your experience, all they’re really looking for are the details of your accomplishments at those respective jobs.
+- Not only will building a personal project contribute to your resume — it’ll also help you hone your data science skills.
+- It’s a win-win situation.`
+
+## 8. Expand your view of data science
+- Since I have a penchant toward the data science sub-field of visualization, I’ll `use it as an example here. Consider this example as a microcosm for all of data science`.
+- When most folks hear the words “data visualization,” they think of line charts or bar graphs, perhaps even a histogram if they’re feeling adventurous.  
+- This is an extremely limited view. `What’s the point of data visualization?` It’s meant to `take data that is in some hard-to-interpret form` — be it numerical, textual, or otherwise, `and represent it in a visual way that’s easy to understand`. It can be anything that takes such data and applies a visual transformation to it.
