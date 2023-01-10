@@ -167,6 +167,7 @@
 - [It’s the Data That Should Surprise You, Not the P-Values (DL)](https://towardsdatascience.com/its-the-data-that-should-surprise-you-not-the-p-values-79fce3963d35)
 - [Rejection Region in Hypothesis Testing_DScTutorials (DL)](https://datasciencetut.com/rejection-region-in-hypothesis-testing/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 - [Don’t Throw Away Your Outliers! (DL)](https://towardsdatascience.com/dont-throw-away-your-outliers-c37e1ab0ce19)
+- [What I learned after running AB tests for one year as a data scientist — Part 1/2 (DL)](https://towardsdatascience.com/what-i-learned-after-running-ab-tests-for-one-year-as-a-data-scientist-part-1-2-5277911e89ec)
 
 ### Jobs
 - [How to Get Your Resume Noticed (And Out of the Trash Bin) (SMRY)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
