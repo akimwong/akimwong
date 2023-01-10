@@ -231,6 +231,7 @@
 - [Learning Docker, the Easy Way (DL)](https://towardsdatascience.com/learning-docker-the-easy-way-52b7bdec5e86)
 - [6 Reasons Why Companies Fail at Data Governance (DL)](https://towardsdatascience.com/6-reasons-why-companies-fail-at-data-governance-6d13fdeda570)
 - [What Is Survival Analysis? Examples by Hand and in R (DL)](https://towardsdatascience.com/what-is-survival-analysis-examples-by-hand-and-in-r-3f0870c3203f)
+- [What Inspires You as a Data Scientist? (DL)](https://towardsdatascience.com/what-inspires-you-as-a-data-scientist-ee43e922cae2)
 
 
 
