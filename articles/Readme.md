@@ -110,6 +110,7 @@
 - [Machine Learning Explainability vs Interpretability: Two concepts that could help restore trust in AI_KdNuggets](https://www.kdnuggets.com/2018/12/machine-learning-explainability-interpretability-ai.html)
 - [Find Your Machine Learning Tribe_MlMastery](https://machinelearningmastery.com/machine-learning-tribe/)
 - [All Machine Learning Algorithms You Should Know for 2023 (DL)](https://towardsdatascience.com/all-machine-learning-algorithms-you-should-know-for-2023-843dba11419c)
+- [Building a Basic Machine Learning Model in Python (DL)](https://towardsdatascience.com/building-a-basic-machine-learning-model-in-python-d7cca929ee62)
 
 ### Decission Making
 - [Types of Algorithms in Decision Making_SanwouoBrell](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
