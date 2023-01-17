@@ -218,6 +218,7 @@
 - [20 Data Science Interview Questions for a Beginner_ThinkDataAnalytics](https://www.thinkdataanalytics.com/data-science-interview-questions/)
 - [A 5-Step Checklist to Preparing for Data Science Job Interviews Outside of Academia (DL)](https://towardsdatascience.com/a-5-step-checklist-to-preparing-for-data-science-job-interviews-outside-of-academia-67f9d77e64)
 - [Cracking Statistics Interviews for Data Scientists (DL)](https://towardsdatascience.com/cracking-statistics-interviews-for-data-scientists-711a63bcb375)
+- [7 A/B Testing Questions and Answers in Data Science Interviews (DL)](https://towardsdatascience.com/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63)
 
 ### Other
 - [Data engineering failure — Why is it almost impossible to meet deadlines? (DL)](https://towardsdatascience.com/data-engineering-failure-why-is-it-almost-impossible-to-meet-deadlines-fc1b5b5aa90)
