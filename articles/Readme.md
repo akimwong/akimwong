@@ -196,6 +196,7 @@
 - [Gestiona tu entrevista de trabajo en videoconferencia_LinkedIn](https://www.linkedin.com/feed/update/urn:li:lyndaVideo:(urn:li:lyndaCourse:2841606,2387125)/)
 - [Interview Questions_SQL_ML_DL_Programing_BigData_Cloud_Statistics_BI_Testing](https://intellipaat.com/blog/interview-questions/)
 - [Questions to Help You Practice for Your Data Science Interview (SMRY)(DL)](https://towardsdatascience.com/questions-to-help-you-practice-for-your-data-science-interview-c619ab6db70b)
+- [Study Tips for Data Science Interview Preparation (DL)](https://pub.towardsai.net/study-tips-for-data-science-interview-preparation-bac74dae903a)
 - [Python Practice Questions for Coding Interviews](https://amankharwal.medium.com/python-practice-questions-for-beginners-268fcdfb14e6)
 - [Ace your Machine Learning Interview — Part 5 - Kernel SVM (DL)](https://towardsdatascience.com/ace-your-machine-learning-interview-part-5-3de48703cd65)
 - [Ace your Machine Learning Interview — Part 8 - AdaBoost (DL)](https://towardsdatascience.com/ace-your-machine-learning-interview-part-8-a9b94b8ed468)
