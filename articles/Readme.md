@@ -83,6 +83,7 @@
 - [18 Data Science Project Ideas for Beginners (DL)](https://towardsdatascience.com/19-data-science-project-ideas-for-beginners-3de3db9bf830)
 
 ### Machine Learning
+- [The Art of Machine Learning Experimentation (SMRY)(DL)](https://towardsdatascience.com/how-to-run-machine-learning-experiments-that-really-matter-2ba0a88bc579)
 - [The 7 Best Practices to Move Your Machine Learning Projects into Production Faster Using Python (DL)](https://towardsdatascience.com/the-7-best-practices-to-move-your-machine-learning-projects-into-production-faster-using-python-72bff93216af)
 - [Maturity of Machine Learning Systems (DL)](https://towardsdatascience.com/maturity-of-machine-learning-systems-358bab34bf69)
 - [The Machine Learning cheatsheet_GitHub](https://github.com/remicnrd/ml_cheatsheet)
@@ -110,7 +111,6 @@
 - [Find Your Machine Learning Tribe_MlMastery](https://machinelearningmastery.com/machine-learning-tribe/)
 - [All Machine Learning Algorithms You Should Know for 2023 (DL)](https://towardsdatascience.com/all-machine-learning-algorithms-you-should-know-for-2023-843dba11419c)
 - [Building a Basic Machine Learning Model in Python (DL)](https://towardsdatascience.com/building-a-basic-machine-learning-model-in-python-d7cca929ee62)
-- [The Art of Machine Learning Experimentation (DL)](https://towardsdatascience.com/how-to-run-machine-learning-experiments-that-really-matter-2ba0a88bc579)
 
 ### Decission Making
 - [Types of Algorithms in Decision Making_SanwouoBrell](https://twitter.com/SanwouoBrell/status/1588217434607001602/photo/1)
