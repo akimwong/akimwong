@@ -1,4 +1,4 @@
-#The Art of Machine Learning Experimentation
+# The Art of Machine Learning Experimentation
 (5 simple strategies to help you get the most out of your ML experiments)
 
 - I’m talking about what happens before and after the experiment is done. 
@@ -60,6 +60,11 @@
 - `The reality is that the problems we tackle in ML production are oftentimes much different from the problems studied in ML research`.
 - `The antidote to “shiny new thing” bias is, once again, to rigorously follow the scientific method and formulate clear hypotheses prior to running any experiments`.
 
+## 5. Avoid experiment purgatory
+- The outcome of an experiment can be either positive (we confirm the hypothesis) or negative (we reject it), and either outcome is equally valuable.
+- Positive outcomes improve our production models and hence our business metrics, while negative outcomes narrow down our search space.
+- Too many times I’ve seen peers stuck in “experiment purgatory”: the experimental outcome was negative (the idea didn’t work), yet instead of wrapping up and moving on, they kept trying different modifications of the original idea, perhaps because of organizational pressure, perhaps because of “sunk cost” bias, or who knows why.
+- Experiment purgatory `prevents you from moving on to other, more fruitful ideas`. `Accept that negative experimental results are simply part of the process, and move on when you need to`. It’s how an empirical science is supposed to progress.
 
 
 
