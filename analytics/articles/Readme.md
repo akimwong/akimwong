@@ -8,3 +8,4 @@
 - [Problems in Research: Quantitative & Qualitative Methods](https://classroom.synonym.com/problems-research-quantitative-qualitative-methods-4418.html)
 - [Diagnostic analytics — how to conduct a root-cause analysis (DL)](https://towardsdatascience.com/diagnostic-analytics-how-to-conduct-a-root-cause-analysis-4e92583cf008)
 - [How to use a risk assessment matrix: A free template and guide_TechTarget](https://www.techtarget.com/searchdisasterrecovery/feature/How-to-use-a-risk-assessment-matrix-A-free-template-and-guide)
+- [The Art of Solving Any Data Science Problem — Simple Tips For A Better Outcome (DL)](https://towardsdatascience.com/the-art-of-solving-any-data-science-problem-simple-tips-for-a-better-outcome-b9d4a484166e)
