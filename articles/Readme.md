@@ -223,6 +223,7 @@
 - [7 A/B Testing Questions and Answers in Data Science Interviews (DL)](https://towardsdatascience.com/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63)
 
 ### Other
+- [Machine learning versus data science – demystifying the scene_THq](https://techhq.com/2022/12/machine-learning-versus-data-science-demystifying-the-scene/)
 - [Data engineering failure — Why is it almost impossible to meet deadlines? (DL)](https://towardsdatascience.com/data-engineering-failure-why-is-it-almost-impossible-to-meet-deadlines-fc1b5b5aa90)
 - [What is dbt (data build tool) (DL)](https://towardsdatascience.com/dbt-55b35c974533)
 - [River: Online Machine Learning in Python (DL)](https://towardsdatascience.com/river-online-machine-learning-in-python-d0f048120e46)
