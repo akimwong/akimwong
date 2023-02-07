@@ -14,6 +14,6 @@
 - When talking about `machine learning versus data science, having humans in the loop can be a big value-add`. 
 - `Computers are great at digesting billions of data points, but they lack creativity. However, pair the two and you have a powerful combination`.
 
-## Conclusion
-### Machine learning: Tends to refer to the use of a set of statistical algorithms to extract features from data and make predictions. 
-### Data science: Is the broad skill set required to make the most out of machine learning, bringing human curiosity and creativity to bear.
+## In Conclusion
+#### Machine learning: Tends to refer to the use of a set of statistical algorithms to extract features from data and make predictions. 
+#### Data science: Is the broad skill set required to make the most out of machine learning, bringing human curiosity and creativity to bear.
