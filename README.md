@@ -1,7 +1,7 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, my name is Carlos Wong,<br/>
-I am focused on adding business value through data.
+I am focused on the ways to add business value through data.
 
 <!--
 I am focused on the continuous developing of an [analytical mind](analytics/) with the help of data science tools, to solve business problems and to try to forecast the future. />
