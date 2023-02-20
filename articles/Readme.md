@@ -240,6 +240,7 @@
 - [What Is Survival Analysis? Examples by Hand and in R (DL)](https://towardsdatascience.com/what-is-survival-analysis-examples-by-hand-and-in-r-3f0870c3203f)
 - [What Inspires You as a Data Scientist? (DL)](https://towardsdatascience.com/what-inspires-you-as-a-data-scientist-ee43e922cae2)
 - [From Vague to Value — Data Practitioner Insights (DL)](https://towardsdatascience.com/from-vague-to-value-data-science-analytics-practitioner-insights-fed92a4bda08)
+- [A Day in the Life of a Senior Data Scientist](https://towardsdatascience.com/a-day-in-the-life-of-a-senior-data-scientist-e8b7a4866667)
 
 
 
