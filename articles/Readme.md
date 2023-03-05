@@ -243,6 +243,7 @@
 - [From Vague to Value — Data Practitioner Insights (DL)](https://towardsdatascience.com/from-vague-to-value-data-science-analytics-practitioner-insights-fed92a4bda08)
 - [A Day in the Life of a Senior Data Scientist (DL)](https://towardsdatascience.com/a-day-in-the-life-of-a-senior-data-scientist-e8b7a4866667)
 - [Data Science in Small and Big Companies (DL)](https://towardsdatascience.com/data-science-in-small-and-big-companies-5cb32be1491a)
+- [Introduction to PyTorch (DL)](https://towardsdatascience.com/introduction-to-pytorch-e0235570a080)
 
 
 
