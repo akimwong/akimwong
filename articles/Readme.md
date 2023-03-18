@@ -130,6 +130,7 @@
 - [Data Analyst Skills You Need for Your Next Promotion (DL)](https://towardsdatascience.com/data-analyst-skills-you-need-for-your-next-promotion-479275b80bad)
 - [Key Data And Analytics Trends To Watch In 2023 (DL)](https://www.forbes.com/sites/forbestechcouncil/2022/12/15/key-data-and-analytics-trends-to-watch-in-2023/?utm_campaign=Social%20Member%20Articles&utm_content=231910178&utm_medium=social&utm_source=twitter&hss_channel=tw-3291010518&sh=281bad6a629b)
 - [The One Page Data and Analytics Templates (DL)](https://towardsdatascience.com/the-one-page-data-and-analytics-templates-f53b949be84)
+- [How To Be a Good Data Analyst Without Good Data (DL)](https://megandibble.medium.com/how-to-be-a-good-data-analyst-without-good-data-e4459f2e8585)
 
 ### Cheat Sheets
 - [Machine Learning/Data Science Interview](https://drive.google.com/file/d/1nbNWs_DyfG0YGMs3DjIaXrD7ytSnsSJ7/view?_hsenc=p2ANqtz-__AJFM3JfYyM2d8eVGHe6P2SttQ0ktDpiHs3q_PNS788VbINkFeJhSGet2jPmtnyECvyjZ&hss_channel=tw-1318985240)
