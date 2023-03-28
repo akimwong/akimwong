@@ -176,6 +176,9 @@
 - [What I learned after running AB tests for one year as a data scientist — Part 1/2 (DL)](https://towardsdatascience.com/what-i-learned-after-running-ab-tests-for-one-year-as-a-data-scientist-part-1-2-5277911e89ec)
 - [Mastering P-values in Machine Learning (DL)](https://towardsdatascience.com/mastering-p-values-in-machine-learning-bdc5bd0dd8ae)
 
+### AI
+- [6 Characteristics of Companies That are Successfully Building AI (ODSC)](https://opendatascience.com/6-characteristics-of-companies-that-are-successfully-building-ai/?utm_campaign=Learning%20Posts&utm_content=241911984&utm_medium=social&utm_source=twitter&hss_channel=tw-3018841323)
+
 ### Jobs
 - [How to Get Your Resume Noticed (And Out of the Trash Bin) (SMRY)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [What I Look For in Every Data Analyst Candidate (SMRY)(DL)](https://towardsdatascience.com/what-i-look-for-in-every-data-analyst-candidate-7d05c52bb19e)
