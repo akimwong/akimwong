@@ -199,7 +199,7 @@
 - [Creating a Cover Letter Generator Using Python and GPT-3 (DL)](https://towardsdatascience.com/creating-a-cover-letter-generator-using-python-and-gpt-3-297a6b2a3886)
 - [How to Land a Senior Data Scientist Position_KdNuggets](https://www.kdnuggets.com/2022/12/land-senior-data-scientist-position.html)
 - [How Can an Aspiring Data Scientist Find and Work on Real-World Projects? (DL)](https://towardsdatascience.com/how-can-an-aspiring-data-scientist-find-and-work-on-real-world-projects-48bed91af008)
-
+- [What Stops You From Getting Your First Data Science Job? (DL)](https://towardsdatascience.com/what-stops-you-from-getting-your-first-data-science-job-ccf93e4187d4)
 
 ### Interviews
 - [Gestiona tu entrevista de trabajo en videoconferencia_LinkedIn](https://www.linkedin.com/feed/update/urn:li:lyndaVideo:(urn:li:lyndaCourse:2841606,2387125)/)
