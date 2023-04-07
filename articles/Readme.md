@@ -85,6 +85,7 @@
 - [Data Science for Small Business Growth_365DataScience](https://365datascience.com/trending/data-science-for-small-business-growth/?utm_medium=social&utm_source=twitter&utm_campaign=tw-data-science-small-business-link&utm_content=tw-data-science-small-business-link&utm_term=link)
 - [18 Data Science Project Ideas for Beginners (DL)](https://towardsdatascience.com/19-data-science-project-ideas-for-beginners-3de3db9bf830)
 - [Hiring Exceptional Data Scientists (DL)](https://towardsdatascience.com/hiring-exceptional-data-scientists-c454110742f)
+- [Three Ways to Gain Data Science Experience in a Non-Data Science Job (DL)](https://towardsdatascience.com/3-ways-to-gain-experience-in-data-science-even-in-a-non-data-science-job-d1fa01496721)
 
 ### Machine Learning
 - [The Art of Machine Learning Experimentation (SMRY)(DL)](https://towardsdatascience.com/how-to-run-machine-learning-experiments-that-really-matter-2ba0a88bc579)
