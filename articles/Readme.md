@@ -19,6 +19,7 @@
 - [Make Learning a Part of Your Daily Routine (DL)](https://hbr.org/2021/11/make-learning-a-part-of-your-daily-routine?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [Understanding the Power of Intrinsic Motivation (DL)](https://hbr.org/2023/03/understand-the-power-of-intrinsic-motivation?utm_medium=social&utm_source=linkedin&utm_campaign=ascend)
 - [How to Demonstrate Your Strategic Thinking Skills (DL)](https://hbr.org/2019/09/how-to-demonstrate-your-strategic-thinking-skills?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [How You Define the Problem Determines Whether You Solve It  (DL)](https://hbr.org/2017/06/how-you-define-the-problem-determines-whether-you-solve-it?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 
 ### Coding
 - [How to Write Good Code Documentation for Data Scientists (SMRY)(DL)](https://towardsdatascience.com/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)
