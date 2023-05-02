@@ -264,6 +264,7 @@
 - [Introduction to PyTorch (DL)](https://towardsdatascience.com/introduction-to-pytorch-e0235570a080)
 - [What is Event Sourcing Design Pattern in Microservice Architecture? How does it work? (DL)](https://medium.com/javarevisited/what-is-event-sourcing-design-pattern-in-microservices-architecture-how-does-it-work-b38c996d445a)
 - [From Jupyter Notebook to Deployment — A Straightforward Example (DL)](https://towardsdatascience.com/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437)
+- [How To Create High-Performance Data Products? (DL)](https://towardsdatascience.com/how-to-create-high-performance-data-products-717ff3a47d38)
 
 
 
