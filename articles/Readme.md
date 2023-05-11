@@ -47,6 +47,7 @@
 - [Picking Examples to Understand Machine Learning Model_KdNuggets](https://www.kdnuggets.com/2022/11/picking-examples-understand-machine-learning-model.html)
 - [Telling a Great Data Story: A Visualization Decision Tree_KdNuggets](https://www.kdnuggets.com/2021/02/telling-great-data-story-visualization-decision-tree.html)
 - [Machine Learning Explainability vs Interpretability: Two concepts that could help restore trust in AI_KdNuggets](https://www.kdnuggets.com/2018/12/machine-learning-explainability-interpretability-ai.html)
+- [Storytelling with Charts (DL)](https://towardsdatascience.com/storytelling-with-charts-c59c52c49871)
 
 
 ### Data science
