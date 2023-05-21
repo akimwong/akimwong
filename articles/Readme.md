@@ -189,6 +189,7 @@
 - [Mastering P-values in Machine Learning (DL)](https://towardsdatascience.com/mastering-p-values-in-machine-learning-bdc5bd0dd8ae)
 
 ### AI
+- [Prompt Engineering Guide (DL)](https://towardsdatascience.com/prompt-engineering-guide-for-data-analysts-54f480ba4d98)
 - [6 Characteristics of Companies That are Successfully Building AI (ODSC)](https://opendatascience.com/6-characteristics-of-companies-that-are-successfully-building-ai/?utm_campaign=Learning%20Posts&utm_content=241911984&utm_medium=social&utm_source=twitter&hss_channel=tw-3018841323)
 - [How to Use ChatGPT to Improve Your Data Science Skills_Kduggets](https://www.kdnuggets.com/2023/03/chatgpt-improve-data-science-skills.html)
 - [The Emerging Art of Prompt Engineering (DL)](https://towardsdatascience.com/the-emerging-art-of-prompt-engineering-b86fa70de6ca)
