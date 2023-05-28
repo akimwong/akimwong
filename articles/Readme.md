@@ -24,6 +24,7 @@
 - [5 Strategies for Getting More Work Done in Less Time (DL)](https://hbr.org/2019/01/5-strategies-for-getting-more-work-done-in-less-time?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [The Surprising Power of Questions (DL)](https://hbr.org/2018/05/the-surprising-power-of-questions?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [5 Mental Mistakes That Kill Your Productivity (DL)](https://hbr.org/2019/11/5-mental-mistakes-that-kill-your-productivity?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [6 Steps to Make Your Strategic Plan Really Strategic (DL)](https://hbr.org/2018/08/6-steps-to-make-your-strategic-plan-really-strategic?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 
 ### Coding
 - [How to Write Good Code Documentation for Data Scientists (SMRY)(DL)](https://towardsdatascience.com/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)
