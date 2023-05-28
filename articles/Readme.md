@@ -25,6 +25,7 @@
 - [The Surprising Power of Questions (DL)](https://hbr.org/2018/05/the-surprising-power-of-questions?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [5 Mental Mistakes That Kill Your Productivity (DL)](https://hbr.org/2019/11/5-mental-mistakes-that-kill-your-productivity?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [6 Steps to Make Your Strategic Plan Really Strategic (DL)](https://hbr.org/2018/08/6-steps-to-make-your-strategic-plan-really-strategic?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
+- [How to Solve Problems (DL)](https://hbr.org/2021/10/how-to-solve-problems)
 
 ### Coding
 - [How to Write Clean Code – Tips and Best Practices (Full Handbook)_freeCodeCamp (DL)](https://www.freecodecamp.org/news/how-to-write-clean-code/)
