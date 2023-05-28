@@ -27,6 +27,7 @@
 - [6 Steps to Make Your Strategic Plan Really Strategic (DL)](https://hbr.org/2018/08/6-steps-to-make-your-strategic-plan-really-strategic?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 
 ### Coding
+- [How to Write Clean Code – Tips and Best Practices_freeCodeCamp (DL)](https://www.freecodecamp.org/news/how-to-write-clean-code/)
 - [How to Write Good Code Documentation for Data Scientists (SMRY)(DL)](https://towardsdatascience.com/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)
 - [Good Data Scientists Write Good Code (SMRY)(DL)](https://towardsdatascience.com/good-data-scientists-write-good-code-28352a826d1f)
 - [3 Powerful Reasons You Should Plan Your Python Code Before You Write It (DL)](https://towardsdatascience.com/3-powerful-reasons-you-should-plan-your-python-code-before-you-write-it-dcedd4b3bf28)
