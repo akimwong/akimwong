@@ -27,6 +27,7 @@
 - [6 Steps to Make Your Strategic Plan Really Strategic (DL)](https://hbr.org/2018/08/6-steps-to-make-your-strategic-plan-really-strategic?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [How to Solve Problems (DL)](https://hbr.org/2021/10/how-to-solve-problems)
 - [When to Give Employees Access to Data and Analytics (DL)](https://hbr.org/2023/05/when-to-give-employees-access-to-data-and-analytics?tpcc=orgsocial_edit&utm_campaign=hbr&utm_medium=social&utm_source=twitter)
+- [4 Habits of People Who Are Always Learning New Skills (DL)](https://hbr.org/2018/01/4-habits-of-people-who-are-always-learning-new-skills?language=es)
 
 ### Coding
 - [How to Write Clean Code – Tips and Best Practices (Full Handbook)_freeCodeCamp (DL)](https://www.freecodecamp.org/news/how-to-write-clean-code/)
