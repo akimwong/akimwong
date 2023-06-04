@@ -43,6 +43,7 @@
 - [5 Mistakes to Avoid When First Learning to Program (DL)](https://towardsdatascience.com/5-mistakes-to-avoid-when-first-learning-to-program-431dc1fa190a)
 - [Data scientist’s guide to efficient coding in Python (DL)](https://towardsdatascience.com/data-scientists-guide-to-efficient-coding-in-python-670c78a7bf79)
 - [This Quick and Easy 7-Step Checklist Will Help You Write Better Python Code for Data Science (DL)](https://towardsdatascience.com/this-quick-and-easy-7-step-checklist-will-help-you-write-better-python-code-for-data-science-62f1a1f4b20c)
+- [How to Organize Your Code with Functions_FreeCodeCamp](https://www.freecodecamp.org/news/organizing-code-with-functions/)
 
 ### Storytelling
 - [8 Tips for Creating a Compelling Presentation for Data Science (SMRY)(DL)](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0)
