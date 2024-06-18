@@ -30,6 +30,7 @@
 - [4 Habits of People Who Are Always Learning New Skills (DL)](https://hbr.org/2018/01/4-habits-of-people-who-are-always-learning-new-skills?language=es)
 - [What Great Data Analysts Do — and Why Every Organization Needs Them (DL)](https://hbr.org/2018/12/what-great-data-analysts-do-and-why-every-organization-needs-them)
 - [5 Barriers to Career Change5_and How to Overcome Them](https://hbr.org/2023/12/5-barriers-to-career-change-and-how-to-overcome-them?tpcc=orgsocial_edit&utm_campaign=hbr&utm_medium=social&utm_source=twitter)
+- [The Art of Asking Smarter Questions](https://hbr.org/2024/05/the-art-of-asking-smarter-questions?ab=HP-hero-for-you-text-1)
 
 ### Coding
 - [How to Write Clean Code – Tips and Best Practices (Full Handbook)_freeCodeCamp (DL)](https://www.freecodecamp.org/news/how-to-write-clean-code/)
