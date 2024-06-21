@@ -62,6 +62,7 @@
 
 
 ### Data science
+- [How to Maximize Your Impact as a Data Scientist (DL)](https://towardsdatascience.com/how-to-maximize-your-impact-as-a-data-scientist-3881995a9cb1)
 - [Understanding the Business: The Data Science Skill We Don’t Talk About Enough (SMRY)(DL)](https://towardsdatascience.com/the-data-science-skill-no-one-talks-about-57d5d3e9f9d)
 - [How to Set Yourself Up For Success As a New Data Science Consultant With No Experience (SMRY)(DL)](https://towardsdatascience.com/how-to-set-yourself-up-for-success-as-a-new-data-science-consultant-with-no-experience-a0a94fc4710f)
 - [Top 10 Data Science Myths Busted (SMRY)(DL)](https://medium.com/codex/top-10-data-science-myths-busted-268e47d49d38)
