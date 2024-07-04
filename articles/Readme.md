@@ -3,6 +3,7 @@
 ### HBR
 - [How Companies Think About Data (DL)](https://hbr.org/2023/10/how-companies-think-about-data)
 - [Why Becoming a Data-Driven Organization Is So Hard (DL)](https://hbr.org/2022/02/why-becoming-a-data-driven-organization-is-so-hard)
+- [How to Master a New Skill (DL)](https://hbr.org/2012/11/how-to-master-a-new-skill?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [How to Build Expertise in a New Field (DL)](https://hbr.org/2015/04/how-to-build-expertise-in-a-new-field?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [5 Concepts That Will Help Your Team Be More Data-Driven (DL)](https://hbr.org/2018/11/5-concepts-that-will-help-your-team-be-more-data-driven?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
 - [How You Define the Problem Determines Whether You Solve It (DL)](https://hbr.org/2017/06/how-you-define-the-problem-determines-whether-you-solve-it?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
