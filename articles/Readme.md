@@ -60,7 +60,8 @@
 - [Telling a Great Data Story: A Visualization Decision Tree_KdNuggets](https://www.kdnuggets.com/2021/02/telling-great-data-story-visualization-decision-tree.html)
 - [Machine Learning Explainability vs Interpretability: Two concepts that could help restore trust in AI_KdNuggets](https://www.kdnuggets.com/2018/12/machine-learning-explainability-interpretability-ai.html)
 - [Storytelling with Charts (DL)](https://towardsdatascience.com/storytelling-with-charts-c59c52c49871)
-
+- [The Ultimate Guide to Making Sense of Data (DL)](https://towardsdatascience.com/the-ultimate-guide-to-making-sense-of-data-aaa121db1119)
+  
 
 ### Data science
 - [How to Maximize Your Impact as a Data Scientist (DL)](https://towardsdatascience.com/how-to-maximize-your-impact-as-a-data-scientist-3881995a9cb1)
