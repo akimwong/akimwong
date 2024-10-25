@@ -209,6 +209,7 @@
 - [The Emerging Art of Prompt Engineering (DL)](https://towardsdatascience.com/the-emerging-art-of-prompt-engineering-b86fa70de6ca)
 - [AI Is Eating Your Algorithms (DL)](https://towardsdatascience.com/ai-is-eating-your-algorithms-2e79d2c3a421)
 - [How AI Can Change the Way Your Company Gets Work Done (DL)](https://hbr.org/2024/07/how-ai-can-change-the-way-your-company-gets-work-done?tpcc=orgsocial_edit&utm_campaign=hbr&utm_medium=social&utm_source=twitter)
+- [What Makes a True AI Agent? Rethinking the Pursuit of Autonomy (DL)]([https://hbr.org/2024/07/how-ai-can-change-the-way-your-company-gets-work-done?tpcc=orgsocial_edit&utm_campaign=hbr&utm_medium=social&utm_source=twitter](https://towardsdatascience.com/what-makes-a-true-ai-agent-rethinking-the-pursuit-of-autonomy-547ab54f4995)
 
 ### Jobs
 - [How to Get Your Resume Noticed (And Out of the Trash Bin) (SMRY)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
