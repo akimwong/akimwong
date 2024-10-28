@@ -158,6 +158,7 @@
 - [The One Page Data and Analytics Templates (DL)](https://towardsdatascience.com/the-one-page-data-and-analytics-templates-f53b949be84)
 - [How To Be a Good Data Analyst Without Good Data (DL)](https://megandibble.medium.com/how-to-be-a-good-data-analyst-without-good-data-e4459f2e8585)
 - [How to Stand Out as a Data Analyst: Focus on These 5 Key Themes (DL)](https://towardsdatascience.com/how-to-stand-out-as-a-data-analyst-focus-on-these-5-key-themes-f50edd644ed3)
+- [Mastering Dashboard Design: From Good to Unmissable Data Visualizations (DL)](https://medium.com/@tjdus92422/mastering-dashboard-design-from-good-to-unmissable-data-visualizations-e3a1b5ee108a)
 
 ### Cheat Sheets
 - [Machine Learning/Data Science Interview](https://drive.google.com/file/d/1nbNWs_DyfG0YGMs3DjIaXrD7ytSnsSJ7/view?_hsenc=p2ANqtz-__AJFM3JfYyM2d8eVGHe6P2SttQ0ktDpiHs3q_PNS788VbINkFeJhSGet2jPmtnyECvyjZ&hss_channel=tw-1318985240)
