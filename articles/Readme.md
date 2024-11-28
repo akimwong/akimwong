@@ -214,6 +214,7 @@
 - [Exploring the AI Alignment Problem with Gridworlds (DL)](https://towardsdatascience.com/exploring-the-ai-alignment-problem-with-gridworlds-2683f2f5af38)
 - [AI Agents: The Intersection of Tool Calling and Reasoning in Generative AI (DL)](https://towardsdatascience.com/ai-agents-the-intersection-of-tool-calling-and-reasoning-in-generative-ai-ff268eece443)
 - [The AI Developer’s Dilemma: Proprietary AI vs. Open Source Ecosystem (DL)](https://towardsdatascience.com/the-ai-developers-dilemma-proprietary-ai-vs-open-source-ecosystem-453ac735b760)
+- [Agentic Mesh — Principles for an Autonomous Agent Ecosystem (DL)](https://towardsdatascience.com/agentic-mesh-the-future-of-generative-ai-enabled-autonomous-agent-ecosystems-d6a11381c979)
 
 ### Jobs
 - [How to Get Your Resume Noticed (And Out of the Trash Bin) (SMRY)](https://hbr.org/2020/09/how-to-get-your-resume-noticed-and-out-of-the-trash-bin?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit)
