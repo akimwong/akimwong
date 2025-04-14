@@ -21,6 +21,7 @@ I am focused on the continuous developing of an [analytical mind](analytics/) wi
 <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysqlwb" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.tableau.com" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tableau.svg" alt="tableau" width="40" height="40"/> </a>
+<a href="https://www.tableau.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" alt="Tableau" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/mongodb-js/leaf/blob/master/mongodb-leaf.svg" alt="mongodb" width="40" height="40"/>
 <!--
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/mongodb-js/leaf/blob/master/mongodb-leaf.svg" alt="mongodb" width="40" height="40"/>
